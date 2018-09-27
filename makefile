@@ -7,7 +7,7 @@ clean:
 	rm -rf html latex
 
 PA5:
-	gcc $(CFLAGS) example.c -o PA5
+	g++ $(CFLAGS) PA5.cpp -o PA5
 
 docs:
 	doxygen
