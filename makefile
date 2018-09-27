@@ -4,6 +4,7 @@ all: PA5
 
 clean:
 	rm -f *.o PA5
+	rm -f PA5.d*
 	rm -rf html latex
 
 PA5:
