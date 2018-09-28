@@ -1,6 +1,8 @@
 #include <iostream>
 #include "game.h"
 #include "config.h"
+#include "ant.h"
+#include "doodlebug.h"
 
 Game* initGame(Config &config) {
 	int gridArea = config.getGridSize() * config.getGridSize();
@@ -32,7 +34,7 @@ Game* initGame(Config &config) {
 			for(int k = 0; k < config.getInitAnts(); k++) {
 				if(antPos[k] == counter) {
 					if(!db) {
-						board[i][j] = new Ant();
+						board[i][j] = new Ant(i, j);
 						continue;
 					} else {
 						antPos[k]++;
