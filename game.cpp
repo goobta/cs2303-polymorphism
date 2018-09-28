@@ -3,6 +3,7 @@
 #include "config.h"
 #include "ant.h"
 #include "doodlebug.h"
+#include "organism.h"
 
 Game* initGame(Config &config) {
 	int gridArea = config.getGridSize() * config.getGridSize();
@@ -50,10 +51,28 @@ Game* initGame(Config &config) {
 		}
 	}
 
-	return new Game(*board);
+	return new Game(*board, config);
 }
 
-Game::Game(Organism** b) {
+Game::Game(Organism** b, Config &conf) {
 	board = b;
+	config = conf;
 	turn = 0;
+}
+
+void Game::printGame() {
+	for(int i = 0; i < config.getGridSize(); i++) {
+		for(int j = 0; j < config.getGridSize(); j++) {
+			if(&board[i][j] == NULL) {
+				std::cout << " ";
+			} else if(board[i][j].isPrey()) {
+				std::cout << "o";
+			} else {
+				std::cout << "x";
+			}
+		}
+		std::cout << std::endl;
+	}
+
+	std::cout << std::endl;
 }
