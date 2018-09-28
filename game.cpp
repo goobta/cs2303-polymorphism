@@ -1,0 +1,50 @@
+#include <iostream>
+#include "game.h"
+#include "config.h"
+
+Game* initGame(Config &config) {
+	int gridArea = config.getGridSize() * config.getGridSize();
+
+	int antPos[config.getInitAnts()] = {};
+	for(int i = 0; i < config.getInitAnts(); i++) {
+		antPos[i] = rand() % gridArea;
+	}
+
+	int dbPos[config.getInitDoodleBugs()] = {};
+	for(int i = 0; i < config.getInitDoodleBugs(); i++) {
+		dbPos[i] = rand() % gridArea;
+	}
+
+	Organism* board[config.getGridSize()][config.getGridSize()] = {};
+
+	int counter = 0;
+	for(int i = 0; i < config.getGridSize(); i++) {
+		for(int j = 0; j < config.getGridSize(); j++) {
+			bool db = false;
+
+			for(int k = 0; k < config.getInitDoodleBugs(); k++) {
+				if(dbPos[k] == counter) {
+					board[i][j] = new DoodleBug();
+					db = true;
+				}
+			}
+
+			for(int k = 0; k < config.getInitAnts(); k++) {
+				if(antPos[k] == counter) {
+					if(!db) {
+						board[i][j] = new Ant();
+						continue;
+					} else {
+						antPos[k]++;
+					}
+				}
+			}
+
+			if(!db) {
+				board[i][j] = NULL;
+			}
+
+			counter++;
+		}
+	}
+}
