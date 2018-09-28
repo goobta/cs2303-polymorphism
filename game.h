@@ -8,6 +8,7 @@ class Game {
 		Organism** board;
 		int turn;
 	public:
+		Game(Organism** b);
 		Organism** getBoard();
 		int step();
 		void deleteNode(int x, int y);

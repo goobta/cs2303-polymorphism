@@ -49,4 +49,11 @@ Game* initGame(Config &config) {
 			counter++;
 		}
 	}
+
+	return new Game(*board);
+}
+
+Game::Game(Organism** b) {
+	board = b;
+	turn = 0;
 }
