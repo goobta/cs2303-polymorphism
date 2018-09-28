@@ -63,6 +63,7 @@ Game::Game(Organism** b, Config &conf) {
 void Game::printGame() {
 	for(int i = 0; i < config.getGridSize(); i++) {
 		for(int j = 0; j < config.getGridSize(); j++) {
+			std::cout << i << " " << j << std::endl;
 			if(&board[i][j] == NULL) {
 				std::cout << " ";
 			} else if(board[i][j].isPrey()) {
