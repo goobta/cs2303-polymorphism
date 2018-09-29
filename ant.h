@@ -14,8 +14,8 @@ class Ant: public Organism {
 		Ant(int x, int y);
 	//	void step();
 		bool isPrey();
-	//	int getX();
-	//	int getY();
+		int getX();
+		int getY();
 	//	~Ant();
 };
 

@@ -4,9 +4,9 @@
 #include "organism.h"
 
 class DoodleBug: public Organism {
-	//private:
-	//	int timeSteps;
-	//	int hungerSteps();
+	private:
+		int timeSteps;
+		int hungerSteps;
 		int x;
 		int y;
 	//	void breed();
@@ -16,8 +16,8 @@ class DoodleBug: public Organism {
 		DoodleBug(int x, int y);
 	//	void step();
 		bool isPrey();
-	//	int getX();
-	//	int getY();
+		int getX();
+		int getY();
 	//	~DoodleBug();
 };
 
