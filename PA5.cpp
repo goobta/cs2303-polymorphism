@@ -1,5 +1,6 @@
 #include <iostream>
 #include "config.h"
+#include "game.h"
 
 int getUserInput(int argc, char **argv, Config &conf) {
 	if (argc < 7) {
@@ -44,13 +45,8 @@ int main(int argc, char **argv) {
 			<< std::endl;
 	}
 
-	std::cout << config->getGridSize() << std::endl;
-	std::cout << config->getInitDoodleBugs() << std::endl;
-	std::cout << config->getInitAnts() << std::endl;
-	std::cout << config->getTimeSteps() << std::endl;
-	std::cout << config->getSeed() << std::endl;
-	std::cout << config->getPause() << std::endl;
-
+	Game* g = initGame(*config);
+	g->printGame();
 
 	return 0;
 }
