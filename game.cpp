@@ -18,7 +18,7 @@ Game* initGame(Config &config) {
 		dbPos[i] = rand() % gridArea;
 	}
 
-	Organism* board[config.getGridSize()][config.getGridSize()] = {};
+	Organism** board = new Organism*[config.getGridSize()];
 
 	int counter = 0;
 	for(int i = 0; i < config.getGridSize(); i++) {
