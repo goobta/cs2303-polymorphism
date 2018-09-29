@@ -21,6 +21,7 @@ Game* initGame(Config &config) {
 	}
 
 	Organism*** board = new Organism**[config.getGridSize()];
+	Game* game = new Game(board, config);
 
 	int counter = 0;
 	for(int i = 0; i < config.getGridSize(); i++) {
@@ -40,7 +41,7 @@ Game* initGame(Config &config) {
 			for(int k = 0; k < config.getInitAnts(); k++) {
 				if(antPos[k] == counter) {
 					if(!db) {
-						board[i][j] = new Ant(i, j);
+						board[i][j] = new Ant(i, j, game);
 					} else {
 						antPos[k]++;
 					}
@@ -51,7 +52,7 @@ Game* initGame(Config &config) {
 		}
 	}
 
-	return new Game(board, config);
+	return game;
 }
 
 Game::Game(Organism*** b, Config &conf) {
@@ -96,4 +97,7 @@ int Game::step() {
 	}
 
 	return totalDoodlebugs + totalAnts == 0;
+}
+
+bool Game::isEmpty(int x, int y) {
 }

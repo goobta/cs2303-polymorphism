@@ -7,7 +7,7 @@ class Organism {
 	protected:
 		void generateId();
 	public:
-		void step();
+		virtual void step();
 		virtual bool isPrey();
 		long int getId();
 		virtual int getX();

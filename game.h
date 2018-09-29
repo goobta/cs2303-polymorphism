@@ -15,12 +15,16 @@ class Game {
 		int activeDoodlebugs;
 	public:
 		Game(Organism*** b, Config &conf);
-		Organism*** getBoard();
 		int step();
+
+		Organism*** getBoard();
+
 		void deleteNode(int x, int y);
 		void addNode(int x, int y, Organism* o);
 		void moveNode(int x, int y, Organism* o);
 		Organism* getNode(int x, int y);
+		bool isEmpty(int x, int y);
+
 		void printGame();
 };
 

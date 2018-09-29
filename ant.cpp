@@ -1,8 +1,12 @@
+#include <algorithm>
+#include <random>
+#include <iostream>
 #include "ant.h"
 
-Ant::Ant(int startX, int startY) {
+Ant::Ant(int startX, int startY, Game* g) {
 	x = startX;
 	y = startY;
+	game = g;
 	timeSteps = 0;
 	
 	generateId();
@@ -18,4 +22,31 @@ int Ant::getX() {
 
 int Ant::getY() {
 	return y;
+}
+
+void Ant::step() {
+	move();
+	breed();
+}
+
+void Ant::move() {
+	int moves[][2] = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+
+  std::random_device rd;
+  std::mt19937 g(rd());
+
+	std::shuffle(std::begin(moves), std::end(moves), g);
+
+	for(int i = 0; i < 4; i++) {
+		int x_coord = x + moves[i][0];
+		int y_coord = y + moves[i][1];
+
+		if(game->isEmpty(x_coord, y_coord)) {
+			game->moveNode(x_coord, y_coord, this);
+			return;
+		}
+	}
+}
+
+void Ant::breed() {
 }
