@@ -21,7 +21,6 @@ class DoodleBug: public Organism {
 		bool isPrey();
 		int getX();
 		int getY();
-		~DoodleBug();
 };
 
 #endif

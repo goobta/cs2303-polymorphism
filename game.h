@@ -9,11 +9,12 @@ class Game {
 		Organism*** board;
 		Config config;	
 		int turn;
+	public:
 		int totalAnts;
 		int activeAnts;
 		int totalDoodlebugs;
 		int activeDoodlebugs;
-	public:
+
 		Game(Organism*** b, Config &conf);
 		int step();
 
@@ -33,6 +34,7 @@ class Game {
 		void decrementDoodleBugs();
 
 		void printGame();
+		int getTurn();
 };
 
 Game* initGame(Config &config);

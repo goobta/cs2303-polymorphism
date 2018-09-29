@@ -1,4 +1,5 @@
 #include <iostream>
+#include <random>
 #include "config.h"
 #include "game.h"
 
@@ -45,12 +46,35 @@ int main(int argc, char **argv) {
 			<< std::endl;
 	}
 
+	srand(config->getSeed());
 	Game* g = initGame(*config);
 
 	for(int i = 0; i < config->getTimeSteps(); i++) {
 		g->printGame();
 		g->step();
+		std::cout << g->activeAnts << std::endl;
+
+		if(config->getPause()) {
+			std::cout << "Press any key to see the next generation" << std::endl;
+			getchar();
+		}
 	}
+
+	std::cout << "=== SUMMARY ===" << std::endl;
+	std::cout << "Command run: ./PA5" << config->getGridSize() << " "
+						<< config->getInitDoodleBugs() << " "
+						<< config->getInitAnts() << " "
+						<< config->getTimeSteps() << " "
+						<< config->getSeed() << " "
+						<< config->getPause() << std::endl;
+
+	std::cout << "Number of steps: " << g->getTurn() << std::endl;
+	std::cout << "Total number of ants: " << g->totalAnts << std::endl;
+	std::cout << "Active number of ants: " << g->activeAnts << std::endl;
+	std::cout << "Total number of doodlebugs: " << g->totalDoodlebugs << std::endl;
+	std::cout << "Active number of doodlebugs: " << g->activeDoodlebugs << std::endl;
+
+	g->printGame();
 
 	return 0;
 }

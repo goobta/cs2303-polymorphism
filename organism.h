@@ -12,6 +12,8 @@ class Organism {
 		long int getId();
 		virtual int getX();
 		virtual int getY();
+
+		virtual ~Organism();
 };
 
 #endif

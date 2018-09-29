@@ -95,7 +95,8 @@ int Game::step() {
 			}
 		}
 	}
-
+	
+	turn++;
 	return totalDoodlebugs + totalAnts == 0;
 }
 
@@ -119,6 +120,10 @@ void Game::moveNode(int xOld, int yOld, int xNew, int yNew, Organism* o) {
 void Game::incrementAnts() {
 	totalAnts++;
 	activeAnts++;
+
+	if(activeAnts > config.getGridSize() * config.getGridSize()) {
+		activeAnts = config.getGridSize() * config.getGridSize();
+	}
 }
 
 void Game::decrementAnts() {
@@ -145,4 +150,8 @@ bool Game::preyAt(int x, int y) {
 	}
 
 	return board[y][x] != NULL && board[y][x]->isPrey();
+}
+
+int Game::getTurn() {
+	return turn;
 }

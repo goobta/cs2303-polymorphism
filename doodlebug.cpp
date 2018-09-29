@@ -27,8 +27,8 @@ int DoodleBug::getY() {
 
 void DoodleBug::step() {
 	move();
-	breed();
 	starve();
+	breed();
 	
 	timeSteps++;
 	hungerSteps++;
@@ -78,6 +78,7 @@ void DoodleBug::move() {
 		int y_coord = y + moves[i][1];
 
 		if(game->preyAt(x_coord, y_coord)) {
+			game->decrementAnts();
 			game->deleteNode(x_coord, y_coord);
 			game->moveNode(x, y, x_coord, y_coord, this);
 			x = x_coord;

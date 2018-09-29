@@ -25,3 +25,5 @@ int Organism::getY() {
 void Organism::step() {
 	std::cout << "ID: " << getId() << std::endl;
 }
+
+Organism::~Organism() {}
