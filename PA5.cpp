@@ -52,7 +52,6 @@ int main(int argc, char **argv) {
 	for(int i = 0; i < config->getTimeSteps(); i++) {
 		g->printGame();
 		g->step();
-		std::cout << g->activeAnts << std::endl;
 
 		if(config->getPause()) {
 			std::cout << "Press any key to see the next generation" << std::endl;
