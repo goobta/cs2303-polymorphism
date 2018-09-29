@@ -11,12 +11,18 @@ Game* initGame(Config &config) {
 	int antPos[config.getInitAnts()] = {};
 	for(int i = 0; i < config.getInitAnts(); i++) {
 		antPos[i] = rand() % gridArea;
+		std::cout << antPos[i] << " ";
 	}
+
+	std::cout << std::endl;
 
 	int dbPos[config.getInitDoodleBugs()] = {};
 	for(int i = 0; i < config.getInitDoodleBugs(); i++) {
 		dbPos[i] = rand() % gridArea;
+		std::cout << dbPos[i] << " ";
 	}
+
+	std::cout << std::endl;
 
 	Organism*** board = new Organism**[config.getGridSize()];
 
@@ -29,7 +35,7 @@ Game* initGame(Config &config) {
 
 			for(int k = 0; k < config.getInitDoodleBugs(); k++) {
 				if(dbPos[k] == counter) {
-					board[i][j] = new DoodleBug();
+					board[i][j] = new DoodleBug(i, j);
 					db = true;
 				}
 			}
