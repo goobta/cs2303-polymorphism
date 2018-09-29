@@ -6,12 +6,12 @@
 
 class Game {
 	private:
-		Organism** board;
+		Organism*** board;
 		int turn;
 		Config config;
 	public:
-		Game(Organism** b, Config &conf);
-		Organism** getBoard();
+		Game(Organism*** b, Config &conf);
+		Organism*** getBoard();
 		int step();
 		void deleteNode(int x, int y);
 		void addNode(int x, int y, Organism* o);

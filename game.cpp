@@ -18,10 +18,12 @@ Game* initGame(Config &config) {
 		dbPos[i] = rand() % gridArea;
 	}
 
-	Organism** board = new Organism*[config.getGridSize()];
+	Organism*** board = new Organism**[config.getGridSize()];
 
 	int counter = 0;
 	for(int i = 0; i < config.getGridSize(); i++) {
+		board[i] = new Organism*[config.getGridSize()];
+		
 		for(int j = 0; j < config.getGridSize(); j++) {
 			bool db = false;
 
@@ -51,10 +53,10 @@ Game* initGame(Config &config) {
 		}
 	}
 
-	return new Game(*board, config);
+	return new Game(board, config);
 }
 
-Game::Game(Organism** b, Config &conf) {
+Game::Game(Organism*** b, Config &conf) {
 	board = b;
 	config = conf;
 	turn = 0;
@@ -64,9 +66,9 @@ void Game::printGame() {
 	for(int i = 0; i < config.getGridSize(); i++) {
 		for(int j = 0; j < config.getGridSize(); j++) {
 			std::cout << i << " " << j << std::endl;
-			if(&board[i][j] == NULL) {
+			if(board[i][j] == NULL) {
 				std::cout << " ";
-			} else if(board[i][j].isPrey()) {
+			} else if(board[i][j]->isPrey()) {
 				std::cout << "o";
 			} else {
 				std::cout << "x";
