@@ -90,8 +90,9 @@ int Game::step() {
 	for(int i = 0; i < config.getGridSize(); i++) {
 		for(int j = 0; j < config.getGridSize(); j++) {
 			if(board[i][j] != NULL && !processedIds.count(board[i][j]->getId())) {
-				board[i][j]->step();
 				processedIds.insert(board[i][j]->getId());
+				board[i][j]->step();
+				std::cout << "Here" << std::endl;
 			}
 		}
 	}
