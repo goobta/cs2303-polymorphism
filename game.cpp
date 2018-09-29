@@ -33,7 +33,7 @@ Game* initGame(Config &config) {
 			bool db = false;
 			for(int k = 0; k < config.getInitDoodleBugs(); k++) {
 				if(dbPos[k] == counter) {
-					board[i][j] = new DoodleBug(i, j);
+					board[i][j] = new DoodleBug(j, i);
 					db = true;
 				}
 			}
@@ -41,7 +41,7 @@ Game* initGame(Config &config) {
 			for(int k = 0; k < config.getInitAnts(); k++) {
 				if(antPos[k] == counter) {
 					if(!db) {
-						board[i][j] = new Ant(i, j, game);
+						board[i][j] = new Ant(j, i, game);
 					} else {
 						antPos[k]++;
 					}
@@ -100,4 +100,20 @@ int Game::step() {
 }
 
 bool Game::isEmpty(int x, int y) {
+	if(x < 0 || x >= config.getGridSize() || y < 0 || y >= config.getGridSize()) {
+		return 0;
+	}
+
+	return board[y][x] == NULL;
+}
+
+void Game::addNode(int x, int y, Organism* o) {
+	board[y][x] = o;
+}
+
+void Game::moveNode(int xOld, int yOld, int xNew, int yNew, Organism* o) {
+	std::cout << xOld << " " << yOld << " " << xNew << " " << yNew <<std::endl;
+
+	board[yNew][xNew] = o;
+	board[yOld][xOld] = NULL;
 }
