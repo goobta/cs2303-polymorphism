@@ -133,3 +133,8 @@ void Game::incrementDoodleBugs() {
 void Game::decrementDoodleBugs() {
 	activeDoodlebugs--;
 }
+
+void Game::deleteNode(int x, int y) {
+	delete board[y][x];
+	board[y][x] = NULL;
+}

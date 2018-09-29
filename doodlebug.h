@@ -14,7 +14,7 @@ class DoodleBug: public Organism {
 
 		void breed();
 	//	void move();
-	//	void starve();
+		void starve();
 	public:
 		DoodleBug(int x, int y, Game* g);
 		void step();

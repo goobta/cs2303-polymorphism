@@ -28,7 +28,7 @@ int DoodleBug::getY() {
 void DoodleBug::step() {
 	//move();
 	breed();
-	//starve();
+	starve();
 	
 	timeSteps++;
 	hungerSteps++;
@@ -56,4 +56,11 @@ void DoodleBug::breed() {
 			return;
 		}
 	}
+}
+
+void DoodleBug::starve() {
+	if(hungerSteps < 3) return;
+	
+	game->decrementDoodleBugs();
+	game->deleteNode(x, y);
 }
