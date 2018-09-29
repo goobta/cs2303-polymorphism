@@ -33,7 +33,7 @@ Game* initGame(Config &config) {
 			bool db = false;
 			for(int k = 0; k < config.getInitDoodleBugs(); k++) {
 				if(dbPos[k] == counter) {
-					board[i][j] = new DoodleBug(j, i);
+					board[i][j] = new DoodleBug(j, i, game);
 					db = true;
 				}
 			}

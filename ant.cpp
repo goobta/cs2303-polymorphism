@@ -70,7 +70,7 @@ void Ant::breed() {
 			game->addNode(x_coord, y_coord, new Ant(x_coord, y_coord, game));
 			game->incrementAnts();
 
-			timeSteps = 0;
+			timeSteps = -1;
 			return;
 		}
 	}
