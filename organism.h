@@ -2,11 +2,18 @@
 #define ORGANISM_H
 
 class Organism {
+	private:
+		long int id;
+	protected:
+		void generateId();
 	public:
-		//virtual void step();
+		virtual void step();
 		virtual bool isPrey();
-		//virtual int getX();
-		//virtual int getY();
+		long int getId();
+		virtual int getX();
+		virtual int getY();
+
+		virtual ~Organism();
 };
 
 #endif

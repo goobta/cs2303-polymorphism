@@ -2,20 +2,22 @@
 #define ANT_H
 
 #include "organism.h"
+#include "game.h"
 
 class Ant: public Organism {
 	private:
 		int timeSteps;
 		int x;
 		int y;
-// 		void breed();
-//		void move();
+		Game* game;
+ 		void breed();
+		void move();
 	public:
-		Ant(int x, int y);
-	//	void step();
+		Ant(int x, int y, Game* game);
+		void step();
 		bool isPrey();
-	//	int getX();
-	//	int getY();
+		int getX();
+		int getY();
 	//	~Ant();
 };
 
