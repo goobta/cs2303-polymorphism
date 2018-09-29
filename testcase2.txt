@@ -1,0 +1,1137 @@
+Script started on 2018-09-29 18:40:49-04:00
+
+
+    ██╗      █████╗ ███╗   ███╗██████╗ ██████╗  █████╗ 
+    ██║     ██╔══██╗████╗ ████║██╔══██╗██╔══██╗██╔══██╗
+    ██║     ███████║██╔████╔██║██████╔╝██║  ██║███████║
+    ██║     ██╔══██║██║╚██╔╝██║██╔══██╗██║  ██║██╔══██║
+    ███████╗██║  ██║██║ ╚═╝ ██║██████╔╝██████╔╝██║  ██║
+    ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝
+
+
+User: agupta
+Time: Sat Sep 29 18:40:49 EDT 2018
+
+
+]0;agupta@lambda:~/Documents/education/wpi/cs2303/projects/project4[agupta@lambda project4]$ ./PA5 10 10 10 100 10 0
+       oo 
+        o 
+x  x o  x 
+        x 
+    x  o  
+          
+        x 
+ xox o oo 
+ x        
+     o    
+
+      ooo 
+          
+ xx   ox  
+    x  o x
+          
+          
+       o  
+  x x o x 
+     o    
+ x        
+
+     o   o
+ x     o  
+   x     x
+     xox  
+          
+          
+        o 
+   x o x  
+  x       
+  x       
+
+ x  o   o 
+   x    o 
+       x  
+      x  x
+          
+        o 
+   x o x  
+          
+   x      
+ x        
+
+    o  o  
+    x o   
+        x 
+       x  
+        o 
+         o
+      o x 
+   x o   o
+          
+          
+
+   ox o   
+       ox 
+          
+        x 
+         o
+      o x 
+         o
+      o   
+          
+          
+
+     x o  
+   o  ox  
+        x 
+          
+        o 
+       x o
+          
+     o    
+          
+          
+
+    x ox  
+          
+   o  o   
+       o  
+       x  
+         o
+         o
+    o     
+          
+          
+
+      x   
+      oo  
+    o  o  
+      o   
+    o x  o
+         o
+    o     
+    o     
+          
+          
+
+       o  
+      xo  
+     x    
+    oo   o
+   o   x  
+        x 
+     o   o
+   o      
+          
+          
+
+      o   
+       x  
+          
+   o x  o 
+    o   x 
+         x
+    o     
+  o      o
+          
+          
+
+       x  
+          
+          
+    ooxox 
+   o      
+          
+   o     x
+   o      
+       o o
+          
+
+          
+       x  
+     o  x 
+       x  
+  o o     
+   o      
+   oo     
+   oo  o o
+          
+          
+
+          
+        x 
+      o  x
+  o o x   
+   o      
+    o     
+  o o     
+        o 
+   o   o  
+          
+
+          
+         x
+       ox 
+   o x    
+    o     
+   o o    
+     o  o 
+  oo      
+      o   
+       o  
+
+          
+          
+          
+  o   xo  
+  oo      
+    o o o 
+      o o 
+ oo o     
+     o    
+        o 
+
+          
+          
+          
+oo     x  
+     oo o 
+  oo o    
+ o     o  
+ o   oo   
+ o oo  oo 
+          
+
+          
+          
+ o        
+      o x 
+o  oo    x
+ o    ooo 
+  o       
+  ooo  o  
+  o  o o  
+ o     o  
+
+          
+ o        
+          
+o        x
+  oo  o x 
+     oo   
+ o o    o 
+ ooo  o o 
+ o o    o 
+   o oo   
+
+          
+          
+ o       x
+          
+o o oo xo 
+  ooo  ooo
+ oooo     
+ oo    ooo
+o oooooo  
+          
+
+          
+          
+o         
+ o  o o o 
+ o oo x o 
+ooooo   o 
+ooo    oo 
+oo o ooo  
+oo      oo
+  ooo o   
+
+          
+          
+      o   
+o oo o o  
+ooo  x o  
+ooo  o oo 
+oooo  oo  
+o ooo     
+o ooo o o 
+o oo   oo 
+
+          
+          
+  o  o    
+oo  o o o 
+ooo    ooo
+ooo  x o o
+o oooo  o 
+ooooo     
+ oo oo ooo
+ oo o o o 
+
+          
+          
+oo o oo  o
+oooo   o o
+oo    o oo
+ooooo   o 
+oooo x o o
+ooo oo  o 
+ooooo ooo 
+o    ooo o
+
+          
+oo o      
+oo      o 
+oo   ooooo
+oooo o oo 
+oooo   o o
+ooo x   o 
+ooooo oo o
+ooo  ooooo
+oo oooooo 
+
+oo o      
+o       o 
+oo    o o 
+ooooo oo  
+oooo     o
+ooo  o  o 
+ooox  oo o
+oooo oo oo
+oooooooooo
+oooooooo o
+
+o oo    o 
+oo        
+ooo   oo o
+oooo  o  o
+ooo  oo  o
+oooo  o oo
+ooo o   oo
+oooxox ooo
+oooooooooo
+ooooooo oo
+
+ooo       
+ooo   o o 
+oooo oo oo
+ooo oo  oo
+oooo   oo 
+ooo oo ooo
+oooo ooooo
+ooooxooooo
+oooooxoooo
+ooooooooo 
+
+oooo  o o 
+ooo o     
+oooooo oo 
+oooo  ooo 
+ooo ooo oo
+ooooooooo 
+oooooooooo
+ooooo oooo
+ooooxoxoo 
+oooooooooo
+
+ooo o  o o
+oooo o o  
+ooo o  o o
+ooo oo  oo
+ooooooooo 
+oooooooo o
+ooooooooo 
+oooooooooo
+ooooox xoo
+oooooooooo
+
+oooooooo  
+ooo o    o
+oooooo ooo
+oooooooooo
+oooooooo o
+oooooooooo
+oooooooooo
+oooooxoxo 
+oooooooooo
+oooooooooo
+
+ooooo o oo
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+ooooooooo 
+oooooooooo
+oooooxoxoo
+ooooooooo 
+
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+ooooooooo 
+ooooooooo 
+oooooooooo
+oooooooooo
+ooooxoooo 
+oooooo x o
+
+oooooooooo
+oooooooooo
+oooooooooo
+ooooooooo 
+oooooooooo
+oooooooooo
+oooooooooo
+ooooooooo 
+oooooxo  o
+ooooooo xo
+
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+oooooxo oo
+ooooooooxo
+ooooooooxo
+
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+oooooxxooo
+oooooooxxo
+oooooooooo
+
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+ooooxooxo 
+ooooooxo x
+ooooooooo 
+
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+ooooooooo 
+oooooxo xx
+oooooxooo 
+oooooooo  
+
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+ooooooooox
+ooooxo o  
+ooooooxox 
+ooooooo o 
+
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+ooooooooox
+oooooooo  
+oooooxxox 
+ooooooo o 
+ooooo  oo 
+
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+ooooooooox
+oooooooo  
+ooooooooo 
+ooooo ox x
+oooooxo  o
+oooo oo  o
+
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooox 
+ooooooooo 
+oooooooo  
+oooooox xo
+oooooo   o
+ooooox o  
+
+oooooooooo
+oooooooooo
+oooooooooo
+ooooooooo 
+oooooooxoo
+oooooooo  
+oooooox  o
+oooooo o x
+ooooo o o 
+ooooxoo  o
+
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooxoo
+oooooooxo 
+oooooooooo
+ooooox o  
+ooooo ooox
+oooooo o x
+oooo x ooo
+
+oooooooooo
+oooooooooo
+oooooooxoo
+ooooooooo 
+ooooooxooo
+ooooooooo 
+oooooxxoo 
+oooooo ox 
+ooooo ooxo
+ooooxx o  
+
+oooooooooo
+oooooooooo
+ooooooooo 
+oooooooxoo
+oooooooxo 
+oooooxoooo
+ooooo  x o
+ooooooox  
+oooo xoo x
+ooox  o   
+
+oooooooooo
+oooooooooo
+oooooooxoo
+oooooooxo 
+oooooooooo
+ooooo xxo 
+oooo oo o 
+oooooo    
+ooooo xx  
+oox    o x
+
+oooooooooo
+oooooooooo
+ooooooxxo 
+oooooooooo
+oooooooo o
+oooooo  x 
+oooooox   
+ooooo   o 
+oooo xo xx
+ox o oo   
+
+oooooooooo
+ooooooooo 
+oooooo oxo
+ooooooxoo 
+ooooooo   
+ooooooxo x
+ooooo   o 
+oooo oo xx
+ooooo     
+x o ox o  
+
+oooooooooo
+oooooooooo
+oooooooo x
+oooooo x o
+oooooo o  
+ooooo  xo 
+oooo oo  x
+ooooo     
+xooooo ox 
+ ooox     
+
+oooooooooo
+ooooooooo 
+oooooooox 
+ooooooo o 
+ooooo oxo 
+oooo    xx
+oooooo    
+oooooo  x 
+ xoox o   
+ooo  o o  
+
+ooooooooo 
+oooooooooo
+ooooooo   
+oooooooxx 
+ooooooo  x
+ooooo ox  
+oooooooo  
+oooox o   
+oox oo    
+oo oo   o 
+
+oooooooooo
+ooooooooo 
+oooooooxxx
+ooooooox x
+ooooo ox  
+oooooo    
+oooooo  o 
+ooxoox    
+oo oo o   
+o oo o   o
+
+ooooooooo 
+oooooooxxx
+ooooooo   
+oooooox   
+ooooooxx x
+ooooooo   
+ooxoo o  x
+ooxoxx  o 
+oooo o   o
+ooooooo  o
+
+ooooooooxx
+oooooox   
+oooooo o o
+ooooox    
+oooooxx x 
+ooooooo   
+oxooxx  x 
+ooox    oo
+ooooooo oo
+ooo oo    
+
+oooooox   
+ooooooooxx
+ooooo o o 
+oooox    o
+ooooo     
+ooooxxx   
+ooo x    o
+oxxoooo x 
+oooooo  o 
+oo ooo  o 
+
+oooooxo  x
+ooooo o   
+ooooxo ox 
+oooo  o   
+oooooxx  o
+ooox     o
+oxxo o    
+ooooxo    
+ooooo o x 
+o ooo    o
+
+ooooo x   
+oooooo o x
+oooooxox  
+ooooox o o
+oooo x   o
+oxo x     
+oo oo o  o
+ooxo x    
+oooo o   x
+ooo  oo o 
+
+ooooox    
+ooooo o x 
+ooooxx   o
+oooo   x o
+ooo x     
+o xo      
+oooox  oo 
+oo  x   ox
+oox   o  o
+oo oooo  o
+
+oooox     
+oooo x   o
+ooox  o xo
+ooooo x   
+oo x      
+ooox      
+oo   x  ox
+oooxo  o o
+o  xoooo o
+oooo   o  
+
+ooox      
+oooxx   o 
+oooooox  x
+ooo       
+oox       
+oo  x     
+ooo x  o  
+ooo xo oox
+ooxo o oo 
+ooo o     
+
+ooxx     o
+ooxxoo   x
+ooo x x  x
+ooxo  x   
+oo  x     
+ooo       
+ooox  ooo 
+oo o x  xx
+oo xo o  o
+oo ooo    
+
+ox  x   ox
+oo  x x   
+ooxxx   x 
+oo xx     
+oooxx     
+ooo   oo  
+oo   xx  o
+ooox   x  
+oox x  o x
+o  xo o o 
+
+o  x    x 
+ox xx  xx 
+oxx       
+ooxx      
+ooxx      
+oo   x  oo
+ooo       
+oox   x   
+o  x   xx 
+oox xo   o
+
+oox    x x
+o x    x  
+xx xx     
+ox  x     
+ox        
+ooox  x   
+oo o  x oo
+ox x      
+oo    x  x
+ox   x  o 
+
+o       x 
+xx      x 
+oxx  x    
+oo x      
+o     x   
+ox      o 
+ooox   oo 
+o   x x   
+ox        
+x   x xoox
+
+ x      x 
+          
+x         
+ox        
+ox     xo 
+oo x    o 
+oo   ox   
+oxo       
+x       o 
+     x x  
+
+          
+ x        
+          
+x x       
+o       x 
+ox     o  
+o ox x    
+x x  o  o 
+     x    
+      x   
+
+ x        
+          
+          
+ x        
+x      x  
+x ox  o   
+xo        
+ x   x   o
+      x   
+          
+
+x         
+          
+ x        
+x         
+x o    ox 
+       o  
+ x   x    
+  x     o 
+       x o
+          
+
+x         
+          
+          
+xx        
+  x   oo x
+          
+ x        
+ x   x   o
+  x  x    
+         o
+
+ x        
+          
+x         
+x         
+ x   o  xx
+  x       
+ xx      o
+    xx    
+  x x     
+        o 
+
+x         
+          
+          
+     o    
+x x    x  
+  x      x
+x         
+    x    o
+   x x  o 
+         o
+
+          
+          
+    o     
+  x o     
+        x 
+xx      x 
+         o
+          
+        oo
+   x x  o 
+
+          
+    o     
+    o     
+        x 
+          
+          
+x       x 
+        oo
+        o 
+      x  o
+
+          
+     o    
+     o    
+          
+          
+          
+          
+        x 
+        oo
+        oo
+
+     o    
+     o    
+          
+          
+          
+          
+         o
+         o
+        xo
+       o  
+
+    oo    
+          
+     o    
+      o   
+          
+         o
+         o
+          
+         x
+      o   
+
+    o     
+    o     
+      o   
+     o    
+         o
+          
+          
+         x
+          
+     o    
+
+   o      
+   o  o   
+          
+          
+     o    
+         o
+         x
+          
+          
+    oo    
+
+  o   oo  
+    o     
+          
+     o    
+         x
+        ox
+          
+          
+          
+   o  o   
+
+oo        
+     ooo  
+    o o   
+    o     
+        x 
+        x 
+        o 
+          
+          
+    o  o  
+
+     oo   
+oo    o   
+     o o  
+     o  x 
+          
+          
+        x 
+          
+          
+     oo   
+
+ o     o  
+     o    
+o   ooo x 
+          
+          
+        x 
+          
+          
+    oo o  
+       o  
+
+     oo   
+oo   o ox 
+     o    
+    o     
+     o    
+       x  
+          
+    o     
+      oo  
+     o    
+
+oo  oo o  
+oo  ooox  
+    o     
+    oo    
+    o     
+          
+       x  
+   o  o   
+      o   
+    o     
+
+oooo  o o 
+   oo x   
+o   ooo   
+          
+   o o    
+          
+   o      
+      oo  
+          
+     o    
+
+o  ooo o  
+o o  o    
+ o  o xo  
+    oo    
+  o       
+ o     o  
+     ooo  
+   o      
+  o       
+    oo    
+
+ooooo     
+ o oo oo  
+    oo x  
+          
+ o  o  o  
+  o       
+    oo    
+       o  
+ o ooo    
+          
+
+oooo o o  
+o oooo  o 
+ o o xx   
+ooo oo o  
+     o    
+    oo o  
+  oo      
+     o  o 
+  oo      
+   o      
+
+ooooo o o 
+ ooo  x   
+ooo     o 
+   o x    
+ooo o  o  
+ oo   o o 
+  o o     
+      o   
+  ooo   o 
+  o       
+
+oooo ox  o
+ooo       
+o  o      
+o o   x o 
+oooo     o
+o  oo ooo 
+ ooo oo o 
+  o oo oo 
+  oo o    
+   oo     
+
+ooo ox    
+oo o     o
+ooo       
+oo o   x o
+oooo  o o 
+oooo ooooo
+ooo oo   o
+ o oo o  o
+   oo  o  
+  oo o    
+
+oooo      
+ooo ox    
+oooo     o
+oooooox o 
+ooo oo ooo
+ooo ooo oo
+oo oo o  o
+o ooo  o  
+  o     o 
+ o  o o   
+
+oooo      
+oooo     o
+ooooox    
+ooooox oo 
+ooooo o o 
+oo oooooo 
+o ooooooo 
+ oo  o  oo
+oo o      
+ oooo  o  
+
+ooo o     
+ooooo     
+oooooxx  o
+oooo  oooo
+ooooooooo 
+oooooooooo
+oooooo oo 
+oo oo  oo 
+ooooo o o 
+oooo ooo o
+
+oooo o    
+oooo x  o 
+ooooo  oo 
+ooooooxoo 
+oooooooooo
+oooooooo  
+ooooo oo o
+oooooooo  
+oooo ooo o
+ooooooo   
+
+ooooo o   
+oooox  ooo
+oooooo o  
+oooooo oo 
+ooooooxo  
+oooooooooo
+ooooooo o 
+ooooooo oo
+ooooooo o 
+oooooo o  
+
+oooo o o  
+ooooxoooo 
+ooooxo oo 
+ooooooo  o
+ooooooxoo 
+ooooooxooo
+oooooooooo
+ooooooooo 
+oooooooo  
+ooooo o o 
+
+ooooo ooo 
+oooo xoo o
+oooooooo  
+ooooxoxooo
+oooooooooo
+oooooooxoo
+ooooooooo 
+oooooooooo
+oooooooooo
+oooooooo o
+
+=== SUMMARY ===
+Command run: ./PA510 10 10 100 10 0
+Number of steps: 100
+Total number of ants: 372
+Active number of ants: 87
+Total number of doodlebugs: 49
+Active number of doodlebugs: 5
+oooo xoooo
+ooooooooo 
+oooooo ooo
+oooooooxoo
+ooooxoo  o
+ooooooo x 
+oooooooooo
+ooooooooo 
+oooooooooo
+ooooooooo 
+
+]0;agupta@lambda:~/Documents/education/wpi/cs2303/projects/project4[agupta@lambda project4]$ exit
+
+Script done on 2018-09-29 18:41:13-04:00

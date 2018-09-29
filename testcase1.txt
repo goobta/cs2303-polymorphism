@@ -1,0 +1,6116 @@
+Script started on 2018-09-29 18:40:41-04:00
+
+
+    ██╗      █████╗ ███╗   ███╗██████╗ ██████╗  █████╗ 
+    ██║     ██╔══██╗████╗ ████║██╔══██╗██╔══██╗██╔══██╗
+    ██║     ███████║██╔████╔██║██████╔╝██║  ██║███████║
+    ██║     ██╔══██║██║╚██╔╝██║██╔══██╗██║  ██║██╔══██║
+    ███████╗██║  ██║██║ ╚═╝ ██║██████╔╝██████╔╝██║  ██║
+    ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝
+
+
+User: agupta
+Time: Sat Sep 29 18:40:41 EDT 2018
+
+
+]0;agupta@lambda:~/Documents/education/wpi/cs2303/projects/project4[agupta@lambda project4]$ ./PA5 
+        o  oooo     
+ oo    o o          
+  oo  o         o  o
+  o    o        o   
+ o    o    oo o     
+     o       o o   o
+    oo   o      oo o
+o    o    o         
+   o   oo x  o      
+o ooo o o    o  o   
+  oo       o        
+ o    o  o    xo    
+         o o     oo 
+o      x o   o      
+    o  o  o    o    
+     o         o    
+   oo oo oo o  oo  o
+              o o   
+  o o     o o    oxo
+  o o          x  oo
+
+         o o   o    
+oo    o o  o o      
+ oo            o    
+ o o  o o        o o
+     o    oo o     o
+      o         o  o
+   o oo   o  o o  o 
+          xo        
+o o   oo      o     
+ ooo   o      o  o  
+o   o o  o  o       
+  o  o         x    
+ o        o     o   
+ o        oo   o  o 
+     o x o   o      
+    o  o oo     o   
+   o       o  o  oo 
+  oo  o        o o  
+  o  o     o    o  x
+     o      o x  oo 
+
+oo      o oo    o   
+  o    o o    o     
+oo o          o    o
+     o     o      oo
+        o   o      o
+     o o  o      oo 
+  o      o    o     
+o    ooo   x o      
+  oo   o     o      
+      o         o   
+ ooo o  o  o  o     
+o     o   o         
+  o  o    o    x    
+     o      o o oo  
+ o  o     o         
+       x   o o   o  
+  o o    oo    ooo  
+  o             o ox
+    ooo   o o x  oo 
+  o             o   
+
+o o    o  o    o    
+o  o    o o  o      
+o        o o   o  oo
+o           o       
+     o           oo 
+        oo       o o
+ o   o o  o         
+ o ooo  o x o o     
+ o      o           
+     o  o  o o   o  
+oo    o             
+ o o o    oo  ox    
+      o       o o   
+  o o     o  o      
+o    o     o     o  
+        xo    o o   
+ o o           o  ox
+   o o    o o xo o  
+  o    o   o    oo  
+    o          o o  
+
+oo oo o oo ooooo    
+o o    ooo oo       
+oo o       o   o  oo
+o      o o     o oo 
+o  oo  o    o    ooo
+     o o  oo      oo
+ooo  o oooxo     o o
+  oooooo    o    oo 
+o  oooooo   o o  o  
+ o  o   o o  ooo    
+ooo o  ooooo oo     
+oo oo         xo    
+   ooo o  oo   oo   
+o  oooo   o ooo ooo 
+o  ooo      o o oo  
+         xo   oo o  
+ oo o     o  ox  ox 
+ oooo     oo   oo oo
+ o  o   o   o o o oo
+  ooo    o   oo o o 
+
+o o  o oo ooo   o   
+oo o  o   oo oo   o 
+o o     o o o oo  o 
+oo o  oo  o     oo o
+ o o o o   o     ooo
+o    o o o  o    o  
+   oo   o  xo     o 
+ oooooooo   o   o  o
+ ooooo   oo  o o  o 
+oo   o o o   o  oo  
+o  oo     o o  o    
+o ooo  oo o    x    
+o o ooo oo  o   oo  
+ ooo o   o o o oo   
+  o          o oo o 
+oo  o     x oox oox 
+ ooo     o     o  o 
+oo   o      oo  oooo
+  oo o o  oo o   oo 
+  oo    o   o  o o  
+
+oo  o oo ooo   o    
+ooo    o o    oo o  
+oo o  o  o o o  o  o
+o o ooooo  oo   ooo 
+o   o     o     o   
+ o oo o o  x    o oo
+ o ooo   o   o   o o
+ ooooooo o o o      
+oo  o    o   o  oo o
+o   o     o    o    
+oooo o ooo   oo o   
+ o o oo  o      o   
+ o o o o ooo o x    
+ooo o o     oooo o  
+ o        x   xo o  
+oooo o   o  o  o    
+o    o      oo  oox 
+o o        o    ooo 
+ooo o   o o o o oo o
+  o  o o  o     o o 
+
+ooo  oooo      oo   
+o  ooooooooo      o 
+o o oo     oo o oo  
+oo oooo  ooo o  o  o
+  ooo      x   o  o 
+o oooo   o     oooo 
+ ooo oooo   oo  o   
+oo ooo    o o      o
+  oo  o   o   oo  oo
+ o o o ooo      oo o
+ooooooo oo      oo  
+o o  o oooo  oo     
+ooo o o o ooo       
+oo   ooo     o x  o 
+oooo o   x  oxoo    
+o    o     o    oo  
+ oo      o    o o   
+ o o      o o  ooox 
+ ooooo   o o o oo oo
+oo  o   oo o  oo o o
+
+ooooooooooooo   oo o
+oooooo  o oo   ooo  
+ooooooooooo oo oooo 
+oooooo o o  o o oooo
+ooooooo  ox  o  oooo
+ooooooo o oo  oooo  
+oooooooooooooooo    
+ooooo o o    ooooooo
+ooooooooooo     oooo
+ooo ooo ooo   ooooo 
+oooo  ooooo oo oo  o
+oooooooooooooooo o  
+oooo ooo o  o o    o
+ooooooo o  ooox  o o
+ooooooo  oxoxoo ooo 
+oooooo   o  o ooo   
+oooo       o  oooo  
+ooooo      oo ooo  o
+oooooo  ooooooooooxo
+o oo o ooo ooooooo o
+
+oooooooooooo   oooo 
+ooooooooooo o ooo   
+oooooo  o xoo   oooo
+ooooooo o x  o ooo  
+ooooooooo o o ooo o 
+oooooooooooo oo   o 
+ooooo o oo ooooooooo
+oooooooo oo o  oooo 
+oooooooooo    oo o  
+oooooo o ooo ooo o o
+ooooooooo  oooo  oo 
+ooooooo oooo oo o o 
+ooooooo o oooo o  oo
+oooooooo o xx x oo  
+oooooo  ooxxo xo    
+oooo  o      ooo oo 
+oooooo    oo ooo   o
+oooo o   o o ooo o  
+oooo  ooooooooooooxx
+ooo o ooo oooooo  o 
+
+ooooooooooo o ooo   
+oooooooooo o o oooo 
+ooooooo  o x o o o  
+oooooooo o    ooo oo
+ooooooooooxo oo    o
+ooooooo oo ooooo   o
+oooooooo oooooooooo 
+oooooo  oo   ooooo  
+oooooooooooo o  o o 
+ooooooo o   oo  o o 
+ooooooooo oooo ooo o
+ooooooooooo o  o o  
+oooooooo ooo  x  o  
+oooooo  o x  x oo  o
+oooo  oo x  xo xo   
+oooooo o o o ooo    
+ooooo    o  oooo oo 
+ooooo oo oo oo o oox
+ooo oooo ooooo o    
+oooo ooo oooooo o x 
+
+oooooooooo o ooo ooo
+ooooooo o o o oooo  
+oooooooooox   ooo   
+oooooooooox oooooooo
+oooooooo   ooooo  oo
+oooooooo oooooooooo 
+oooooo  ooooooooo   
+ooooooooo ooooooo o 
+ooooooooo o oo ooooo
+ooooooooooooooooo  o
+oooooooo ooo  o  oo 
+ooooooooooooo  oooo 
+oooooo  oox o  oo   
+oooooooo o o  x  o  
+ooooooo o    xo  o o
+ooooo ooox  xoox oo 
+oooooooooooooooo oox
+ooo ooo oo oo o o   
+ooooooo ooooooo     
+ooooooooooooo  o x  
+
+oooooooooooooooooo  
+ooooooooooxo ooooooo
+oooooooooox oooooooo
+oooooooo  ooooooooo 
+ooooooooooooooooooo 
+oooooo oooooooooo oo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooooooooooooo  oo 
+ooooooooooooo oooooo
+ooooooooooooooooo   
+ooooooooo  xoo  oooo
+ooooooo o o o  ooooo
+ooooooooox o  x o   
+oooooooooooo xx oo x
+ooooooooooooxooo o  
+oooooooooooooooo o  
+oooooooooooooooo xo 
+oooooooooooooo      
+
+oooooooooooooooooooo
+ooooooooox  oooooooo
+oooooooooxooooooooo 
+oooooooooooooooooo o
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooooooooooooooooo 
+oooooooooooooooooo  
+oooooooooooooooooooo
+oooooooooooooooooo  
+ooooooooo oxooo  o o
+ooooooooooooo ooooo 
+oooooooooo   o oooo 
+ooooooooo o    x o  
+oooooooooxo x  oo   
+oooooooooooooxx ooox
+ooooooooooooooo o   
+oooooooooooooo  x  o
+ooooooooooooooo     
+
+ooooooooox oooooooo 
+ooooooooo ooooooooo 
+ooooooooxooooooooo o
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooooooooooooooooo 
+oooooooooooooooooo o
+oooooooooooooooooooo
+oooooooooooooooooo  
+ooooooooooooooo oooo
+ooooooooooooooooo   
+oooooooooo x ooooo  
+ooooooooo o o o oo  
+oooooooooooo    x o 
+ooooooooo o   x oo x
+oooooooooxoox   o   
+ooooooooooooox   ooo
+ooooooooooooooo     
+oooooooooooooo ox   
+
+oooooooox oooooooooo
+oooooooo ooooooooooo
+oooooooxooooooooooo 
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooo o
+oooooooooooooooooooo
+oooooooooooooooooo o
+ooooooooooooooooo oo
+oooooooooooooooooooo
+ooooooooooooooooooo 
+ooooooooo o xoooo oo
+oooooooooo o o ox   
+ooooooooooo o o oo  
+oooooooooooo x o ox 
+oooooooooooo     o  
+oooooooooxoox   ooo 
+ooooooooooooox ox o 
+ooooooooooooooo    o
+
+oooooooxoooooooooooo
+oooooooooooooooooooo
+ooooooooxooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooooooooooooooooo 
+oooooooooooooooooo o
+oooooooooooxo ooxo  
+ooooooooooooooooo oo
+oooooooooooo xoooo  
+ooooooooooooo ooox  
+ooooooooooooo  oooo 
+ooooooooooxo x oo   
+ooooooooooooxoo  x o
+oooooooooooooo o oo 
+
+ooooooooxooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooooooxooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooooooooooooooooo 
+oooooooooooooooooo o
+ooooooooooooooooooo 
+ooooooooooxo ooo  oo
+ooooooooooooooo xoo 
+ooooooooooooxoooo   
+ooooooooooooooooo   
+oooooooooooo  ooox o
+ooooooooooox  oo    
+oooooooooooxox o  o 
+ooooooooooooo   ox o
+
+oooooooxxooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooooooxxoooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooooooooooooooooo 
+oooooooooooooooooooo
+ooooooooooooooooooo 
+ooooooooooxooooooooo
+ooooooooooxooooxxoo 
+ooooooooooooooooo o 
+ooooooooooooxxoo oo 
+ooooooooooooooooox  
+oooooooooooooo   x  
+ooooooooooxx  o    o
+oooooooooooxx x o oo
+oooooooooooo x o xx 
+
+ooooooo oxoooooooooo
+oooooooxoooooooooooo
+oooooooooooooooooooo
+ooooooooooxooooooooo
+ooooooooxooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooooooooxooooooooo
+ooooooooooooooooxoo 
+oooooooooooxooo oooo
+ooooooooooooxooxooo 
+oooooooooooooooooo  
+oooooooooooooxo   x 
+ooooooooooxx  oox oo
+ooooooooooo  oxo    
+ooooooooooo    o oxo
+oooooooooooxx x x   
+
+oooooooooooooooooooo
+ooooooxooxoooooooooo
+oooooooooooooooooooo
+ooooooooxxoooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooxooooooxoo 
+ooooooooooooooo oooo
+ooooooooooooxoooooo 
+oooooooooooxoooooo o
+oooooooooooooxoxoo  
+ooooooooooxo oo x   
+oooooooooo  xooo  x 
+oooooooooo o x  o  o
+oooooooooooxxo  x  x
+oooooooooo   x   o  
+
+oooooooooxoooooooooo
+oooooooooooooooooooo
+ooooooxoxooooooooooo
+ooooooooooxooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooooooooooooooooo 
+ooooooooxooooooxoooo
+ooooooooooooxoooooo 
+oooooooooooooooooo o
+ooooooooooxoooooooo 
+oooooooooooooox x  o
+oooooooooxooxooo x  
+oooooooooooo    o  o
+ooooooooooox   oxox 
+oooooooooo x x    x 
+ooooooooooo x     o 
+
+oooooooooooooooooooo
+oooooooooxoooooooooo
+oooooxoxoooooooooooo
+oooooooooooxoooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooooooooooooooooo 
+oooooooooooooooooooo
+oooooooxooooooxoooo 
+oooooooooooooxoooooo
+ooooooooooooooooooo 
+oooooooooooooo ooo o
+ooooooooooxooo x xo 
+ooooooooooxxoo  xo o
+oooooooooooxo    ox 
+oooooooooo       x  
+oooooooooox x  o    
+oooooooooo x      x 
+
+oooooooooooooooooooo
+oooooxoooooooooooooo
+ooooooooxxoooooooooo
+ooooooooooxooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooooooooooo oooooo
+oooooooxooooo xooooo
+oooooooooooooxoooooo
+ooooooooooxooooxo o 
+ooooooooooooo o o x 
+oooooooooo  x  xo xo
+oooooooooox xo  ox  
+oooooooooox         
+ooooooooo o  xo     
+ooooooooo x      x  
+
+oooooooooooooooooooo
+ooooooooxxoooooooooo
+oooooxoooooooooooooo
+oooooooooooxoooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooooxooooooxoxoooo
+ooooooooooooo oxooo 
+oooooooooxoo o oooxo
+oooooooooooo o      
+ooooooooooo  xo xx  
+ooooooooox   x  x  o
+ooooooooo       o   
+oooooooooox   x     
+ooooooooox      x   
+
+ooooooooxooooooooooo
+ooooooooooxooooooooo
+ooooooxooooooooooooo
+oooooooooooooooooooo
+oooooooooooxoooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooxoooo
+oooooooxooooo xxooo 
+oooooooooxoo o ooo o
+ooooooooooo o oo   x
+oooooooooooo oooxx  
+oooooooooo oo x    o
+oooooooox o         
+oooooooooo o x  x   
+ooooooooox   x      
+oooooooox        x  
+
+ooooooooooxooooooooo
+ooooooxoxooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooxoooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooooooooooooxoooo 
+ooooooooooooox oxo o
+oooooooxooxoo ooo ox
+oooooooooo o ooo x  
+ooooooooooo ooxx   o
+oooooooooooo        
+ooooooooox o        
+ooooooooo o  xx     
+oooooooox  o    x   
+oooooooxx           
+
+ooooooooooxooooooooo
+oooooxxoxxxooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooooooooxxoooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooooooooooooxooooo
+ooooooooooooooxooooo
+ooooooooooooxxooxxox
+ooooooxxooxx ooox  x
+ooooooooooo ooxxx o 
+oooooooooo oo xx o o
+ooooooooooooo      o
+oooooooooxx ox      
+oooooooo o xxx      
+oooooooxxxo o   xx  
+ooooooo  x          
+
+oooooxoooxoooooooooo
+oooooooo ooxoooooooo
+ooooooxoxxoooooooooo
+oooooooooooooooooooo
+ooooooooooxxoooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooxoooooo
+ooooooooooooxxooxoox
+ooooooxooooxoooo  xx
+ooooooooxo   xxx xo 
+ooooooooooxoo  x o o
+oooooooooooo xx    o
+oooooooooxxoox      
+oooooooo o          
+oooooooox x         
+oooooox  xx x     x 
+oooooooo        x   
+
+ooooooxo oxooooooooo
+oooooox oxooxooooooo
+oooooooooooooooooooo
+ooooooooxooooooooooo
+oooooooooo ooooooooo
+ooooooooooxxoooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooxoooooo
+oooooooooooooxoooooo
+ooooooxoooox oo  xx 
+ooooooooxo  xoxxo   
+ooooooooooo x  x  xx
+ooooooooooooo    xo 
+oooooooooxxoxx    o 
+oooooooooooxx       
+ooooooooo   o       
+oooooox  xxx o      
+oooooooox           
+ooooooo     x  x    
+
+oooooo xo  xoooooooo
+oooooxoooooooooooooo
+oooooooo xooxooooooo
+oooooooxoooooooooooo
+ooooooooooxxoooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooxoooooo
+oooooooooooooooooooo
+ooooooxooooooooooxo 
+ooooooooxo  oxxo   x
+ooooooooooox x xx   
+oooooooooooxo     x 
+ooooooooooxox   x x 
+ooooooooxoo        o
+oooooooooo   x      
+ooooooxo   xxo      
+oooooooox   x       
+ooooooo   x         
+oooooo ox    xx     
+
+ooooo o xo oxooooooo
+ooooxooo x ooooooooo
+ooooooo oooooxoooooo
+ooooooxooo ooooooooo
+oooooooooo ooooooooo
+ooooooooooxxoooooooo
+oooooooooooooxoooooo
+oooooooooooooooooooo
+oooooooooooooooooxoo
+ooooooooxooooxxooo x
+ooooooxoooox  o x   
+ooooooooooo x       
+oooooooooox  o      
+ooooooooooox x   x x
+oooooooo x        oo
+oooooooo  o x       
+oooooxo x    x      
+ooooooo   xx        
+oooooo o            
+ooooooox    x       
+
+ooooooox xoxoooooooo
+ooooooooo oooooooooo
+ooooxoooooooo xooooo
+oooooooxoooooooooooo
+oooooooooooxoooooooo
+oooooooooxoooxoooooo
+oooooooooooooooooooo
+oooooooooooooooooxoo
+oooooooooooooxxoooox
+oooooooxoooo   o  o 
+oooooooxooo x  x    
+oooooooooo x  o     
+oooooooooo    o     
+oooooooooxx x x   x 
+ooooooooo          x
+oooooooo   x      o 
+ooooooxxo           
+oooooo o  x  x      
+ooooooo o           
+oooooox             
+
+ooooooo o x xooooooo
+oooooooxoooooooooooo
+oooxoooooooooooxoooo
+ooooooooxooxoooooooo
+oooooooooo ooooooooo
+ooooooooooxoxooooooo
+oooooooooooooooooxoo
+ooooooooooooooooooox
+oooooooxoooox  xoo  
+ooooooooooo x o o   
+ooooooooxo x  x  oo 
+oooooooooo    oo    
+ooooooooo x x x     
+oooooooox          x
+oooooooo o          
+oooooox o x      o  
+oooooo o            
+ooooooox      x     
+oooooo o            
+ooooox              
+
+oooooooo xoooxoooooo
+ooooooxooooooooxoooo
+ooxoooooxooxoooooooo
+oooooooooooooooooooo
+ooooooooooooxooooooo
+oooooooooooooooooooo
+ooooooooooxoooooxoox
+oooooooooooox oxoo  
+oooooooooooo ooo  o 
+oooooooxxo x o o o  
+oooooooooox         
+ooooooooo     x  oo 
+oooooooo x x   x    
+oooooooxooo   o   x 
+ooooooo o           
+ooooox o   x      o 
+ooooooo o     x     
+oooooo              
+ooooo ox            
+oooox               
+
+ooooooo ooooxooooooo
+oooooxoo xoooooooooo
+oxoooooooxooxooxoooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooooooooooxoooooox
+oooooooooooooooxoo  
+ooooooooooxx oo x o 
+ooooooooooo ooo oo  
+ooooooxooox  oo   o 
+oooooooox  x   o oo 
+oooooooo x   x x    
+oooooooooo       ox 
+ooooooo xo     o    
+oooooooo            
+oooooxx o o x       
+oooooo   o        o 
+ooooo o x           
+ooooxo  x         o 
+oooo  o             
+
+oooooxooooooxooooooo
+oooooxoxxxooxooxoooo
+xxoooooooxoxxooxoooo
+oooooooooooooooooooo
+ooooooooooooooooooox
+ooooooooooooxxoxoo x
+ooooooooooxxoooxo o 
+ooooooooooxxooox o o
+oooooooooo ooo  x oo
+oooooxxooxx ox o o o
+ooooooooox x xxxo  o
+oooooooxx xx     o x
+oooooooox o         
+oooooooox        o  
+oooooxxoooo    o    
+oooooo o o x     oo 
+ooooooo   x         
+ooooooo  x          
+oooxx               
+oooooooox         o 
+
+ooooxooxoooxxooooooo
+ooooxooo  xoooxxoooo
+ooooooooxooooxoooooo
+xxoooooooxoxoooooooo
+oooooooooooooxoxoox 
+ooooooooooxx ooo ox 
+oooooooooo  xoo xo o
+ooooooooox ooox   o 
+oooooxoooxxxoxoo xoo
+oooooooxo       oooo
+oooooooxx   x   xo  
+oooooooo xx  xx o   
+ooooooox  x        x
+oooooxox oo    o    
+oooooo x o     o o  
+ooooooo o   x    o  
+ooooo  o x       o  
+ooooo  ox           
+ooo ox              
+oooxooox         o  
+
+oooxooo xox oooxoooo
+oooooxoooooxxxoooooo
+xooooooooxoo oxooooo
+ooxoooooooxooooooooo
+oooooooooo xooo ox  
+ooooooooox oxxoxox o
+ooooooooo oo x   x  
+oooooooox xxox   ooo
+ooooxooox  o  x x  o
+oooooox  o     ooo  
+ooooooo  x       x  
+ooooooox    x  x    
+ooooooxx x   x  o x 
+oooooox o x   o     
+ooooooxo  o     o o 
+oooooo o     x    o 
+ooooooo x       o   
+ooooo               
+oooo  oxx         o 
+ooo xx            o 
+
+ooooxooooo oxooooooo
+xooox oox x   xxoooo
+oooooooooo xoooooooo
+oxooooooox xooxooooo
+ooooooooo xo x xo xo
+oooooooox oxoo    xo
+oooooooooox x   o o 
+ooooooox    x    xoo
+oooxoo       x   o o
+oooooo ox oo  x x   
+oooooox   x x  x  x 
+oooooox         o   
+oooooxx       x o   
+ooooox o x   o    o 
+ooooox  o x         
+ooooooo x   x  oo   
+oooooo         oo o 
+oooo oo           o 
+ooooox              
+oo x   x           o
+
+xoox oooo x  xxooooo
+oooo ooxoo   o oxooo
+oxooxoooo   xo ooooo
+ooooooooo   o  xooo 
+oooooooo x xx   xxo 
+ooooooox  x x    oox
+oooooooo   x x o   o
+oooxoo  xo   x    x 
+ooooooo     x     o 
+oooooox  o o x x   o
+oooooo  x  x    x  x
+ooooox      x    o  
+ooooxx           o  
+oooox   x     o  oo 
+ooooo    x     o    
+ooooox x       oo o 
+oooooooo          o 
+ooooox o       o    
+oooo                
+ooo x x           o 
+
+oxxooooo x     xoooo
+oxooooooo    xoooxoo
+oooo xoxoo  o  xooo 
+oooooooo  o x ooxo o
+ooooooo x  x      x 
+oooooooo x x x  o   
+oooxoo x  x xx    ox
+ooooooo  x     o    
+ooooooxo   x      x 
+oooooo  x oxx x x o 
+ooooo o          ox 
+oooox x             
+oooo            oo  
+oooxo          o   o
+ooooo   x x   o o o 
+ooooxo         o    
+ooooox x      oo    
+oooo    o         o 
+ooo o          o  o 
+ooox   x            
+
+x oxoooox      ooooo
+o oooooo o  o xxoooo
+oxooooxoo     o xx o
+ooooooox o x  o  xxo
+ooooooox  xx    o  o
+ooooooo x   x       
+oooooox    x   ooox 
+oooxoo ox   x       
+oooooxo    xx x x   
+ooooo o          ox 
+ooooxo  x o         
+oooo   x         o  
+ooooo              o
+oooox   x     o o   
+oooo o   x     o o o
+oooxox        o o   
+oooo  x             
+ooooo         oo o o
+oooo    o        o  
+oox o          o   o
+
+ o ooooxooooo oxoooo
+xo xooxoo      oxxoo
+ooxoooox      x  x  
+ooooooo    xx      x
+oooooo  xx  x o  oo 
+oooooo x         ox 
+ooooox              
+ooooooox   x   ox   
+oooxxo o         o  
+ooooxo o   x     x  
+oooo oox            
+ooooo   x o       o 
+ooooxo  x    o      
+ooooo    x   o  oooo
+ooo o o         o o 
+oox   x        o o  
+ooooo  x       oo   
+oooo o       o    o 
+oox o    o        oo
+oo   o        oo  o 
+
+x oooo  x oo oooxooo
+oo oooox oo    x  x 
+oo xoox     xx  x  x
+ooxooooox           
+ooooo o         oo  
+ooooo x  x    o  x  
+ooooxo          oo  
+ooooxo           x  
+ooxo  ox       ooxx 
+oooxoo  o           
+ooooo   x        o  
+ooooooox   o o   o  
+oooox o   x o    oo 
+ooo x         oo oo 
+oooo   o       o o  
+oxxoox        o o   
+oooo   xx     o  o  
+oox o o      oo   oo
+oo   o oo      o  o 
+o o o oo o   o   o  
+
+xooooooxxoo o o  xxx
+x ooooxxo  oxxx x xx
+oooxxoxo    xxx  x  
+ooxoo x  x          
+ooxooo ox      oox  
+oooooxx xx     o    
+oooxx o        o x x
+ooooxx          oxx 
+ooxxo   x x   o  x x
+oooxo oo            
+oooxoooxx         o 
+ooooxo x    o     o 
+ooo  o       ooooo o
+ooox      x o    o  
+oxooo         ooo   
+ooo   xx      oooo  
+oox o        oo o oo
+oxxo oxoo   o  o  o 
+ooo   o  o   oo    o
+oo o oo           o 
+
+ xoooox  x o xxo xx 
+ ooooxx   o      xx 
+xoxo x xo  x x  x x 
+ox oox o  x  x oox  
+oxooo o  x          
+oooox  x       oo   
+ooox  x         x   
+ooxx           oxx x
+oox xx o x x      x 
+ooo xo x      o    x
+ooooxo x     o   oo 
+oooxoo  x    o   o o
+oooo o       o o    
+oooox      o o oo   
+oox  o    x  oo oo  
+ooxoo   x    oo  oo 
+o  o  x     oo  oo o
+o  xo  x o o  o o oo
+ox  oo  o   o  o  o 
+ooo oo o         o o
+
+ oooox  x oo   xxx  
+ xxox  xoo x x     x
+oxo xx    x x    x x
+x oo oox    x o x x 
+ooxo o    x     o   
+ooox  x       oox   
+oox                x
+oxx x          x    
+oo    o x   x  o x  
+ooxx x       o   ox 
+ooox ox      oo    o
+oooox  x     oo  oo 
+ooo   o    oooo    o
+ooo  o     oooo oo  
+oo xx       o oo oo 
+o  x o      o   o  o
+ooox    x     oo  oo
+ooooo x o   o    oo 
+oox   ox o o  oo o o
+oooo  ooo   o oo  oo
+
+oxoox    o  o      x
+o  xxxx x x   xxxx  
+  x  oox     x  x   
+ ooo x       x o x x
+xxox  x       o x   
+oo        x      x  
+ox            oo    
+xx   xo             
+ooox           x    
+oo    x       o  xoo
+oox xx      oo o    
+ooox  o     oo ooo o
+oooo      oo o  o  o
+oo    o   oo o ooo  
+o xx       o o  o oo
+ooo x o    o  o   oo
+ooo           o  o  
+oo x o  x    oooo  o
+oo o ox o o ooo o oo
+oox  o x   o oo oo o
+
+x oxx   x     x     
+ ox    x   xo x     
+   o xx       x     
+x x           o     
+oo  xx x            
+ox            oox   
+x            o      
+  ox  x             
+xxo           oox   
+ooo            o  x 
+oxoxx x    o  o o  o
+oox    o  ooooo o o 
+oo    oo  o    oooo 
+ooox     o oo ooo   
+oo         oo o  oo 
+ooxx   o      o ooo 
+oo       o o ooo ooo
+ooxoo       ooooo o 
+oox o   xo ooo oooo 
+oo  o x x   oo o oo 
+
+ oxx   x      x     
+x  x        x       
+ oxo x x            
+    xx        x     
+x o x x        o    
+x            o   x  
+ x    x       o     
+ o             o    
+ o             xo   
+xxox   o      o o  o
+xo x   o  o oo o ox 
+ox o  x  o   o oo  o
+ooo   o  o oo oo    
+oox   o   oo ooo oo 
+ooxx  o        ooo  
+ooo   o    ooooooooo
+ooo     o   ooo oooo
+oo xoo o   ooooooooo
+ox    x  xooooooooo 
+oooo   x   o  oooo  
+
+                    
+ xx    x   x        
+oxox  x             
+ oo x           o   
+ x   x x      x o   
+ x            o x   
+     x      oo      
+ x            o     
+x               x  o
+  x   oo  o  ooo  x 
+ xo        oo ooo  o
+x ox      o oooo o  
+ox    x o ooooooooo 
+ox     o o  oooooo  
+oo     o  oooooooooo
+oox  o    ooooooooo 
+oo xoo     oo  oooo 
+o o   x o oooooooo  
+xo        xo ooooo o
+oo  o   x o ooooo o 
+
+ x                  
+      x x x         
+  x x           o   
+ox   x              
+  x            o    
+     x      o x     
+ x          o o     
+x         o     x   
+       o  o   o    o
+x    o      ooo    x
+  x       oooooo oo 
+ xx        oooo oo  
+x x    o ooooooooo  
+o     x o oo oooooo 
+ox       oooooooooo 
+oxo oooo  oooooooooo
+o x o     oooooooo  
+oo  ox oooo  oooo   
+o o o    ooxooooo oo
+x o        ooooooo o
+
+x                   
+    x    x      o   
+o  x                
+x x                 
+            o   o   
+ x                  
+x          o  x     
+         o     x    
+     o       o    ox
+       o  ooooo     
+xxx       ooooo oo  
+          ooooooo o 
+ x    xoooooooooooo 
+x x    o o ooooooo  
+xx  o o oooooooooooo
+xxx o    oooooooo o 
+ox  ox o oooooooooo 
+ooo    oo oxoooo o o
+xo   o oo  xoooooo o
+   o     oooooooooo 
+
+     x              
+x    x x            
+xxx             o   
+x xx                
+           o        
+ x x            o   
+ x           x  x  x
+  x o     oo    x ox
+    o     ooox      
+xxx       ooo oo    
+xx   o o o oo ooo   
+ x     x ooooooo o o
+ xx    xoooooooooo o
+xx xooo ooooooooooo 
+x x  o oooooooooooo 
+x  oox ooooooooooooo
+xxx  x ooooooooooooo
+ox o o o o oxooooooo
+xxo      oooooooooo 
+  o     oo xoooooooo
+
+      x             
+xx                  
+x  x   x         o  
+ x              o   
+ x x     oo    o    
+    x          o   x
+    o     o x    x  
+   x     ooo     o  
+ x o     oooooxo   x
+        oooooooooo  
+xx    oxooooo oo    
+x    o  oooooooooooo
+x    o  xooooooooooo
+x   xo ooooooooooooo
+xx xoxoooooooooooooo
+ xxo  oooooooooooooo
+xx o  o ooooooooooo 
+x    x  ooooooooooo 
+  x    oooo xooooooo
+x  o   oo   xooooooo
+
+x    x              
+x                o  
+        x       o   
+x x                 
+  x     o oo  o     
+          o         
+    x    oox   o   x
+        o o oo   x  
+  xx    ooooo ox    
+x     oo oooo oo    
+x    o  xooo ooooo o
+x      ooooooooooooo
+x   o  ooxooooooooo 
+x    x ooooooooooooo
+  x   xooooooooooooo
+xx xoo oooooooooooo 
+x      ooooooooooooo
+ x o  xoooooxooooooo
+xx o  ooo  oxooooooo
+ x    oooo ooooooooo
+
+ x  x               
+                o   
+               o    
+   x      oo  o     
+xx       o          
+         o     o    
+        oo          
+    x  o o oo      x
+x      oooooooo  x  
+x xx oooxooo o x o  
+      ooooooooooooo 
+ x  o  ooxoooooooo  
+     xoo ooooooooooo
+     ooooooooooooooo
+ x     xoooooooooooo
+x   x oooooooooooooo
+      xooooooooooooo
+xx  ooooo oo xoooooo
+     ooooooooxoooooo
+x xo oooooo oooooooo
+
+                    
+                o   
+              o o   
+         o     o    
+        o  o        
+        o  o        
+       ooo o   o    
+     x ooo ooo      
+      oo ooooo      
+    x oooxo ooxoox  
+    oo oo oo ooooo o
+    oooo ooooooooo  
+     oxooxoooooooooo
+     o xoooooooooooo
+  x   oooooooooooooo
+   xooxooooooooooooo
+     ooooooooxoooooo
+x    ooooooooxoooooo
+    oooooooooooooooo
+ x xoooooo ooooooooo
+
+                    
+             ooo    
+               o    
+       oo   o   o   
+         o  o       
+       o  ooo   o   
+      ooooo o       
+    x ooooo oo oo   
+     oooooooooo o   
+    ooooxooooooxo  o
+    x oooooooooooxoo
+   ooo  oooooooooooo
+    o  xooxooooooooo
+      xo ooooooooooo
+     ooooooooooooooo
+    xooxoooooxoooooo
+    oooooooooooooooo
+    ooooooooooxooooo
+   ooooooooooooooooo
+    xoooo oooooooooo
+
+                    
+            o  oo   
+       o      o     
+           o        
+        oooo    o   
+     oo ooooo       
+     ooooo oo  oo   
+     xoooo oo  oo   
+    oooooooooo o  o 
+   oooo oooooo  oooo
+      ooxooooo xooo 
+  o x ooooxooooooxo 
+   o oo xooooooooooo
+       ooooooooooooo
+    o xooooooooooooo
+    ooooxoooxooooooo
+    xo ooooooooooooo
+   ooooooooooooooooo
+   oooooooooooxooooo
+   o xoooooooooooooo
+
+            o  o    
+       o       o    
+                    
+        oo  o o     
+     o   oo oo      
+     oooooo  o  o   
+    ooooo o  oo  o  
+     ooooooooooo  o 
+   o xooooooo o oooo
+     oooooooo  xoo  
+   oxoo  xooo ooo  o
+   ooooooxoooooooox 
+  o oo ooooooooooooo
+      x xooooooooooo
+   ooooooooooooooooo
+   o  oooooooxoooooo
+  o  xooxooooooooooo
+  oooooooooooooooooo
+  oooxoooooooooooooo
+   oooooooooooxooooo
+
+              oo    
+      o     o   o   
+         o    oo    
+     o o    oo      
+     o oo ooo       
+     o oooo oo   o  
+   ooooo oo  o  ooo 
+    ooooooooooooo  o
+   oxooo ooooo xoo  
+   o xo oooo   xo o 
+    xoooxoooooooo   
+ o  xoooooxooooooo x
+ o oo x  ooooooooooo
+  o o ooxooooooooooo
+  ooooooxooooooooooo
+    oo oooooxxoooooo
+ o ooxxxoooooooooooo
+ oo oooooooooooooooo
+  oooooooooooooooooo
+  oo xoooooooxxooooo
+
+                o   
+       o      oo    
+        o o ooo     
+    o  oo ooo oo    
+    oooooooo o      
+    oooooo oooo  oo 
+   ooooooo oooooo oo
+   oxooooooooooooooo
+  oooxo ooooo xooo  
+  o   ooooooooxoo  o
+ o   xoxxoooooooooo 
+    ooooo xxoooooxxo
+o o x xooooooooooooo
+   o oxxoooooooooooo
+ o oooooooooxxoooooo
+   oo ooxooooooooooo
+o oooo xoooooooooooo
+oooooxxxoooooooooooo
+ oo oxoooooooooooooo
+ oo  xoooooox  xoooo
+
+               o    
+        o o ooo     
+       o  ooo  o    
+  oo ooo ooo o  o   
+   oooooooooooo     
+   oo ooo oooooo  oo
+  oooooooooooooo ooo
+  ooooooooooo oooo  
+ o  x xooooooo xo o 
+ o ooxoxooo ooooooo 
+  o ooooooxoo xoo  o
+    xox xoooooooxoox
+ o o ooxoooxoooooooo
+  ooo  ooooooooooooo
+   o  xooooxo xooooo
+ oooooo oooooooooooo
+ooo o x xooooooooooo
+oooox  oxooooooooooo
+o oox xooooooooxoooo
+ooo xooooooo xoooooo
+
+            oooo    
+         oo  o      
+     oooo o  oo     
+  oo oooooooo    o  
+  ooo  o ooooo o   o
+  oooooooooooo  oo  
+ oooooooooooooo ooo 
+ oooooxooooooooxo o 
+  o   oxooooooo  o  
+o   xoooo  oooooo  o
+ o oxxxoo ooooox oo 
+ o ooo   xxooooo xxo
+   ooo oxoxooooooooo
+ oo ooxooooooooooooo
+ ooooo oooxooooxoooo
+oooooo oxooooooooooo
+oooo x  xooooooooooo
+ooo  xxooooooooooooo
+oooxoooooooooxooxooo
+ooox ooooooooo ooooo
+
+         oooo   o   
+     o oo  oo o     
+  o  ooo oooo  o  o 
+  o o ooooooooo   o 
+ oooooooooooo o oo  
+ oooooooooooooooo  o
+oo oooooooooooooo  o
+oo    ooooooooooxo  
+ o oxoxox ooooooo o 
+  ooxo oooooooo oooo
+o ooo  x xxoooo o  o
+  o ox oo xooooxo ox
+ooo oo  oooooooooxoo
+oooooo xxooooooooooo
+ooooo oooxoooooooooo
+oooo  oo xoooooxoooo
+ooo o xooooooooooooo
+ooox  ooxooooooooooo
+ooo  xxoooooxooooooo
+ooo xoooooooo o xooo
+
+      oooooo o   o  
+  o   oo oooo       
+  o ooooooooooo oo  
+ oooooooooooo oooo o
+ oooooooooooooooo oo
+oooooooooooooooooooo
+o ooooooooooooooooo 
+oo oooxoxooooooo    
+o oooxoo oooooo xooo
+ooooox  oxooooooooo 
+    o  ox oxooooooo 
+ooooo  ooooxoooooo  
+o oo x  o oooooxo xx
+oo oo xooxoooooooooo
+ooo  oooxooooooooooo
+ooo  o  oooooooooooo
+oooo o x xoooooxoooo
+oox ooo oooooooooooo
+oo ox ooxooooxooxooo
+oooo xxooooo o ooooo
+
+     oooooooo   o   
+ ooooo  oooo o  oo  
+  ooooooooooo ooo  o
+ooooooooooooooooo   
+oooooooooooooooooooo
+ooooooooooooooooooo 
+ooooooooooooooooo   
+o oooxo  xooooo ooo 
+ooooo x oooooooo oo 
+oooo   o  xxooooxo o
+o oo xo  ooooooooo  
+oooo    xoooxooxo x 
+oo ox  ooooooooooooo
+oooo  ooo xoooooooox
+ooooo x oxoooooooooo
+oooo  oooooooooxoooo
+oox ooo x xooooooooo
+oo o oooxooooxoooooo
+ooo  xoooooooooxoooo
+ooo x  xooo oooooooo
+
+ ooooooooooooo  oo  
+   oo ooooo o ooo  o
+oooooooooooooooo o  
+oooooooooooooooooo  
+oooooooooooooooooo  
+oooooooooooooooooo o
+oooooooooooooooo o  
+ooooxo oooxooooooo o
+ooooox   oxxoooooo o
+ooooo   o oooooxo   
+oooo  x ooooooooo   
+oo o   ooooooooooxo 
+ooox oooxo oxooxooo 
+ooooo  o x ooooooo  
+oooo x oo xooooxoo x
+oooooooo ooooooooooo
+oooxoooo x xoxoooooo
+ooo oooxoooooooxoooo
+oo o  xxoooooooooooo
+oo x   ooooooooooooo
+
+ooooooooooooo ooo   
+oooooooooooo oooo o 
+ooooooooooooooooo oo
+ooooooooooooooooooo 
+ooooooooooooooooo   
+ooooooooooooooooo o 
+ooooxooooooooooooooo
+oooooxoooo xoooooooo
+ooooox oo ooooooo o 
+oooo oxo oxxoooooo  
+oo  o  ooooooo xo o 
+ooo o ooo oooooo   o
+ooxooooo xoxooooxx o
+oooo      ooooooooo 
+ooooxooo x xooooxoo 
+oooo oooooooooooooox
+ooo xoo   ooxooooooo
+oo ooox xxoxoooooooo
+ooo o oooooooooxoooo
+oox  o xooooooooooo 
+
+oooooooooooooooo ooo
+oooooooooooooooooooo
+ooooooooooooooooooo 
+oooooooooooooooooo o
+oooooooooooooooooooo
+ooooxooooooooooooooo
+ooooxxoooooooooooooo
+oooooooo  ooooooooo 
+oooo  oo oxxoooooooo
+oo  oxxxo  oooooo o 
+oooooooooooxooooxo o
+oo ooooooxoo o x  oo
+ooxoo o  oxooooxx o 
+ooxoo oo  oooooooxoo
+oooo xoooxoxxoooxoo 
+ooooooo  xooooooxoo 
+oo oox oooo xxooooox
+oooo   o oxxoooxoooo
+ooxo ox xooxoooxooo 
+oox o xxoooooooooooo
+
+oooooooooooooooooooo
+ooooooooooooooooooo 
+oooooooooooooooooo o
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooo xooooooooooooo 
+oooo  xo oooooooooo 
+ooooxoooooxxoooooooo
+ooooooooo xxooooooo 
+ooooo  oxooooooo o o
+oooooxxooooxooox xoo
+ooooooo  xxxooo  o o
+oxx  ooooxxoooxo  oo
+oooooxoo xooooooxxo 
+oooooxoo o  ooox xoo
+ooooo  oooxxxxoxooo 
+oooo xxooo x oooooxx
+ooooo  xxoxoxoxxooo 
+oo xo  xxoxooooooooo
+ox o x  xooxoooooooo
+
+ooooooooooooooooooo 
+oooooooooooooooooo o
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooooooooooooooooo 
+ooooxooooooooooooooo
+ooooxxooooxooooooooo
+oooooo oo o xoooooo 
+oooooooooxoooooooo o
+oooooox oxoxoooxo oo
+oooox o o   xoo  o o
+ooxoooooxx  xo o xoo
+o oooxoox  xoo x    
+oxoooxo xoooooox  x 
+ooooooooo xxxox  oo 
+oooo x oo    oooxx x
+ooooo  xo x  x ooo o
+oooo  x  x x x oooxo
+ooo x x  xooooxxoooo
+x   x    xx xooooooo
+
+oooooooooooooooooo o
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooooooooooooooooo 
+oooooooooooooooooooo
+oooxxooooooooooooooo
+ooooooxoo oxooooooo 
+ooooooooox ooooooo o
+ooooooo oxoxxoooo oo
+ooooox ooo oxox  ooo
+oooo ooo   oxo ooooo
+oooxxxoxx    o  o x 
+oooooxox ooooox     
+xooo o o o xxox     
+oooooxooxxx oo oo x 
+ooooo    o   xxx    
+oooo o  x    xooox x
+ooo x  xx x o oooooo
+o  o x   xxxo  oo xo
+ x x       x xxxooo 
+
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooooooooooooooooo 
+oooooooooooooooooooo
+oooxoooooooooooooooo
+oooooooooooooooooooo
+ooooxooo   ooooooooo
+ooooooxoo xxoooooooo
+oooooxoo o   xxooooo
+oooooooo x x x ooooo
+oooxxooxx    xoo oo 
+oooo  x  ooooo o o x
+oooooo   ooxxo x    
+ooooox x    oo o    
+xoooo x    x xx  x  
+oooooo oxx      o   
+ooooo    x  x xxo o 
+oo x  x  x x ooo x x
+oxo     x  xx x  o x
+o x       x x   xooo
+
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooxooooooooooooooo
+ooooooooo oooooooooo
+oooxoo  o xxoooooooo
+ooooooooo   ooxooooo
+ooooxoxoo o x oooooo
+ooooxo  x x   xooooo
+ooo oox  x o  xooooo
+oooxox  oo xxo  o x 
+ooooo        o  xo  
+xooox   xoo  x  o   
+ooooox      x   o x 
+ooooo  x xx x x     
+oooo o o    oo     x
+oxx    x  xxx xxo x 
+oo     x   xx     xo
+ x       x    x  xo 
+
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooxoooooooooooooooo
+ooooooooooxooooooooo
+ooooxoooo   xooooooo
+ooooooxooo o  oooooo
+oooxo  o   o xxooooo
+ooooox x x     xoooo
+oooxox  o ox   xoox 
+ooooo    x   x o o  
+xooo x       xo   o 
+oooo     x      x   
+oooox    xxx     x  
+oooo x          o   
+oxx o  x    x x     
+o  o ox    x x  xx x
+oo         x  x    x
+x       x         x 
+
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooxooooooooooooooo
+ooooxoooo  xoooooooo
+ooooooxooo ooxoooooo
+ooooo o   oooxoooooo
+oooooooxox     xoooo
+oooxx    o      xoo 
+ooxo  x  ox    oxo x
+oooo x    x x     o 
+ooooo         x xo  
+xooox     xx        
+oooo                
+oxx x     x    o x  
+o oo ox x  x   xx  x
+oo  o     x   x     
+  o          x   xx 
+ x  o            x  
+
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooxooooooooooooooo
+ooooooooo oooooooooo
+oooooxxoooxooooooooo
+ooooo x o ooo xooooo
+oooooooxox    xooooo
+ooooo    o o   xxooo
+ooxoxxx o        xoo
+oo  o   o  xx    xx 
+ooxox          o  oo
+oooo      x    x x  
+oxox      x         
+oxo x     x    o    
+oo   o     x   x    
+oox  x    x         
+  oo    x       x   
+    o         x xx  
+  xo o            x 
+
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooxooooooooooooooo
+ooooxoxooooooooooooo
+ooooxxooo  xoooooooo
+oooooxoooo o o xoooo
+ooooo   x xo   xxooo
+ooxo xx  x  o  ooooo
+oox      o xx  x  x 
+oooox  o    x      o
+ooxx x          oxx 
+oxo o    x x   xx  x
+oxx x     x      x  
+oxx           o x x 
+ooxx  o    xx   x   
+   ox     x      x  
+oo     x  x  x   x  
+     o       x    x 
+   x x x       x x  
+
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooo xoooooooooooooo
+oooxo  xo oxoooooooo
+oooxo xooooxoooxoooo
+oooo  xoxoo x  xoooo
+oooo   o o x o x xoo
+ox  x  x   xx  xooxx
+ooox     x      x  o
+ooox  xx        o   
+oo    x     x  xx  x
+x xxxo        x   x 
+x xxx    x x    x x 
+x xx    x x    x x  
+oo     o x          
+o  xx    x x x  x x 
+    x            x  
+oo xo               
+ o    x x       x   
+
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooxoooooooooooooo
+oooxo oooooooooooooo
+oooo  xoooo xooxoooo
+ooxo   xooo x oxoooo
+oooooo x xo  xoooxoo
+ooo x o o xx  x ooxo
+xoo      x   x  x   
+oox    x         x x
+oo  xxx     x    o x
+xoo           xx    
+ xxx xx    x   x x  
+ xx            x x  
+ ox x  x            
+x x x   x      x x  
+                    
+o  x     x x x  x x 
+oo  x x         x   
+o ox   x            
+
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooxxooooooooooooooo
+oooo ooooooooooxoooo
+ooxoo  xooooxxoxoooo
+oooo    xoo  o ooooo
+oooox   x xx  xooooo
+xoo  o o x   x xxx x
+oo o      x        x
+ox   x      x       
+o o           x  x  
+ xxxxxx            x
+x             x x   
+  xx   x        x   
+ x   x         x    
+   x x   x          
+x          x      x 
+oox x            x  
+o o    x x   x      
+ ox                 
+
+oooooooooooooooooooo
+ooooxooooooooooooooo
+ooo oooooooooooooooo
+ooox  oxooooxoo xooo
+oxoo oooooo   xooooo
+ooo x   xxxx xoooooo
+ooo            xxoox
+ox o  o   x   x   xx
+o o ox o x     x    
+xo                  
+ x xxx         x  x 
+     x              
+                    
+x                   
+   x  x  x          
+ x    x        x    
+                 x  
+x                   
+ ox x               
+ox                  
+
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooxxooxoooooooooooo
+ooo  oooooo  xoooxoo
+oox oo ooxx    xoooo
+ooox o x      xxxoox
+ooo        x     o  
+x o ox     x     xx 
+ o o   ox       x   
+ x x x            x 
+                    
+ x                  
+                    
+                    
+x         x         
+                    
+ x                  
+oxx                 
+o    x              
+x                   
+
+oooooooooooooooooooo
+ooooxooxoooooooooooo
+oox oooooooooooooxoo
+oo ooooooxxoxooo ooo
+oooxo o       x xoox
+oo  xoo x     x  x  
+xoooox    x     o x 
+ o oo           x   
+ox     x         x  
+    x  o         x  
+ x   x              
+                    
+                    
+                    
+                    
+ x                  
+o x                 
+x                   
+xo                  
+                    
+
+oooooooooooooooooooo
+oox oxoooooooooooooo
+oo ooooxoxooooooooxo
+oooxooo    x xo xoox
+oo o oooo      xox  
+oooo x x  x    x    
+ xoo  x          x  
+o oo             x  
+x  ox               
+o      x            
+                    
+ x   x              
+                    
+                    
+                    
+                    
+ x                  
+ x                  
+ x                  
+                    
+
+oooooxoooooooooooooo
+oxoooooooxooooooooxo
+ooooooxo xoxooooooox
+oo oxo oooo   xx    
+ooo oxox o      x x 
+oxo  x x        x   
+ooo             x x 
+ oo   x           x 
+  o                 
+x  o                
+       x            
+        x           
+                    
+                    
+                    
+                    
+  x                 
+                    
+                    
+ x                  
+
+ooooxxoooxooooooooxo
+xxooooxo ooxooooooox
+ooooooxooo xooxx    
+ooo xxo  x ooo  xox 
+oooo  xxx o    x    
+xxoox             x 
+oooo           x    
+o                   
+x  o  x           x 
+x                   
+   o                
+       x            
+        x           
+                    
+                    
+                    
+  x                 
+  x                 
+xx                  
+                    
+
+xooxooxoxooxoooooxxx
+ooxooo xoo oooxoooox
+ooooo  xoxxoo xxxo x
+ooox  x x  oo   xx x
+oo oxx   o o        
+ ox  o x       x   x
+xooo  x             
+xo             x    
+  o o              x
+ x             x    
+                    
+   o    x           
+  o    x            
+                    
+                    
+                    
+ x                  
+xx                  
+x                   
+                    
+
+ooxoo oxoo oxoooo xx
+xxooo x x xo xxxxxxx
+ooox    x oo o  x  x
+ooo    x xo  o    x 
+ooo   xxo   o  x    
+oo xxx              
+ x                 x
+ xoo  x             
+   ooo              
+              x     
+ x                  
+  o                 
+   o                
+                    
+                    
+                    
+x                   
+x                   
+                    
+                    
+
+oxoo ox x x  xxxxxxx
+ oxo     xo         
+xoo x    xo ox x xx 
+oo o  x x x ooo  x x
+oo      x   o       
+o xx  x             
+x                   
+  x o  x            
+  oo  o             
+ x                  
+  o           x     
+                    
+                    
+   o                
+                    
+                    
+ x                  
+ x                  
+                    
+                    
+
+ ox ox x    xxxx  x 
+xx oxo  x xo   x xx 
+oooo      xoo o xx  
+o o      x x x  x   
+o xx  x  x   o      
+ o   x              
+                    
+x  o                
+  x                 
+   o  o             
+                    
+  o                 
+                    
+   o                
+   o                
+                    
+                    
+                    
+                    
+                    
+
+xxoo    x  x x  xx  
+o oo x     x x  x   
+ xo x   x  x   x  x 
+oo x        xox     
+o       x           
+o x x               
+ o                  
+    o               
+x  x                
+  o                 
+  oo  o             
+                    
+                    
+    o               
+                    
+   o                
+                    
+                    
+                    
+                    
+
+  xoo  x  xx  xx    
+xxo x            x  
+o           xx      
+o x x   x    x      
+oo       x    x     
+                    
+  x                 
+ o x                
+ x o                
+   o                
+  o                 
+  o   o o           
+                    
+                    
+    o               
+                    
+   o                
+                    
+                    
+                    
+
+ xoo      x         
+  x  x              
+x   x               
+ x          x       
+o            x x    
+o                   
+ x                  
+  o                 
+   x                
+    o               
+ o                  
+       o            
+  o     o           
+                    
+                    
+    o               
+                    
+   o                
+                    
+                    
+
+  x                 
+   x  x   x         
+                    
+x x x       xx      
+ o          x x     
+o                   
+xoo                 
+                    
+  x                 
+     o              
+                    
+ o    o             
+                    
+  o     o           
+                    
+   oo               
+    o               
+    o               
+                    
+                    
+
+ xx                 
+x x   x x           
+                    
+xx         x x      
+x o x               
+ oo         x       
+xx                  
+                    
+ xx                 
+      o             
+                    
+o    o              
+ ooo                
+         o          
+   o    o           
+   o                
+     o              
+                    
+    o               
+                    
+
+x  x                
+     x              
+xxx     x    x      
+x o x       x       
+ o                  
+xx o                
+                    
+x                   
+x     oo            
+  x                 
+o    o              
+  o  o              
+         o          
+ o o                
+  oo                
+     o  o           
+                    
+                    
+                    
+    o               
+
+ x  xx              
+x                   
+x        x    x     
+o x                 
+xx o        x       
+                    
+x                   
+                    
+     oo             
+ox   o              
+     o              
+ o                  
+        o           
+  ooo               
+ o   o              
+       o            
+                    
+                    
+                    
+     o              
+
+                    
+    x               
+  x                 
+x             x     
+x o                 
+x                   
+ xo                 
+     o              
+                    
+    o o             
+ox                  
+o    o              
+  o o   o           
+  oooo  o           
+  oo                
+        o           
+                    
+                    
+    o               
+    o               
+
+                    
+                    
+ x                  
+ xo                 
+x                   
+                    
+  x                 
+                    
+     oo             
+o                   
+x   oo              
+ o o    o           
+o  ooo  o           
+ ooo                
+ oo  o              
+       oo           
+                    
+                    
+    oo              
+                    
+
+                    
+                    
+  x                 
+  x                 
+                    
+x                   
+   x                
+                    
+   oo oo            
+ o    o             
+ x o oo o           
+  o oo              
+ ooo                
+ooo  o  o           
+o      oo           
+  o                 
+                    
+                    
+    o               
+    o               
+
+                    
+                    
+                    
+ x                  
+                    
+   x                
+                    
+    o  o            
+     o              
+o  o o              
+    oo o            
+ x o  o             
+ooo oo              
+o  o   oo           
+ oo  o              
+o      o            
+                    
+    o               
+                    
+     o              
+
+                    
+                    
+                    
+                    
+ x                  
+  x                 
+                    
+     o              
+o     oo            
+o   o o             
+      o o           
+oooooo              
+ox o    o           
+  o oooo            
+o     o o           
+ oo  oo             
+o  o                
+ o   o              
+o     o             
+   oo               
+
+                    
+                    
+                    
+                    
+  x                 
+                    
+                    
+      o             
+oo   o  o           
+     o oo           
+o  o o              
+ox   oo o           
+  ooooo             
+o  o oo oo          
+o   oo o            
+o  o                
+ oo  oo             
+o    oo             
+ o  oo              
+o o                 
+
+                    
+                    
+                    
+ x                  
+                    
+                    
+      o             
+ o  o o             
+    o    o          
+ox oo ooo           
+ox  ooo o           
+    ooo  o          
+  ooo               
+ooo o  oo           
+   oo o             
+ oo o  o            
+oo  oo o            
+ o  oo              
+o  o  o             
+ o o                
+
+                    
+                    
+                    
+  x                 
+                    
+                    
+    o oo            
+    o               
+ox o  ooo o         
+     o              
+x  oo  o o          
+o ooo  o            
+oooo   o o          
+  oo oo             
+  oo   oo           
+o  o o  o           
+  ooooo o           
+o oo                
+oooo  o             
+oo    o             
+
+                    
+                    
+                    
+ x                  
+                    
+    o               
+    o o             
+o     o             
+x o      o          
+  o o oo  oo        
+  o ooo o o         
+xooo    o           
+ooo   ooo o         
+ooooo  oo           
+oo  oo   o          
+o oo  o  o          
+oooo  oo o          
+ooo oooo            
+oooo  o             
+o o o               
+
+                    
+                    
+                    
+x                   
+                    
+     o              
+     o              
+xo  oo              
+   oo    oo         
+  oooo  oo  o       
+  ooo oo o          
+oxoo oo oo          
+oooo ooo o          
+ooo oo   oo         
+o ooo o  oo         
+ooooo o             
+ooo   o             
+oooooo  oo          
+o o o     o         
+oo oooo             
+
+                    
+                    
+                    
+     o              
+     o              
+     oo             
+   ooo              
+ x o oo   o         
+  oooo  o           
+  oo oo ooo  o      
+ooooooo oo          
+ooo oooo  o         
+oxo ooo ooo         
+o ooo oo o          
+ooo  o  oo          
+oooooo   o          
+oooooo              
+ooo o     o         
+oo o o  oo          
+oooooo              
+
+                    
+                    
+     o              
+     o              
+     oo             
+   o o              
+   o oo   o         
+  x o   o           
+ ooo oo o           
+oooooo  o  ooo      
+oo  oooo  o         
+oxooo o oo          
+o oo  oooo          
+oooo o  ooo         
+oooooo o   o        
+ooooo   o o         
+ooooo o   o         
+oo o o   o          
+ooooooo             
+ooooo  oo o         
+
+                    
+     o              
+                    
+    oo              
+   o o              
+    ooo             
+    o      o        
+oo o o  oo          
+ooxooo              
+oo oooooo o   o     
+oooo oooo ooo       
+xooo oooo           
+ooooooooo           
+ooooooooo           
+oooo  o o o o       
+oooo ooo ooo o      
+oooo ooo o          
+oooooo   o          
+ooooo oo            
+oooo oo  o o        
+
+                    
+    o               
+                    
+   o  o             
+    ooo             
+   ooo   o          
+o    o  oo          
+o o oo     o        
+o  xooo o o   o     
+oooooooo   o        
+xooooooooo o        
+ooooooooo oo        
+oooooooo o          
+ooooooooo           
+oooooooooooo        
+ooooooo o o o       
+oooooo    oo o      
+oooooooo            
+oooo oo oo          
+ooo oo oo   o       
+
+   oo               
+                    
+    o  o            
+ oo o oo            
+   oooo  o          
+   oooo             
+ooo o o o o         
+o  xooo o o         
+oo oooo  o o o      
+ooooooooo o         
+oxooooooooo o       
+oooooooo ooo        
+ooooooooo           
+oooooooo oo         
+ooooooooooo         
+oooooo o ooo o o    
+ooooooo             
+ooooooo oo o o      
+ooo oo o   o        
+oooooooo o o        
+
+  oo                
+       o            
+  o  o              
+   o o              
+ ooooooo  o         
+o ooo               
+o x oooo o o        
+ooxooo o   o        
+o ooooo o o oo      
+oxoooooooo o        
+oxoooooo oooo       
+ooooooooo   o       
+oooooooo o          
+oooooooooo o        
+ooooooo ooo    o    
+ooooooo o   o o     
+oooooooo oo         
+oooooooo  o o o     
+ooooooo o oo o      
+ooooooooooo         
+
+    o  o            
+  o  o              
+ o   o              
+oo  o  o            
+oooooo              
+oox  oo   oo        
+ooooo   o ooo       
+oooxooo ooo         
+oooooooooo oo       
+oxxoooooo ooo       
+oooooooooo          
+oooooooo o o o      
+ooooooooo o         
+ooooooooo o o       
+ooooooooo  o  o     
+oooooooo o o   o    
+ooooooooooooo       
+ooooooo oooo o o    
+oooooooooo  o       
+oooooooooo o        
+
+      o             
+ o  o o             
+ooo   o             
+oo  oo  o           
+oo   oo  ooo        
+oo oo o o           
+ooxo oooooo  o      
+ooo xoooo  o  o     
+ooxoooooo oo o      
+o oooooo ooo        
+oxooooooooo o       
+ooooooooooo   o     
+oooooooooooo        
+oooooooo   oo       
+ooooooooo o oo o    
+ooooooooooooo o     
+ooooooooooo  o o    
+oooooooooo  o       
+oooooooooooo o      
+ooooooooo o o       
+
+   o   o            
+oooo oo o           
+oooo   o            
+ooooo ooo           
+oooooooooo          
+ooxooooooo o        
+ooo ooooo  oo       
+oooxooooooooo       
+oxoooooooooo  o     
+ooooooooooo  o      
+ooxooooooooo        
+oooooooooo  o  o    
+oooooooo  o o       
+ooooooooooo oo  o   
+oooooooooooo  o o   
+ooooooooooo  o   o  
+oooooooooo oo o o   
+oooooooooooo o      
+ooooooooooo ooo     
+oooooooooo o        
+
+o o oo              
+oo  oo o o          
+ooooo o o           
+ooooo ooo           
+ooooooooo  o        
+ox oooooo o         
+oooooooooooo        
+ooooxooo ooo        
+oooooooooo  oo      
+oxxooooooooo        
+oooooooooo  oo  o   
+oooooooo   oo   o   
+oooooooooooooo  o   
+oooooooooooo        
+oooooooooooo o o    
+ooooooooooooo o o o 
+oooooooooooooo   o  
+ooooooooooo   o     
+oooooooooo ooo      
+oooooooooooooo      
+
+oo oo o             
+ooooo     o         
+oooooo o o          
+oooo ooo            
+oooooooo  oo        
+ooxooooooo o        
+ooooooooooo o       
+oooooxoooo   oo     
+oooooooooooo o      
+o oooooooo  o       
+oxxoooooo ooo  o    
+oooooooooooooo   o  
+ooooooooooooo       
+ooooooooooooo   o   
+ooooooooooooo ooo o 
+oooooooooooooo o    
+ooooooooooo ooo o   
+ooooooooooooo    o  
+oooooooooooooo      
+ooooooooooooo       
+
+oooooo     o        
+ooooo oo   o        
+oooo oo   o         
+oooooooo o          
+ooxooooooo  o       
+ooooooooooo         
+oooooooooooooo      
+ooooxoooooo oo      
+ooooooooooo         
+ooooooooo oo o o    
+o oxooooooooo    o  
+oxooooooooooo       
+oooooooooooo o      
+oooooooooooooo o    
+oooooooooooo ooo o  
+ooooooooooooooo o o 
+oooooooooooooo o o o
+oooooooooooooo  o   
+ooooooooooooo       
+oooooooooooo o      
+
+ooooooo     o       
+oooo oo   o o       
+oooooooo o          
+ooooooooo o         
+ooooooooooo         
+ooxoooooooooo       
+oooooooooooo  o     
+oooxooooooooo       
+ooooooooo o o       
+ooooooooooooo o     
+oxxooooooooo   o    
+ooooooooooooooo  o  
+ooooooooooooooo  o  
+oooooooooooo oo oo  
+ooooooooooooo   o   
+ooooooooooooo  o o o
+ooooooooooooo ooo   
+ooooooooooooo oo o  
+oooooooooooooo  o   
+ooooooooooo oooo    
+
+ooooooo     oo      
+oooooooo o          
+ooooooooo o         
+oooooooo o o        
+ooxooooooo o        
+oooooooooooo oo     
+ooooooooooo o       
+ooooooooooo         
+oooxoooooooo o      
+ooxooooooooo oo     
+xoooooooooooooo o   
+ooooooooooooooooo   
+ooooooooooooooo o o 
+ooooooooooooo   o   
+oooooooooooooooo o o
+oooooooooooooo oo   
+oooooooooooooo o o  
+oooooooooooooo    o 
+oooooooooooooooo    
+ooooooooooooooo o   
+
+oooooooo o    o     
+oooooooooo  o       
+ooooooo  o o        
+ooxoooooooo         
+ooxoooooooo o       
+ooooooooooo oo o    
+oooooooooooo o  o   
+oooooooooooo o      
+oooxooooooooooo     
+ooxxooooooooooo     
+xoxooooooooooooo    
+xoooooooooooooo oo  
+ooooooooooooo   o  o
+oooooooooooooooo    
+oooooooooooooo o oo 
+ooooooooooooooo oo o
+ooooooooooooooo o o 
+oooooooooooooooo    
+ooooooooooooooo o o 
+oooooooooooooo o o o
+
+ooooooo o o oo      
+ooooooooo o  o o    
+oooooooooooo        
+oxooooooooooo       
+oxoooooooooo o      
+ooooooooooooo   o   
+ooooooooooooooo     
+ooooooooooooooo o   
+ooxooooooooo  o     
+ox  xooooooooo o    
+ xoxooooooooooo o  o
+oooooooooooooo    oo
+xoooooooooooooo  o  
+ooooooooooooooo ooo 
+ooooooooooooooooo oo
+ooooooooooooooooo o 
+oooooooooooooooo    
+ooooooooooooooo o o 
+oooooooooooooo o o o
+ooooooooooooooooooo 
+
+oooooooooo oo  o    
+ooooooooooo o       
+oxooooooooo oo      
+oooooooooooo        
+ooxoooooooooo o o   
+ooooooooooooooo     
+ooooooooooooooo o   
+oooooooooooo        
+ox ooooooooooo o    
+x oxoooooooooooo   o
+xoxooooooooooo oo  o
+xoooooooooooooo oo  
+ooooooooooooooo o o 
+ooooooooooooooooo oo
+oooooooooooooooo o  
+oooooooooooooooo   o
+ooooooooooooooo o   
+oooooooooooooo o o o
+ooooooooooooooooooo 
+oooooooooooooooooo o
+
+ooooooooooo oo  o   
+oooooooooooo        
+ooxooooooooo  o     
+ooooooooooooo o o   
+oooooooooooooo      
+ooxoooooooooo  o    
+ooooooooooooo  o    
+oooooooooooooo oo   
+x oooooooooooooo   o
+ xooooooooooooooo   
+ x xooooooooooo ooo 
+ooxoooooooooooooooo 
+xooooooooooooooo oo 
+oooooooooooooooo o  
+ooooooooooooooooo  o
+ooooooooooooooooo o 
+oooooooooooooooo    
+oooooooooooooooooooo
+oooooooooooooooooo o
+oooooooooooooooooooo
+
+oooooooooooo    oo  
+oooooooooooooo  o   
+oooooooooooooo  o   
+ooxooooooooooooo    
+ooooooooooooo       
+oooxoooooooooo oo   
+ooooooooooooo oo    
+ooooooooooooooo     
+ xooooooooooooooo o 
+  xxoooooooooooooo  
+o  ooooooooooooo o  
+ xoooooooooooooooo o
+oxxoooooooooooo oo  
+ooooooooooooooooo oo
+oooooooooooooooooo  
+oooooooooooooooo o o
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+
+oooooooooooooooo    
+oooooooooooooooo o  
+ooxoooooooooo       
+ooooooooooooooo o   
+oooooooooooooo oo   
+ooooxoooooooooo     
+ooooooooooooooo     
+ooooooooooooooooo o 
+xooooooooooooooo oo 
+ x ooooooooooooo    
+   xooooooooooooooo 
+o xoooooooooooooo   
+xooxoooooooooooooooo
+ooooooooooooooooooo 
+ooooooooooooooooooo 
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooooooooooooooooo 
+
+ooooooooooooooo oo  
+oooooooooooooo      
+oooxoooooooooo o    
+oooooooooooooo ooo  
+ooooxoooooooooo     
+oooooooooooooooo    
+ooooooooooooooooo o 
+xooooooooooooooo  o 
+o ooooooooooooooo   
+  xooooooooooooooo  
+  ooooooooooooooo  o
+xx xooooooooooooooo 
+ooooxoooooooooooooo 
+oooooooooooooooooooo
+ooooooooooooooooooo 
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooooooooooooooooo 
+ooooooooooooooooooo 
+oooooooooooooooooooo
+
+oooooooooooooo o    
+ooooooooooooo o oo  
+ooooooooooooooo oo  
+oooxoooooooooooo    
+oooooxooooooooo     
+ooooooooooooooooo   
+oooooooooooooooooo o
+ xoooooooooooooooo  
+ oxooooooooooooo o  
+oooooooooooooooooo o
+ oooooooooooooooooo 
+  ooxooooooooooooooo
+xxoxoooooooooooooooo
+oooooooooooooooooo  
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooooooooooooooooo 
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+
+ooooooooooooo o oo  
+ooooooooooooooooooo 
+oooxoooooooooooo    
+ooooooooooooooo o o 
+ooooxooooooooooo    
+oooooooooooooooooo o
+oxooooooooooooooooo 
+oooooooooooooooo    
+oooxooooooooooooooo 
+  ooooooooooooooooo 
+ooooxoooooooooooo oo
+ ooooooooooooooooooo
+ oxooooooooooooooooo
+xooxoooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+
+ooooooooooooooooooo 
+oooxooooooooooooo  o
+oooxooooooooooo o   
+oooooooooooooooo    
+ooooxoooooooooooooo 
+ooooxoooooooooooo oo
+oxxooooooooooooo o o
+ooooooooooooooooooo 
+oooxoooooooooooooooo
+oooxxoooooooooooooo 
+ooooxooooooooooooooo
+oo ooooooooooooooooo
+oxxooooooooooooooooo
+xxxxoooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+
+ooooooooooooooooo   
+ooo xoooooooooooooo 
+ooxooooooooooooo   o
+ooooooooooooooooo   
+oooo xoooooooooooooo
+oooooxoooooooooo ooo
+oooxooooooooooooooo 
+oxooooooooooooooooo 
+ooo xooooooooooooooo
+oox  xoooooooooooooo
+oooooooooooooooooooo
+oxo xooooooooooooooo
+x  xoooooooooooooooo
+o  ooooooooooooooooo
+oxxxoooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+
+oooooooooooooooo ooo
+ooxooooooooooooo   o
+ooooxooooooooooooo  
+oooooooooooooooo oo 
+ooooxooooooooooooooo
+oooxxoooooooooooooo 
+oooooooooooooooooooo
+ooooxooooooooooooooo
+oxxooxoooooooooooooo
+oooooooooooooooooooo
+ox  oooooooooooooooo
+x  o xoooooooooooooo
+o oooooooooooooooooo
+o  xoooooooooooooooo
+oooooooooooooooooooo
+oxxxoooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+
+ooooooooooooooo oooo
+ooooooooooooooooooo 
+ooxooxoooooooooo ooo
+ooooooooooooooooooo 
+oooxooooooooooooooo 
+ooo oooooooooooooooo
+oooxxooooooooooooooo
+oooooxoooooooooooooo
+o oxoooooooooooooooo
+ox  oxoooooooooooooo
+x  ooxoooooooooooooo
+  oooooooooooooooooo
+xo ooooooooooooooooo
+ooxooooooooooooooooo
+oooxoooooooooooooooo
+xo ooooooooooooooooo
+ooxooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+
+ooooooooooooooooooo 
+oooooxoooooooooooooo
+oxooooooooooooooooo 
+oooooooooooooooooooo
+ooooxooooooooooooooo
+oooooooooooooooooooo
+ooo oxoooooooooooooo
+oooxo xooooooooooooo
+oxx oxoooooooooooooo
+x  ooooooooooooooooo
+  ooo xooooooooooooo
+  oooooooooooooooooo
+ooxooooooooooooooooo
+xooxoooooooooooooooo
+oo ooooooooooooooooo
+oxoooooooooooooooooo
+oooxoooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+
+oooooooooooooooooooo
+oxooxooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooxoooooooooooooooo
+oooooxoooooooooooooo
+oooooooooooooooooooo
+oxx x oxoooooooooooo
+x  oo oooooooooooooo
+ ooo xoooooooooooooo
+oo ooo xoooooooooooo
+oo ooooooooooooooooo
+oo ooooooooooooooooo
+ oxooooooooooooooooo
+x  xoooooooooooooooo
+xooxoooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+
+oooooooooooooooooooo
+ooxxoooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooxooooooooooooooo
+ooooooxooooooooooooo
+oxooxooooooooooooooo
+x  x oooxooooooooooo
+  ooo  ooooooooooooo
+oooooooooooooooooooo
+oooooxo xooooooooooo
+o oooooooooooooooooo
+oooooooooooooooooooo
+o oxoooooooooooooooo
+ xxxoooooooooooooooo
+oooooooooooooooooooo
+xooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+
+oooxoooooooooooooooo
+oooooooooooooooooooo
+ooxooooooooooooooooo
+ooooxooooooooooooooo
+ooooooxooooooooooooo
+ooooxooooooooooooooo
+xoo oooooooooooooooo
+ xo oooooxoooooooooo
+o  xoooooooooooooooo
+oooooooooooooooooooo
+ooooo oooooooooooooo
+oooooxooxooooooooooo
+oooxoo ooooooooooooo
+ ooooooooooooooooooo
+xooooooooooooooooooo
+ooxxoooooooooooooooo
+oooooooooooooooooooo
+xooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+
+ooooxooooooooooooooo
+ooxooooooooooooooooo
+ooooxooooooooooooooo
+ooooooxooooooooooooo
+oooooooooooooooooooo
+xoo oooooooooooooooo
+oo oxooooooooooooooo
+o xooooooooooooooooo
+oo ooooooxoooooooooo
+oo xoooooooooooooooo
+oooooxoooooooooooooo
+oooooooooxoooooooooo
+ooooxooooooooooooooo
+oooooooooooooooooooo
+oxxooooooooooooooooo
+ooo xooooooooooooooo
+oooooooooooooooooooo
+oxoooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+
+ooooxxoooooooooooooo
+ooxxoooooooooooooooo
+ooooxxoooooooooooooo
+oooooxxooooooooooooo
+oooooooooooooooooooo
+xxoooooooooooooooooo
+o ooxooooooooooooooo
+ooxxxooooooooooooooo
+o oooooooxoooooooooo
+oooxoooooxoooooooooo
+oooxoxoooxoooooooooo
+oooooxoooxoooooooooo
+ooooxxoooooooooooooo
+oooooooooooooooooooo
+xxxooooooooooooooooo
+ooxxxooooooooooooooo
+oooooooooooooooooooo
+oxoooooooooooooooooo
+oxoooooooooooooooooo
+oooooooooooooooooooo
+
+ooox ooooooooooooooo
+oo oxxoooooooooooooo
+ooxo  xooooooooooooo
+oooox oooooooooooooo
+oooooxxooooooooooooo
+  xooooooooooooooooo
+xooo xoooooooooooooo
+oo  oooooooooooooooo
+ooxxxoooo xooooooooo
+ooxoooooxxoooooooooo
+oooox xooooooooooooo
+ooooooxoxooooooooooo
+oooo oxooooooooooooo
+oxxoxooooooooooooooo
+ oxoxooooooooooooooo
+xoo oooooooooooooooo
+oooxoooooooooooooooo
+ooxooooooooooooooooo
+ooxooooooooooooooooo
+oooooooooooooooooooo
+
+ooxoxooooooooooooooo
+ooo   xooooooooooooo
+oooo ooooooooooooooo
+ooxoo xooooooooooooo
+ooo xooooooooooooooo
+oo xoxxooooooooooooo
+ooo ooxooooooooooooo
+xoxx ooooooooooooooo
+ooo  xoooo xoooooooo
+ooooxoxo ooooooooooo
+ooxoooxoxxoooooooooo
+oooooo ooooooooooooo
+ooooo ooxooooooooooo
+xoox xxooooooooooooo
+o oxoooooooooooooooo
+oxo xooooooooooooooo
+oo  xooooooooooooooo
+oo xoooooooooooooooo
+oxoooooooooooooooooo
+oooooooooooooooooooo
+
+oo   xoooooooooooooo
+ooxo ooooooooooooooo
+ooooo xooooooooooooo
+ooox ooxoooooooooooo
+ooo oxxooooooooooooo
+oox   oooooooooooooo
+oo   xoooooooooooooo
+oo  xoxooooxoooooooo
+xoxoooxooooooooooooo
+oo o xo oxoooooooooo
+oxooxo x ooooooooooo
+ooooo ooxooooooooooo
+xooxoox oxoooooooooo
+ooo   oooooooooooooo
+ooo xxoooooooooooooo
+o   oxoooooooooooooo
+ox  oooooooooooooooo
+o x xooooooooooooooo
+oooooooooooooooooooo
+oxoooooooooooooooooo
+
+oooo ooooooooooooooo
+oxoo xoooooooooooooo
+ooo  ooooooooooooooo
+oox o xooooooooooooo
+oo o   xoooooooooooo
+ox  oxxooooooooooooo
+o o  oxooooooooooooo
+x o  xoooooooooooooo
+o  xxo xoooxoooooooo
+o ooo x  ooooooooooo
+oooo  ooxxoooooooooo
+oxo xo  oxoooooooooo
+oxxoo  oxooooooooooo
+oo    xooooooooooooo
+o  o oxooooooooooooo
+ox  xooooooooooooooo
+o  o xoooooooooooooo
+oxoooxoooooooooooooo
+oooooooooooooooooooo
+o xooooooooooooooooo
+
+ooo oooooooooooooooo
+xoo  ooooooooooooooo
+ooxo xxooooooooooooo
+ooo  ooxoooooooooooo
+o o o oooooooooooooo
+x  o   xoooooooooooo
+ ooo x xoooooooooooo
+   o  oxoooooooooooo
+xoxo xoooooooooooooo
+ooo x  oxx xoooooooo
+oooo  x oxoooooooooo
+xo x   oxooooooooooo
+o  x oo oooooooooooo
+oxoooo xoooooooooooo
+ox    oooooooooooooo
+o  o xxooooooooooooo
+o o   xooooooooooooo
+o oooooooooooooooooo
+ xoo xoooooooooooooo
+oxoooooooooooooooooo
+
+xo ooooooooooooooooo
+oo  oooooooooooooooo
+oxo   oooooooooooooo
+oooo xxooooooooooooo
+oooo   xoooooooooooo
+ xoo  xxoooooooooooo
+   o  oxoooooooooooo
+ oo  x ooooooooooooo
+oxox  xoxooxoooooooo
+ooo  x  o xooooooooo
+xoo    x ooooooooooo
+  x    xoxoooooooooo
+oo ooo ooooooooooooo
+xx x ooooooooooooooo
+o   oo xoooooooooooo
+ oo x  xoooooooooooo
+ ooo   xoooooooooooo
+ x ooooooooooooooooo
+oo oxooooooooooooooo
+o xooooooooooooooooo
+
+  oooooooooooooooooo
+x oo ooooooooooooooo
+xoo oxoooooooooooooo
+oooo   xoooooooooooo
+oo  o   xooooooooooo
+o x ox  xooooooooooo
+ o     ooooooooooooo
+ooox  xxoooooooooooo
+o o    xooxooooooooo
+xx     xxooooooooooo
+ o   x   oxooooooooo
+ox   ooooooooooooooo
+o o  ooxoxoooooooooo
+x   x o oooooooooooo
+x oox   xooooooooooo
+ooo    oxooooooooooo
+o oooooooooooooooooo
+o oo  oxoooooooooooo
+ox  oxoooooooooooooo
+   xoooooooooooooooo
+
+ ooooooooooooooooooo
+ xoooooooooooooooooo
+oxoo  xxoooooooooooo
+oo  o  ooooooooooooo
+o oo x  oxoooooooooo
+ x o   ooooooooooooo
+o o   x xooooooooooo
+ooo     xooooooooooo
+xo x   xxxoooooooooo
+       o xoooooooooo
+ox    oooooooooooooo
+  x  xoxooxooooooooo
+xo  xo  oooooooooooo
+  oo   o xoooooooooo
+ oo  xo  xoooooooooo
+x oo  oo xoooooooooo
+oo ooooooooooooooooo
+ox  oo  xooooooooooo
+  oo ooooooooooooooo
+oo  xxoooooooooooooo
+
+oooooooooooooooooooo
+oxxo ooooooooooooooo
+ooo ox xxooooooooooo
+ox ox  ooooooooooooo
+  x o xooxxooooooooo
+oxoo   xoooooooooooo
+oxoo   xxxoooooooooo
+o o   x xxoooooooooo
+ x xx  xxxxooooooooo
+o x    xxxxooooooooo
+ xxx ooooooooooooooo
+ x x o xxoxooooooooo
+xx x x  ooxooooooooo
+ oo   xxxxoooooooooo
+xx o xxo xoooooooooo
+oooooooooxxooooooooo
+o o ooo oooooooooooo
+ xooooooxxoooooooooo
+ox oxxoooooooooooooo
+o o xxoooooooooooooo
+
+oooooooooooooooooooo
+xooxoooooooooooooooo
+o  ox xooooooooooooo
+x x  ox xooooooooooo
+o o x oo  oxoooooooo
+x   o   xxoooooooooo
+o x    xx xooooooooo
+ox x   xxxxooooooooo
+o  x  xx   xoooooooo
+ox x      oxoooooooo
+xx xoo xxxxooooooooo
+x  x  x ooxooooooooo
+    x x x oooooooooo
+xxoo   x  xooooooooo
+  oox  x  xooooooooo
+xxooooxoo oxoooooooo
+   ooooo xoooooooooo
+o xoxxoxooxooooooooo
+x o  ooooooooooooooo
+oo x  xooooooooooooo
+
+oooooooooooooooooooo
+oo oxoxooooooooooooo
+x  x ooooooooooooooo
+    x    xoxoooooooo
+x x   x  o ooooooooo
+     o x  xooooooooo
+x  x  x  x xoooooooo
+x x    xx  xoooooooo
+ox    x     xooooooo
+x   x x  o  xooooooo
+x   x x    xoooooooo
+     x  xxoooooooooo
+   x x x xxooooooooo
+  xoo   x oxoooooooo
+xxo  o    oxoooooooo
+ oo xo x  xooooooooo
+x oox xoxoxooooooooo
+oo x  x xooooooooooo
+   o ooooooooooooooo
+x xo xoooooooooooooo
+
+ooooxooooooooooooooo
+x oxo  xoooooooooooo
+ o  x   oooooooooooo
+  x   xoxoooxooooooo
+ x   o x oxooooooooo
+          oooooooooo
+ xx x  xx   xooooooo
+      x     xooooooo
+x x  x  x   oxoooooo
+ x   x  o   oooooooo
+     x      xooooooo
+    x xx  xxoooooooo
+    o   x oxoooooooo
+   x x   xxooooooooo
+  x   o  o  xooooooo
+xxoo xx    xoooooooo
+  o    x x xoooooooo
+x xoxooooooooooooooo
+ oo   xoxooooooooooo
+ x x  xooooooooooooo
+
+xooxoxoooooooooooooo
+ o    xooooooooooooo
+o x  o ooooooooooooo
+    x  x xxo xoooooo
+x   oo    oooooooooo
+    x  x o oxooooooo
+x         oooooooooo
+x x         oxoooooo
+   x        oooooooo
+x       x    xoooooo
+       x     xoooooo
+     x      xooooooo
+   xx x   x xooooooo
+           xxooooooo
+     x o x  oooooooo
+  x     o   xooooooo
+xxoo  xoo ooxooooooo
+ oox o x xoooooooooo
+ xx  o xoxoooooooooo
+    x  xoooooooooooo
+
+ x  x xooooooooooooo
+o o   oxoooooooooooo
+ox    oxoxoooxoooooo
+     o    oxoooooooo
+    x     o oooooooo
+x    x    o  xoooooo
+ x     x ooooooooooo
+ x        ooxooooooo
+           ooxoooooo
+   x     x   ooooooo
+     x      xooooooo
+       x  x  xoooooo
+  xx         xoooooo
+          x oooooooo
+    x   x   xooooooo
+   o   oo o  xoooooo
+  x    x  oooooooooo
+xxx o   x x xooooooo
+x  x    xooooooooooo
+     x  xxoooooooooo
+
+x    xoxoooooooooooo
+oo    xxoooooooooooo
+  x  o    xoxooooooo
+        ooxooooooooo
+     x   o ooooooooo
+      x  o oxooooooo
+         o ooooooooo
+         oo oxoooooo
+ x        o xooooooo
+          xoxooooooo
+          x oxoooooo
+   x        oxoooooo
+            oooooooo
+  x        oxooooooo
+     x    xooooooooo
+      oxx  o  xooooo
+x xx     oxooooooooo
+x        xoooxoooooo
+    x   xxoooooooooo
+    x     xooooooooo
+
+      x xooooooooooo
+x    x  xoxooooooooo
+ x    o  oo oxoooooo
+       oo  xoooooooo
+    x     ooxooooooo
+         ooooooooooo
+      x  ooooooooooo
+        ooooxooooooo
+         o   xoooooo
+           xoxoooooo
+           xo xooooo
+    x       oooooooo
+           o xoooooo
+           ooooooooo
+     oo  o xxooooooo
+      x  o  oxoooooo
+xx      x  xoooooooo
+   xx     xoooxooooo
+    x     xooooooooo
+        x  xoooooooo
+
+     x   xoooooooooo
+    x o  xoooooooooo
+x x     o xxoooooooo
+ x xx oo  oo xoooooo
+         oo oooooooo
+        ooooxooooooo
+       xoo oxooooooo
+        ooo oxoooooo
+        oo   ooooooo
+         o  x xooooo
+            x oooooo
+           oo xooooo
+          oooooooooo
+         o   xoooooo
+    o  o o  oooooooo
+x    x     xxooooooo
+x  x        xxoooooo
+   x    x  xoooooooo
+           xooxooooo
+    x    x  xooooooo
+
+      x xxxooooooooo
+    xx o xxooooooooo
+xx  x oo   xoxoooooo
+x x  o  xoxxoxoooooo
+   x    oooooooooooo
+        o ooxxoooooo
+       xxooooxoooooo
+       ooo oxxoooooo
+       oooo  xxooooo
+             xxooooo
+           o  xooooo
+            x xxoooo
+            oxoooooo
+    o   o oooxxooooo
+xx  x     oxxooooooo
+       o   xxxoooooo
+   xxx     xxxoooooo
+    x   x  xxoxooooo
+     x  x xxxoxooooo
+            xxoooooo
+
+    xx xx  xoooooooo
+x     o x  xoooooooo
+  x  oo     xoxooooo
+ x x oo oo oxooooooo
+x       x xoxxoooooo
+       o oooo xooooo
+        oo oxxoooooo
+       xx ox xoooooo
+      ooo  o   xoooo
+        o      xoooo
+             x xoooo
+         o o x ooooo
+    o   o o x xxoooo
+          ox  oooooo
+  x  x   o x xxooooo
+x       o xx  xooooo
+  x x   x xx  xooooo
+          xx x xoooo
+         x  xx xoooo
+     x        xooooo
+
+x  x  ox    xooooooo
+     o x x  xooooooo
+     o  oo   xoxoooo
+  x  o   oxo xoooooo
+     o o ooo  xooooo
+        x  ox  xoooo
+       xx o   xooooo
+       o    x xxoooo
+       oo  x   ooooo
+      o  o      xooo
+        oo    xooooo
+          o    xoooo
+      oo o   x oxooo
+  x o   oox x xooooo
+x   x   ooxx   xoooo
+    x   xxxx x xoooo
+   x         x xoooo
+         x  xx  xooo
+          xx    xooo
+    x          xoooo
+
+ x  xox      xoooooo
+    oo       xoooooo
+     o   x    xoxooo
+        oooo  xooooo
+       o  xo   xoooo
+     o x xo     xooo
+            x xxoooo
+      o x  x x ooooo
+      o  o     xoooo
+       o  o    ooxoo
+       o  o    xoooo
+         o     oxooo
+     oo o x x   oooo
+ x   o  o  x   xxooo
+       oxxx  x  xooo
+            xx  xooo
+    x    x      xooo
+           x  x  xoo
+         xx      xoo
+                xooo
+
+    ox        xooooo
+    x o       xoxooo
+    o   ooo    xoooo
+         x oo  xoooo
+      ox   oo   xooo
+    o   x x    ooooo
+      o      x  xooo
+       x  x x xxoooo
+     o  o     oooooo
+        oo     xoooo
+         ooo   o xoo
+       oo x    xoooo
+    oo o        xooo
+  x    o    x x  xoo
+      o       x  xoo
+        xx    x  xoo
+                 xoo
+             x   oxo
+                xooo
+                 xoo
+
+   o  oo       xoooo
+     x  oo     x xoo
+    x     oo    xooo
+      o   xoo   xooo
+      x x      ooooo
+    o      x    xooo
+    o ox       o xoo
+           x x oxooo
+       ooo  x xooooo
+     o  oo      xooo
+       ooo o  o  oxo
+      oo   x    xooo
+      o o        xoo
+    o        x    xo
+  x  o o          xo
+       xx         xo
+                oooo
+                 xox
+                 xoo
+                  xo
+
+    o   o      xxxoo
+      xo  o      ooo
+     x   ox     oxoo
+       o     o  oooo
+     x     x  o xooo
+   o    x        xoo
+      x         xooo
+    o o  o    oooooo
+    ooooo      xxooo
+    o  oo  o   o xoo
+      oo  o    oo oo
+      ooo        xxo
+     o o   x      xo
+     o  o     x    x
+     oo  o         x
+     o           o x
+      ox         xo 
+                ox  
+                 o x
+                   x
+
+   o     o    xx  xo
+    o  x o      oooo
+       o   x   ooooo
+     x o o x  o  xoo
+               o xoo
+    o             xo
+              o oooo
+   o  xoo     o xooo
+   ooo o o       xoo
+      oo  o    x  xo
+    o   o       oxo 
+     oo  oox   oo  x
+      o o          x
+      oo          xx
+    o  o         o  
+    o    o          
+     o          o xx
+                   x
+                 x x
+                    
+
+  o o    oo  xx oooo
+         o x    o xo
+       x       ooo o
+      x   x oo o  xo
+       o o      o xo
+              o  oox
+    o         oo  oo
+  oooo x o       xoo
+       oo o   o   xo
+         oo     x  x
+      o  oo    oo xx
+    o oo  x   o o  x
+     ooo o        xx
+    o o           x 
+      o             
+   o    o       oo x
+      o          x x
+                   x
+                    
+                 x  
+
+   o    ooo    xooox
+    o       x  oxo x
+       xxo    x o o 
+      x   xxx   o xx
+         oo  o o oxo
+       o     oo o xx
+  ooo     o     oo x
+  oo  o ooo   o  xxo
+   o   x o   o    xx
+     ooooo      xxx 
+     ooxoo o  o xxxx
+     o  oo x   ox x 
+    ooo o   x   oxx 
+     o          xxx 
+       o          xx
+     oo         oxxx
+   o    o       ox x
+       o       o   x
+                 xx 
+                    
+
+  o oo  oo    o xox 
+        o     x   x 
+      x  x      xoxx
+             x    o 
+      x o x o   oxo 
+        o   o  ooxx 
+ ooo  oooo o  ooo x 
+ oooo o  o   o o  xx
+     o  o    oo  xx 
+    oooxo o   oxx xx
+    o xoooo o oxx x 
+    ooooo   x    x  
+    ooo  o x   oxx  
+      oo       x   x
+     ooo        oxx 
+  o             xx  
+  o  ooo       o    
+        o       o x 
+                x   
+                  x 
+
+      oo     o   xxx
+o o o    x   x     x
+     x  o        x  
+          x x     x 
+       o   o   oxxxo
+ ooo  x  o   ooo    
+ oo ooooo o  oo  x  
+     o oo o   o ox  
+   o  o  o   oo xx x
+   o o ooo  oox xxx 
+   o x xo  o o     x
+   oooo  o   xox x  
+   oo oo  x   o     
+       oo     x x x 
+               ox  x
+ o   ooo       x  x 
+   o            o   
+     ooo       o   x
+                    
+                 x  
+
+     oo     o     x 
+ o      x        xx 
+o   x        x     x
+        ox x   o x x
+         o    ox   x
+oo  o  oo ooooo  x  
+ o  o xo o  ooo oxx 
+ o oo  o o   o      
+     o oo o oo x    
+   oooox    oo x   x
+    o  o o  o    xx 
+  o ox oo xo  x    x
+     o oo   oo xx   
+   o     o         x
+              ox xx 
+  o oo  o       o  x
+  o  o o         o x
+     o  o       o   
+                    
+                x   
+
+      oo         x  
+     o   x  o      x
+ o x    o     x   x 
+o              xx xx
+    oo   x  ooo     
+oo    xo o  ooo x   
+o oo oo oooo o oxx  
+  o  o ooo  o o     
+o  oooo  o ooox     
+  oooo  o oo      x 
+  ooox xo  o o      
+  o   oo   x x      
+      o  o  o  x    
+    o  o  o o       
+  o    oo           
+     oo       oxoo  
+    oooo        o   
+  o oo              
+        o       x   
+                    
+
+      o  x          
+      o o  oo    x  
+oo  xo            xx
+ o          o xx    
+o          oo  o    
+ oo oo  ox oo  o x  
+ oooooxoooooo oo    
+oo oooooo o  oxox   
+  oooo oo ooo       
+o ooox  oo oo       
+oo   oo x o o o     
+ o ooooo  o o x     
+     o oo oxo       
+     ooo o          
+    o               
+o o ooooo    o  x o 
+  ooo            o  
+   oo  o            
+    o            x  
+   o    o           
+
+      oo   oo       
+ o       o          
+     x            x 
+o o o      oo       
+ o   o  o ooo  x    
+oooooo    o   o     
+o ooo oooxo  oxox   
+  ooo xooooooo      
+ooooooo oooooo      
+ o    o   ooo       
+  ooox   x o o      
+o o oo oo ox x      
+ o  o o     o o     
+     o  o o o       
+   ooooo            
+ oooo o  o    o  x o
+  o oo            o 
+  o     o        x o
+        oo          
+  o o               
+
+      o   oo        
+      o             
+oo    x  o  o       
+ o o    ooo         
+o oo  o  ooo  x     
+ oooo   o ooo  ox   
+ oooooooo oooo x    
+ooooo oo xooo       
+ooo o xo ooooo      
+o oo   o ooo o      
+oo oo     x o o     
+ o ooxo     x       
+ o      o ox o o    
+ o oo o    o o      
+   oooooo        x  
+ oo  o oo      o    
+ ooo  o oo         o
+    o             x 
+  o    o           o
+   o     o          
+
+     o   o  o       
+      oo            
+  o  x  o o  o      
+o ooooo oo          
+ oooo   oooo xoo    
+ooooo oo oooo       
+ooooooo  oooox  x   
+ooooooxoooxo o      
+oooo     ooo oo     
+oo oo    o  o       
+ooooo  o x o o      
+oo  o x    x oo     
+o  oo    o      o   
+  oooox o  xo       
+ o oooooo x     x   
+oooo oo        oo   
+ o  oo oo          o
+  ooo o o          x
+  o ooo           o 
+    o o o           
+
+      oo            
+   oxx   o  ooo     
+   oo ooo  o        
+ooooo  ooo oo       
+oooooooooooo  x o   
+oooooo  oooo x      
+oooooo ooo o        
+oooo   xooxoo o x   
+oooooo  x x o    x  
+ooooooo o  o oo     
+oo o o ox oxoo      
+o ooox   x xooo oo  
+ oooo     o         
+oooooxoooo  x       
+ooo oooo x       x  
+oooooo o o      x  x
+  ooo oo       o  ox
+ ooooooo            
+   o oo o         o 
+   o o o o        o 
+
+     xo       o     
+  o   ooo   o       
+oooox  oooo o       
+oooooo  ooo     o   
+oooooooo oo o  x    
+ooooo  ooo  x       
+oooooooooox o       
+ooooooo x xo   x    
+oooooo   o o o  x   
+oooooo ox oxoo      
+o ooo o  x x oo oo  
+ooooo   x    o      
+oooo x o o  x o     
+ooooo xoo o         
+ooooooo           xx
+ oooo ooox          
+oooooo          x x 
+  ooooo o      o  o 
+ ooooo o         oo 
+  o   ooo           
+
+  o   xo            
+oooo o ooooo oo     
+o     oooo   o      
+oooox o  o o        
+oooooooooo o o  x   
+oooooooo  x         
+oooooooo    xo      
+oooooo x x ooox     
+oooooooox o         
+ooooo o    xx oox   
+oooo o    x oo oo   
+oooo o o      o o   
+oooox   x o         
+ooooo o  o  x     xx
+ooooo x o           
+oooooooo            
+ooooooooox     x    
+oooooo o          x 
+ooo o ooo      o o  
+   ooo o         o  
+
+ooo o oxoo   o      
+oo  o oooo     o    
+oooo oo o oo        
+ooo ooo  oo oo      
+ooooxooo o  oo x    
+oooooo  o  x        
+oooooo  o     x     
+oooooox   xox       
+ooooooox   x o      
+oooo ooo  x  oo     
+ooooo o     x o x   
+oooox   x      o o  
+ooooooo  oo   o     
+oooooo            x 
+oooooxoo o  x       
+ooooooooox     x    
+oooooooo            
+ooooo o  o         x
+oooooooo o    o   o 
+ooooooo        oo   
+
+oo o oxoo o  oooo   
+oooo oooo           
+ooo oooo oo oo      
+oooooooooo ooo      
+oooooo    ox        
+oooox oo o     x    
+oooooooo  x  x      
+ooooooo   ox o      
+ooooo x   x  oo     
+oooooo x   x  oo    
+ooooxoo       ox    
+ooooo o  x  x o   o 
+oooooo   o  oo   o  
+ooooo o  o          
+oooooooooxox        
+oooooxo             
+ooooooo oo          
+oooooooo          o 
+ooooooooo    o o  ox
+oooooo o      oo    
+
+ooo ooox o  o oo    
+ooo ooo  oo o o     
+oooooooooo ooo      
+oooooo    o         
+oooox o oo  x  x    
+ooooooooo o         
+oooooooo x          
+oooooo o ox xxo     
+ooooox     x  o     
+oooox x      o  o   
+oooooo o     o  x o 
+oooooo              
+ooooo o  x  x o     
+ooooooooo o  o   o  
+oooooo              
+ooooxoooox          
+oooooooo  o         
+ooooooooo      o oo 
+oooooo o    o o     
+ooooooooo       o  x
+
+oo ooox  oooooo     
+oooooo ooo ooo o    
+ooooooooo o   o     
+oooox ooo  o        
+oooooooooo   x      
+oooooooo o          
+ooooooo o x         
+oooooxo  x x  x     
+oooooo o       o    
+oooxox     xo oox o 
+ooooo   o     o     
+ooooooo      oo     
+oooooooox    x   o  
+oooooo o            
+oooooooooxo  o      
+oooo ooo  o         
+ooooxoooo      o o  
+oooooooo      o  o  
+ooooooooo  o  o     
+oooooooo         o  
+
+oooooxoooooooo o    
+ooooooooo o     o   
+oooooooo o ooo      
+oooo oooooo o o     
+ooooxooooo          
+ooooooo o    x      
+oooooooo x    x     
+ooooo x x  x   o    
+ooooo o        o o  
+oooox  o    xoo  o  
+oooxoo   o   o      
+oooooooox    x      
+ooooooo           o 
+ooooooooo           
+oooooooo xx         
+ooooooooo o  o      
+oooxxooo oo     o   
+oooooooo     o o    
+oooooooo   o o   o  
+ooooooooo  o    o   
+
+ooooooxooo oooo o   
+oooooooo ooooo oo   
+ooooooooooooooo     
+oooooooooo o o o    
+oooxooooo o         
+oooooooo    x x     
+oooooo xx           
+oooooo x    x oo    
+oooo ox       o   o 
+ooooxxo o    xo     
+ooxxooo x   o o  oo 
+oooooooo    x     o 
+oooooooo            
+oooooooooo          
+oooooooox    oo     
+oooxoooo  x         
+oooooooooo   o ooo  
+ooooxoo oo o    ooo 
+ooooooooo   o   oo  
+ooooooo  o  o       
+
+ooooooxo ooooo o o  
+ooooooxooooooooo    
+oooooooooooo o      
+ooooooooo o o o     
+ooxxoooo o     o    
+ooooooo x o x  x    
+oooooox       o     
+oooooxx    x   x  o 
+ooooox       xx     
+oooxooxox    o   o  
+oxooooxx   o   o   o
+oooxooo o  x       o
+ooooooooo   x       
+oooooooox           
+ooooooo   x oo      
+oooooooo o     o    
+oooxxoooo   o  o  o 
+oooooooo       oo  o
+oooooooo o ooo    o 
+oooooooooo      o   
+
+oooooo xooooo o o   
+oooooooooooooo  oo  
+ooooooxoooooo o     
+oooxoooooo o   o    
+oxooooo o o x o     
+ooooooxx o o oo     
+ooooox  o      x    
+ooooo  x         o  
+oooxx        x   o  
+oooooo x x o x      
+oooxoox    x    o o 
+oxooooxoo         o 
+oooooooo            
+ooooooox    x       
+oooooooo x    oo    
+oooxxoooo   o oo    
+oooooooo o   o  o  o
+ooooooooo  oo     o 
+ooooooooo      o   o
+ooooooooo o  o o o  
+
+ooooooooxooooo  oo  
+oooooooooooo  o   o 
+ooooooooooo oo oo   
+ooo xoxoo o o       
+oooooo o o x ooo    
+oxooox  x o o  xo   
+oooox    o   o      
+ooox o  x   o   ooo 
+oooo       ox      o
+ooooxox   x     o o 
+ooooxx o  x  x      
+ooxooxoo           o
+ooooooo o           
+ooooooo             
+oooxoooxo x xo  o   
+oooooxoo oo  o  o   
+ooooooo o o   o  oo 
+oooooooo ooo o   o  
+ooooooooo oo oo  oo 
+oooooooo    ooo     
+
+oooooooooxoo oo   oo
+oooooooooooooooooo  
+oooooooooo oooooo   
+oooxoo x oox o o o  
+ooooo o x o oo  o   
+oooox  ooo o  o x   
+oxox    x           
+oox o      oxo  oo o
+oooox           o oo
+ooooox o   x    oo  
+ooo xoo    xx     o 
+oooxx o           o 
+oooooxoo o o        
+oooxooo             
+oooooox  o   x o o  
+ooooxo oo x o oo oo 
+oooooooo ooo    ooo 
+ooooooooo o ooo ooo 
+oooooooo o  o oo o o
+ooooooooo ooo     o 
+
+ooooooooooxoooooo   
+oooooooooooooooo  oo
+ooooooo oooooo o o  
+ooxoo x oo  x o o   
+oooo o o o  o oo o  
+ooox  o x o o  x    
+xox o    x o    o  o
+oo ox     o  x  o  o
+oox o          o o  
+ooo   o   x x  oo   
+ooox xoo         o  
+ooo    o   x     o  
+oooxxox   o o       
+ooxooo o       o    
+ooooxx    o x     o 
+oooooooo oox oo oo  
+ooooooooo o o oooo o
+oooooooo o oo  o o o
+ooooooooo oo oo o o 
+ooooooooooo  oo oo  
+
+oooooooooooxoooo  oo
+ooooooooooooooooo   
+ooooooxooo o oo     
+ooox o oo ox o   o  
+ooooo o x o  oo o o 
+xox  o o  oo ox     
+oxoo    x o ox oo oo
+ooo    o  o         
+oo xx     x     o  o
+ooox x o       o o  
+ooo  oo        oo   
+ooox oxo    o   o   
+ooxo o   o          
+oooox   o       o o 
+oooo  o  o x o  o   
+ooooxxo oox    oo  o
+oooooooooooo oo o   
+ooooooooo oo oooo   
+ooooooooooo oooooo o
+oooooooooooooo oooo 
+
+ooooooooooxoooooooo 
+oooooooooooooo  o   
+oooooo xo o ooo o   
+oooox ooxox ooooo  o
+xooo o o oooooxo   o
+oxo o o  o     oo   
+o o    x o  x  o    
+ox o    o  oo   o oo
+oox  xoo   x   oooo 
+oox   o       o o   
+oooo x        o  o  
+oo  oo x     o   o  
+oxoxx   o     o o   
+oooo     o          
+oooo o  oox    o  oo
+oooooooooo   oo  o  
+ooooxxooo x oooo oo 
+oooooooooooooooooo  
+ooooooooooooooooo   
+oooooooooooooooooooo
+
+oooooooooooxooooooo 
+ooooooooo oooooooo  
+ooooo xo oooooooo  o
+ooox oo  x xooxo o o
+ooooo o oo  o o o   
+x xo o xo ooooo     
+oo o  o   o     o oo
+xo     o  o x  ooo  
+oo x  x      o ooo  
+oo o  oo     o o oo 
+ooxoo x      o  oo o
+o o x         o oo  
+oxx    xo      o o  
+ooox oo oox   o o  o
+ooooooooo   oo o o o
+oooo ooooxx  oooooo 
+ooooxxxooooooooooo o
+ooooxoooooooooooooo 
+oooooooooooooooooooo
+oooooooooooooooooo o
+
+ooooooooooxoooooo   
+oooooooo oooooooo o 
+oooo xoooooooooo ooo
+ooo x  oo xoo oxo   
+xooo o x xoooo  xo  
+xxo    o  x  o    o 
+xoo oooo ooo     oo 
+o    xx       oo  o 
+oox  o      x oooo  
+o  xxo  o   o   oo o
+o o xx      o  oooo 
+oxx            o o  
+oo   o  x     o o  o
+ooxx oooo      o    
+ooox ooo ox x ooooo 
+ooooxooo   oooooo  o
+oooo  oooxxoooooooo 
+oooo xxooooooooooo o
+ooooxooooooooooooooo
+ooooooooooooooooooo 
+
+ooooooooooxxoooo oo 
+oooooooooooooooo oo 
+ooooxxxoooooooo o o 
+oooooo x xxooo  xoo 
+xxo     o x o o  xo 
+xooooo x o xo o  o  
+xx oo x ooo    o oo 
+x      x o   o oo  o
+ox x x  o o      oo 
+ooo xx o  x x ooo o 
+ox  x      o  oooo o
+oxx x         o    o
+oox  ooox    o o    
+oox  oo xo  x  ooo  
+ooxoooo  x   o o   o
+ooo  xoooxooooooooo 
+oooooxoooo xooooo  o
+oooooooxoooooooooooo
+ooooooooooooooooooo 
+ooo xooooooooooooo o
+
+oooooooooxo xoo oooo
+oooooxxoooooooo oooo
+oooo ooxoxxoooooxo o
+xoo x      oooo o oo
+  xo   x o x ooo    
+xxooo       x o ox  
+  x  x xoo    oooo  
+   x      ooo oo ooo
+x oox xo ox   ooo  o
+ox  x  oo    x o o o
+x  xx    oo  oo   oo
+o xx           ooo  
+ox  ooo  x    ooo o 
+ox  oo o x x o oo o 
+oo xoo ox   o ooo  o
+ooooo xoooo o oooo o
+ooooooxooxoooooo ooo
+oooooo  xooxooooooo 
+ooooxooooooooooooo o
+oooooooooooooooooooo
+
+oooooxoooooooxoooooo
+oooo o xoxo ooooxooo
+ooo x   x  xooo o o 
+ xoo  o  xo oooo oo 
+   x    x   x o o o 
+  xo x   o   xooo   
+x  x    x o o oo xoo
+         o   ooo  oo
+ x xxx xo  x  oooo o
+x  x     o    ooo  o
+  xx   o   o x ooooo
+x xo     x  o ooooo 
+x  ooooo    o oooooo
+xo oo o     o ooooo 
+ooooo x  x xoooo  oo
+oooxooxoxooooooo ooo
+oooooo oooxooooooooo
+oooox oxoooooooooo o
+oooooooooooxoooooooo
+ooooooooooooooooooo 
+
+ooooooooooooooxooooo
+ooooxx  x xxooo oxo 
+oooo   x    oooo o o
+x o o  ox xoxo  o  o
+  x   o  o   xoo o o
+x  x  x       o  x o
+  x    x o   oo oooo
+ x        ox oo o  o
+x x x   x    oooo   
+  x x   o  o xoo ooo
+      o  x     ooo  
+ x xo      o oooooo 
+ xxoooo     ooooooo 
+oooooo o     ooo oo 
+xoo    x  ooxooooooo
+ooooo  x xoooooooo o
+oooxo oxxooooooooooo
+oooxoo oo xoooooooo 
+ooooooooooooxoooooo 
+oooooooooooooooooooo
+
+ooooxoooooxxo oxoooo
+oooo  x  x ooooo   o
+xoo o      o    oxoo
+ o oo  x oox xo  ooo
+   xoo  x     x ox o
+  x  x        oo ooo
+   x  x    xoooo  oo
+x      o o     oo o 
+ x x      ooooo oo  
+        x     x ooo 
+          x  oooooo 
+x  ox o   o oooo   o
+o  oo       ooooooo 
+oxxoo o o  ooooooo o
+oxooo oxxo ooxoooooo
+ooox oo   xoooooooo 
+oooooo  ooooooooooo 
+ooooxooxxooooooooooo
+ooooooooooxooxoooooo
+ooooooooooooooooooo 
+
+oooxooo o   ooxooooo
+xoo o  xx xx ooooxoo
+oooo o    o  xoooo o
+   o ox xo  x o o oo
+ o  x         ooooxo
+ x            xooo o
+  x  x      xoooooo 
+ x    o   oo o o o o
+x   x    o ooo oo o 
+      ox    o  ooo  
+   o  o    oo xo o o
+   o      xoooo ooo 
+x   x      ooooooooo
+x  x ooo ooooxooooo 
+ooxx ox  xooooooooo 
+oooooo   ooooooooooo
+ooooooox  xooooooooo
+oooo ooooxoooooooooo
+ooooxoooo ooooxooooo
+ooooooooo xo ooooooo
+
+ooo xo   o ooooooxo 
+oxoo o x    x xoo oo
+ooo o xx  x x xoo oo
+ o  oo   x   ooooox 
+ x   x        oooooo
+              oo  o 
+      o      xxooooo
+           oo ooo oo
+      o o oo ooo ooo
+      x    o oooo o 
+ oo       xooooooooo
+x oox o   ooooxooooo
+     o   ooooxooooo 
+oo  xox oxoooooooooo
+xooooo   ooooooooooo
+ooxxo    oxooooooooo
+ooooooo oxoooooooooo
+ooooooox ooooooooooo
+oooooxoo ooooo xoooo
+oooooooo xo oooooooo
+
+oooo x    oo oxo  xo
+o x o x  oxx oxoooo 
+ooo ox  x    oo  o  
+o ooox  x   xoooooxx
+             ooo oo 
+      o      x ooooo
+      o    o  xo oo 
+           o oxo oo 
+     o   o oooooooo 
+       x  oooo o o o
+x  o       oooxooooo
+xoo  x o oxooxooooo 
+oo  o x  ooooxoooooo
+ o ooox  xoooooooooo
+ o  x   oxxooooooooo
+xxo xo ooooooooooooo
+ooooo oo ooooooooooo
+oooooxo xxoooooxoooo
+oooooxoo xoooooxoooo
+oooooooxxooooooooooo
+
+ooo x    ox oo x  o 
+oxo  x    x  oooo x 
+o oooxx xx  oxxooo x
+ ooxx        xoo ox 
+o o         oxo o xo
+ o   o     o xxoooo 
+         o o o  oo o
+      o  o     ooo o
+      o   ooooxooo o
+     x   oooooo ooo 
+ xo ox    xoo  xooo 
+o  o xx o oo  xooooo
+xooo ox oxooooxooooo
+ o o    oxoooooooooo
+  ox   o  oxoooooooo
+ xooxxoooooooooooooo
+xxooox  xxoooooooooo
+ooooo  o xooooooxooo
+ooooooo xooooooooooo
+oooooxx  xoooo xoooo
+
+oo xxx   xx  ooxo xo
+oxxo x xxxxxox xo   
+oooxxx   x o  xo  x 
+oo   x     ox xoox  
+oo o       o  xoox o
+      o   o    xoo o
+ o      oo   x oo oo
+       o   oo ooo oo
+        ooooo  xo o 
+    o x  oooo oooooo
+o x   x oxoo ooxxoo 
+   ox xxxxoooo xoooo
+ xooo  o x ooo xoooo
+o o    ooooooooooooo
+ x x   ooooxoooooooo
+ o x xxox  xoooooooo
+xooox     xooooooooo
+xxoooo oxooooooooooo
+oooooo   xooooo xooo
+oooox  x  xoooo xooo
+
+o o  xxxx  xox  x  x
+xo xx   x   x x  o  
+o x xx  x xox  xo   
+o ox           xx xo
+    o o     o  xxo o
+oo       o o   oxooo
+       o  o ooxo ooo
+ o        ooooo  ooo
+     o oooooo o xooo
+     x  oooooooxoooo
+o  x xxxx xoooo  xoo
+o o     o xoooxooooo
+  x x   o oooooooooo
+oo x  oo xoooooxoooo
+  x   oox   xooooooo
+xoo    x  xooooooooo
+o ox x    oooooooooo
+  ooxoo  xxooooooooo
+xxoox  x  xooooxoooo
+oooo       xoo xoooo
+
+xo ox  xx   x    o  
+o x  xxx   x x  x  x
+      xx   x  x x   
+  x x       x xx   x
+o      o         xoo
+o   o   o o oo x xoo
+o     o  oooo  xoo  
+ oo oo  o ooo  ooooo
+       oooooooo  xoo
+o   xx xooo ooo xooo
+o x      o xooxoooxo
+ ox   x x oooooo ooo
+oo x  oo  xo  oooooo
+  x   o xo oxoooxooo
+     oo  x ooooooooo
+o x   x    xoooooooo
+xo  xoo  xoooooooooo
+ x x x     xoooxoooo
+ ooxo      xoo ooooo
+xoo o  x    xoxooooo
+
+ x x x x        x ox
+   x    x x x       
+o x x        xxx x  
+oo     x   x xx     
+o       o      x  xx
+      oo oooo    ox 
+    o o oooo oo xooo
+oo  o    ooo oooo oo
+ o  x oxoooooooo ooo
+oo    xooo xoo o x  
+ xx    ox oo   oxoox
+o         xo  xoooo 
+o x   x o   oooo ooo
+o  x  oxo o oooooxoo
+    o  ox o xooooooo
+ x         oxooooooo
+ x x xx   xxoooxoooo
+  o   x   oooooooooo
+ xoox       xooooooo
+ x   ox      x xoooo
+
+          x x    xx 
+oxx               o 
+o  x       xxx    x 
+o o     o  oxx     x
+      o    o  x  x  
+o     o ooo  oo o  o
+oo o   oooo ooo o x 
+o o xo oooooooo xoo 
+o o  o ooooxooooo   
+  x    xo oo  ooo oo
+  o      xo oo   xx 
+oox    o o xooooxooo
+         o  oox oooo
+ ox   x x oooooooooo
+   o      oxoooooxoo
+ xx  x ox x  xoooooo
+  o xx     oxoooxooo
+   o x     ooooooooo
+  x  ox   o  xoooooo
+x   x         x xooo
+
+o x                 
+x  x        x     x 
+ooo              x  
+           x        
+       oooo o  ox  x
+oo   ooo oooo xoo  o
+o o o ooooooooooo  o
+oooxooooooooooooo x 
+o     oxoooox o x oo
+         o  ooo  oxo
+ ox     o   oooo  o 
+oo       xxooooxoxo 
+oo     o ooooooxoooo
+         xoxo oooooo
+ xx   x  o  oxooo oo
+     xx    ooooooxoo
+   x   o  x oooxoooo
+    o       xooooooo
+x  x x   o o  xoxooo
+     x         xooo 
+
+ x                  
+ ox              x  
+x                 x 
+  o    o ox o       
+o     oooooo  o     
+  o o oooooooo xx  x
+oooo ooo oo ooo  o  
+o   oooooooooooo   o
+  oxoo  xo   o x  xo
+o       o ooxooooo  
+oo x     x oooooooxo
+o      o ooxooxo oxo
+o         oxooooxoo 
+o     x    ooo ooooo
+x        xooo xooooo
+  xxxx    x ooo  ooo
+      oo   oxoooxxoo
+x        o  o oooooo
+    x x     o  xxxo 
+    x           xo o
+
+                    
+xx                  
+       o         x  
+oo    oooo o  o   x 
+  o   oooox o      x
+o oo oooooooooxx o x
+ o  ooo oo ooox     
+ o xooooo o oo  o o 
+oo o  o oxooo o ooxx
+oo   o  o xooxox    
+o x       o oooooo x
+ox     ooxoxxo oxxxx
+o        o ox xooooo
+x      x  xo oxoooo 
+  x   x   xxoooooooo
+           xx  ooxoo
+   x  o   ooooooxxo 
+     xx   o oo  xxo 
+     x     oo xx xoo
+    x        o   xoo
+
+xx                  
+           o     xx 
+ o    ooo  o        
+o    o  o    o o    
+ooo  oooo  o o   ox 
+ o oooooo xooxx x   
+o xxooooo ooox    ox
+o ooooooox oo o oo  
+o o o  oooxo ooo    
+o  oo o   ooooxxooxx
+ox     o   x o xx x 
+x      o  x xxxoo   
+ o     xo  x oxooxxx
+ x         xoo ooo o
+   x        xoooooo 
+  xx  o   x xoooxxo 
+      x  o xxoox xo 
+    x      o xxx  oo
+    x x   oo      xo
+     x     o  ox  xo
+
+ xx                 
+x    o      o       
+ x   o  ooo       x 
+ o    ooo   ooo o   
+o oooooooo oo  o x  
+o xoooooo  ox  x x  
+ oooxooox xox o o x 
+oooo  oox xoooooo o 
+oo oooooo ooooxo o  
+oxo  o o oo  ox xx  
+       oo x x xx x x
+ xo       xx   xx x 
+  o     x x  xxxxx  
+  x         xoooooox
+ xx          xoooo o
+   x ox  o   xox  x 
+    x     x  xxx  xo
+           xxx   o  
+     x x o  o ox   x
+      x   o        x
+
+xx          o       
+      o  o          
+      oo   o       x
+ xo oooo o ooo o    
+ooooooooo oo    x   
+oooxxooo oxoox  o   
+ooo  oox   o oox x  
+ooooooox  ooxooo ox 
+o o oooo  xoo xxx   
+  xoo o oo  x  xx  x
+o        x x   x  x 
+  x    oxx    x  x  
+   o     x        x 
+   x         xxxxx  
+         o  x xoo xx
+ xx x         x x   
+     xx    xxx  xo x
+              x    x
+         ooxxo     x
+       x o    o     
+
+         o o        
+x      o            
+  o  oooo ooo     x 
+o oooooooooo  o x   
+oxoxxooo o  o       
+ooo ooo o  x  oo    
+oo ooo  xoo  xo     
+oooooo   ox oxxx x x
+ o ooooxo     xx    
+o  x o  o  x  xx  x 
+  x o o   x   x  x  
+o      x  x         
+    o  ox    x   x  
+      o     xxx x   
+ x x      o    xxxx 
+           x x   x  
+    x      x  x  xxx
+     xx  oox x      
+             xo     
+        o          x
+
+       oo o         
+     o o   o        
+xooooo ooooooo      
+oo xooooooo  o o x  
+oo  oooooo   o o    
+oxooxooo ox  o      
+ooooooo  x o  x    x
+oooooo  o    xxx  x 
+o o oo  x xxoxxx  x 
+ oxoxoo  o   x      
+o  o  o  x        x 
+ o    xo   x        
+     o      xxx     
+                 x  
+    x o    xx   xx  
+           x   xx x 
+     x     x x x  x 
+                 xx 
+      x  oo   x    x
+       o            
+
+      oo o          
+  o o oooooooo      
+oxoxoooooo o o o x  
+o oo ooooo   o      
+o ooooooooxoo       
+oooooo  o  ooo o    
+oxooxo o  x  x    x 
+oo oooo  ox  xx  x  
+ o ox o oo  xx      
+oxo o   x     x     
+ o     ox           
+oo ooo x    x       
+ o             x    
+o     o      x  x x 
+          x         
+           x  xx x x
+    x            x  
+         oo  x   x  
+               x    
+      x o           
+
+ o   ooo ooo        
+oxo oooooo o oo  x  
+  xoooooo o ooo     
+ oooooooo      o    
+ooooooooo  xoo      
+ooooo  o o    o     
+ooooox  oo x xxo    
+ xooooo  o          
+ooo  x o  xx     x  
+  xo   x     x      
+ooooooo             
+ o      x           
+o     oo            
+                    
+o          x        
+            x       
+          o   xxx   
+       oo           
+        oo    x     
+                    
+
+  o oooooo  ooo     
+  xoooooo oooo      
+oooooooooo o   o    
+ooxoooooooo   o     
+ooooo oooo  x o     
+ooooooo o      o    
+ooooooo   x    x    
+oox  x  o           
+ oxox o xxx         
+o x o o    xx       
+ooooo  x            
+o o    xx           
+     oo             
+o                   
+ o        x         
+                    
+        o o         
+      o   o   x     
+                    
+        oo          
+
+o  oooooo  ooo      
+o  xooooooooo o     
+oooooooooooooo  o o 
+ooooooooooooxoo     
+ooxooooo  o   o     
+oooooooo o      o   
+ooxooo  ox          
+oo ox oox      x    
+oo x o              
+ox ox x  xx         
+ooo    x x x        
+ o  o xx            
+o    o              
+ o   o   x          
+oo                  
+ o                  
+         o          
+        o  o        
+      o o           
+        o           
+
+oooxooooooooo       
+oooooooooooooo o  o 
+oooooooooooox o  o  
+ooxooooooo    o     
+ooxoooooo  o o      
+ooooooo o o      o  
+ooxxx ooxx          
+o ooxo   x      xo  
+o o  oxo x          
+ooox x          x   
+ x o  x             
+o oo o   x x        
+oo o   x            
+o o     x           
+ oo  o              
+                    
+                    
+      oo o  o       
+       oo           
+                    
+
+ooxxoooooooooo    o 
+ooooooooooooxoo     
+ooooooooooo xo o  o 
+oxooooooo oo        
+oooxoooooo    o     
+ooxoooooxxoo o      
+ooo  x           o  
+ooox xoo xx      x  
+oo  o  x        x   
+ox    x             
+o ox   x            
+oo  o o x   x       
+o o   x             
+ o o  ox            
+o     o             
+  o    o            
+                    
+      oo     o      
+    o oooo          
+       o o          
+
+oxooooooooooxoo   oo
+oooxooooooo         
+oooooooooooo xo  o  
+xoooooooooo   oo    
+ooooooooooo  o      
+oxoxoo    x o    o  
+ooo o xox           
+oox   xxxx      x   
+ooo  o           x  
+x o    x            
+oox o               
+       x            
+ o o                
+ooo   x             
+ o   o              
+oo      o           
+      oo o          
+       ooo oo       
+     o              
+    o o   o         
+
+ooooooooooo  x   oo 
+oxoooooooooo  o oo  
+xooxooooooo o xoo   
+oooooooooooo  o     
+oooxooooooo  oo     
+xoooo xoxo x o      
+oo o  x     o   xo  
+oxoo   x     o      
+ooo   ox            
+ o                  
+xx   o x            
+ oo     x           
+  o o               
+oo   o              
+o o   x             
+oo     o            
+oo   o  o o         
+      o o  o        
+ o  o   o oo        
+   o   o            
+
+oooooooooooox   oo  
+o xxooooooo oo oo o 
+oxoooooooooo   x    
+oooxooooooo ooo     
+xooo oooxo oo       
+oooo o x  x o       
+o o o  x   o     x  
+xo  oo  x     o     
+oo o ox             
+x   o               
+  o                 
+ x   o   x          
+o   ooo             
+o o o               
+oo     oo           
+ooo  ox   o         
+o      o            
+o      o oo         
+  oo o   o  o       
+ o    o o o         
+
+oooxooooooo    o  o 
+ox oooooooooxoox    
+ooxoooooooo ooo   o 
+xoooooooxooo        
+oooxo o o xo o      
+oo  o o x  o o      
+oo ooo  x o         
+o oo ox        o x  
+x o o   x           
+ x o o              
+ x                  
+o   ooo x           
+o  o o              
+o      o            
+o o o     o         
+o  o  oxo           
+oo   oooooo         
+ o    o oo  o       
+ o  oooo            
+  o    o o o        
+
+oo ooooooooo  oxooo 
+xooxooooooo oo   o  
+xooxooooxooox      o
+ooooooo ooo ooo     
+ooxooo o o x        
+oooooo x    o       
+ooooo x  x o        
+xoo o     o     x   
+ x o o         o    
+ x  o         o     
+   o o              
+ o ooo              
+ooo   o             
+oo o    o           
+oo o  o    o        
+oo  o   ooo         
+     ooxooo o       
+o o ooo  oo o       
+o   o o oo          
+ o o  o     o       
+
+o ooooooooo o xooo o
+ xo xooooooo  o   oo
+oooooooxooo  ooo    
+xo xoo ooo xxo      
+oxoooooxo  ooo      
+oooooo   xo         
+ooooox    o         
+ x o       o o      
+ xx  x        o x   
+   oo        o      
+ xo ooo             
+xooo  o             
+oo o oo             
+ooooo  o   o        
+oo ooo  oo          
+o    o   oo o       
+o   oo xxo  o       
+oooooo  o  o        
+     ooo o          
+o o o   oo   o      
+
+ooooxooooooo  ox  o 
+ooxoooooooo oooooo  
+ooooooxooo oo     oo
+oxo xoooo o ox      
+oooooo  x  x  o     
+oxoooxo   x         
+oooo     o          
+x x           o     
+   oo      o o x    
+ x o xo             
+ oxo  o             
+ ooooo              
+xooo       o        
+ooooooooo           
+o ooo o oo          
+oo o  o oo   o      
+oooooox  xo  o      
+    o  o    o       
+ oooooo  oo         
+ o o ooo     oo     
+
+oooooxooooooooo ooo 
+ooxooooooooooo x  oo
+ooxoo xoooooo       
+xxoooxxo oxx  x   o 
+ooooo  xx x         
+oxxo  x   x   o     
+oox o     o         
+ x o o     ooox     
+  xo  o       x     
+    x               
+ x ooo o            
+xoxo                
+oo  o oo            
+oooo  o oo o        
+oooo oo oo          
+ooooooxo x    o     
+o  oo ooo  o  o     
+oooooo o            
+o oooooo    o o     
+o o ooo ooo oo      
+
+oooooxooooooooxooo  
+oo xoxooooooo x oo  
+xxooo  xoox  ox  o o
+ooxoxx xo x   x oo  
+oxoo     x x  o     
+ooxx   x            
+ xoo ox   x   x     
+    o o   o o       
+   x        o       
+   o          x     
+    x   o           
+ xox oo             
+xoo   o  o          
+oooooo oo  oo       
+ooo oo oox    oo    
+o ooo  oo       o   
+ooooooxo       o    
+ooooo oo   o        
+ooooooo ooo oo      
+ o oooo oo  o o     
+
+ooooo xooooooo xooo 
+oooo  xooooo x o ooo
+oo xxx  x  x x  o   
+xx x o  xx   o oo   
+o x o         x     
+o    o  xx x        
+x xx           x    
+     ox   xoo       
+                    
+   x    o           
+     oooo     x     
+oox x  o            
+ ooxo  oo o         
+xoo o o o oo        
+ooooo oo      o     
+oooooo   x    oo    
+ooooo oxo           
+ooooooo o   o  o    
+oooooooooo oo o     
+oooooo ooo   o o    
+
+oooo xoooooo  o oooo
+oo  x  xxooxx  xo   
+xxx      x     ooo  
+o x  x x  o  xx     
+ox   o              
+ o  o     x    x    
+ x   o  xx          
+x  x x     x o      
+   x    o           
+       o      x     
+     o o            
+oo   x oo o         
+ooxox  ooooo        
+ ooo oooo     o     
+xooooo  oxo    o    
+ooooo o             
+oooooox oo    o     
+oooooo o     oo     
+ooooooooooo o  o o  
+ooooooooo   ooo o   
+
+oo ox xxxoo o  xooo 
+oxx     oxx  x ooo o
+       x  o  x oo   
+x              x o  
+  xoox              
+ox   o   x          
+x    x       oo     
+    x       x       
+x   x  o            
+        o           
+o     o o           
+oo    oo o o        
+ oox xooooo         
+o ooxo o            
+oxoooooo  x   oo    
+ooooooo o o    o    
+oooooo x  o  o      
+oooooooooo   oo     
+oooooooooo o oo o   
+ooooooooo ooo  o o  
+
+ooox    oxxo x  xo o
+   x  xx      ooo o 
+xx      xx o oox o  
+             x      
+o  x             o  
+x   ox        o     
+      x     x       
+x    x              
+ x      o           
+o   x  oo           
+ o   o   o          
+ooo  x oo o         
+o o  oooooo         
+oo x oo o           
+ooooxo       oo o   
+oxoooo x ox  oo     
+oooooooooo   o o    
+ooooooooooooooooo   
+ooooooooo o o    o  
+oooooooo ooo    o   
+
+oo  x  xx  x  x  oo 
+x x  x  x    oo xo o
+        x   oo  x o 
+ x x       o  x oo o
+xo            o     
+   ox               
+       x            
+            x       
+      oo            
+o    oooooo         
+oooooo o            
+o  o  o oo o        
+oo x xo o           
+ooo o  o  o  oo     
+oooxox  o x         
+xxooooxoooo oo oo   
+oooooooooo  o oo    
+ooooooooooo  o o    
+oooooooooooo o  o o 
+ooooooooooo o    o  
+
+x x  xxxx   xo  xoo 
+    x   x     x   o 
+   x          x    o
+x         o o   x o 
+ x o         o   o o
+     x              
+     x              
+             x      
+     o  o           
+ooooooooo           
+ooo   o o o         
+ooo ox o    o       
+oo    oo o   oo     
+oooxxoo oo          
+xx  xxoooox oo o    
+oooooxxxoox   oo    
+ooooooooooo  o  o   
+ooooooooooo ooo     
+oooooooooo oo  o  oo
+oooooooooooo o  o oo
+
+ x   x       xx  x o
+  x    x         o  
+                 oo 
+ x x     o o  xx   o
+   oo        oo   o 
+     xx          o  
+             x      
+     o              
+o o   o  o          
+oo o   ooo          
+oo o x o o          
+oo    ooo           
+ooo oo  o o o  o    
+oxx  x ooo  oo      
+ ooo  xooo x  o o   
+xooox  ooo   o  oo  
+oooooxxxoox ooooo   
+oooooooooo ooo o    
+oooooooooooo o   ooo
+ooooooooooo o oo oo 
+
+  xxx x x  xx     o 
+   x          x  xo 
+                    
+ x x          x  ooo
+ x x     o o  x    o
+    x     o  xx o   
+                    
+o     o  o          
+oo     oo           
+o   o o   o         
+ooo x o o           
+oo   oo  o          
+oo oo o  o o    o   
+o  oxoxoooo    oo   
+xxxo  ooo o xooo    
+oooo  oxo xo oooo o 
+oooox  oo  ooooo    
+oooooxxoooooooo o   
+ooooooooooo o ooooo 
+oooooooooo ooo  oo o
+
+  x      xxx   x o x
+  x x x        x  x 
+   x          xx  oo
+  x x    o        o 
+  x       oo   x xo 
+ x   x       x   o  
+o    o    o  x    o 
+o    o  o o         
+o oo   oo  o        
+oo o o o  o         
+o  x ooo  o         
+o ooo   ooo         
+o oooo oooo     oo  
+ ooxo oxoo o  oo    
+    o ox o o xoo    
+xxxoxooo xooooo  o  
+oooooooo oooooo o o 
+ooooo ooooooo  ooo  
+oooooxxooo ooo  oo o
+ooooooooooo o oooooo
+
+ x    x xx      x x 
+   x       x    xo  
+    x    o    x   x 
+   x             x o
+ x       o  o   x  o
+o             x o   
+o    x     ox      o
+ ooo     o          
+ooo  oo  oo o       
+o o o o o  o        
+ oo oo  ooo         
+ooox o oooo         
+ooooo oo ooo   o  o 
+o   xoo xoo  xo     
+ oo  oo o  ooo  oo  
+  ox xox  xoooo o   
+xxooooooooooo oooo  
+oooooooooooooo ooo o
+oooooooxooooo oooo o
+oooo xooooooooooooo 
+
+                 x  
+ x       x    x  xx 
+     x    o        o
+                  xo
+x  x    o  o     x  
+oo             xx   
+   o  x  o        o 
+ooo        ox       
+o o  o  o  o        
+ ooo oo  oo         
+ooooo oooo o        
+oo  ooo ooo         
+oo x oo oo  o    o  
+ oo  xoo x o  xo o  
+ooo oo o  xoo oo o  
+ oo o xoxooooooooo  
+ ooxooooooooooooooo 
+xxoooooxooooo ooo o 
+oooooxooooooooooo o 
+ooooooooooooooooo  o
+
+              x x   
+                    
+         o       xoo
+          o        x
+ o                x 
+x  o    o  o     x  
+oo   x             o
+oo       oo ox    o 
+ ooo  o  oo o       
+oo oooo oo          
+ooooooooooo o       
+ooooo ooo       oo  
+ ox oooo  oo o    o 
+ooo o ooo x o   ooo 
+oooooxxo  ox oxoo   
+ooo  o ooxooooooo o 
+xo oxoo ooooooooo  o
+ooxoo  oxooooooooo o
+ooooooxooooooooooo o
+oooooooooooooooo    
+
+                    
+                   o
+                  xx
+         o o        
+xo                 x
+o   oxoo   oo       
+o o     ooo      x  
+oo   o  oooo  x    o
+ooooooooooo       o 
+ooooo oooo  o       
+oooo oooo   oo      
+oo ooooo oo       o 
+oooxooooooo   o oo o
+oooo ooo     o oo   
+ooo x  xoox oo x  o 
+xo oooo oooxoooooo o
+o ooxo o xooooooooo 
+oooxxooxooooooooooo 
+oooooooooooooooo oo 
+ooooo xooooooooooo o
+
+                    
+                  xx
+                    
+        o   o       
+o                   
+xo oo x oo   o   x  
+oo   o ooo o  x     
+ooooooo ooo       o 
+oooo  oooo o     o  
+oooo ooooo o        
+oo ooooo o o  o   o 
+oooxoooooo oo   oo o
+oooxooooo   oo o    
+ooo o o o o o ox    
+xo xoox oooxo  oo  o
+x ooxo o   oooooooo 
+oooxooo ooxxoooooooo
+ooox o oxooooooooooo
+ooooxo ooooooooooo o
+oooooo xooooooooooo 
+
+                  x 
+                    
+                   x
+o        o   o      
+    o xxo o         
+ox   o  o           
+oo o  ooooo  x      
+oooo  oooo o       o
+oooooooo oooo    oo 
+oo ooooo o          
+ooooooooo oo       o
+ooo xoooo o oooo  o 
+ooo xoooo  oo oxoo o
+xo ooo oooo oo x o  
+o xxoxx oox o ooooo 
+ ooxoxo oo xoooooo o
+xooooooo  xxxooooooo
+ooxoo o xxxoooooooo 
+ooooooooooooooooooo 
+ooooxoxxoooooooooo o
+
+                 x  
+                    
+o        o          
+            oo      
+o    x  x  o        
+o  oo oo o          
+oxoo   oo o   x    o
+ooooooooooo o     oo
+oo oooo  ooo    o   
+ooooooooo oo        
+oooooooo oooo oo oo 
+oooo xoo o ooo  oo  
+oooxoooo ooooo  x o 
+ ooooxxooo o  xooo o
+xo  xoooox ooooooo o
+o xoo oo    xoooo o 
+ooox xo  x ooooooooo
+xooxoooo   xxooooooo
+oooooox xxxooooooooo
+oooxo   xoooooooo o 
+
+                    
+oo               x  
+          o         
+o     o    o  o     
+o  ox oxo   o       
+oox  o  ooo  xx    o
+ooxooooo o          
+oo oooooooooo   o   
+ooooooooooooo     oo
+oooooooo oo   o     
+oooooooooooo oo oo  
+ooooooooooooo oo  o 
+oooooxooooooo ooox o
+xo xx oo  ooooooo oo
+o xoo xo  xo  xo  o 
+oooxxo  o  xoooooooo
+o o ooxo  xxoooooooo
+ooooxox    ooxoooooo
+xoox   xx ooooooooo 
+oooo o   xxoooooooo 
+
+                    
+  o       o      x  
+o     o             
+oo ox     o  o      
+oo      xoo o      o
+ox ooooo    x  x    
+ox ooo oo ooo       
+ooooooooooo      o  
+oooooooooooo o    o 
+oooooooooooo   oooo 
+ooooooooooo oooo    
+oooooxoooooooo oo  o
+oooo oooooo  ooox oo
+o o  o oooxo ooooooo
+xo xx  xo o oooxoooo
+o x ox      xooooooo
+oooxo  x x  xooooooo
+ooo  x x  ooooxoooo 
+oxx   xo xoooooooooo
+ooo o o x  xoooooooo
+
+                    
+ o       oo       x 
+oo o                
+ooox  oo o  o       
+ox ooo o x o        
+o  o o oo oo       o
+o ooooo oo  x   o   
+oxoooooooo o    o   
+oooooooooooo   oo  o
+ooooooooooo oo oo  o
+oooooxoooooooo oo oo
+oooo oooooooo oo  oo
+ooo ooooooooooo  oo 
+xo o  ooo  xooo xoo 
+o x ox  xo ooooooooo
+oxo   x   o  xoxooo 
+ooo xxx x  oooxooooo
+oo       oooxooooooo
+xo     xx xo ooooooo
+o x oox     xooooooo
+
+         oo         
+oo       o  o      x
+oooo  oo o  o       
+o   oo o            
+x oxo   o xoo       
+ oooooo oo o      o 
+oxoooo oooo  x o o  
+ooooooooooo o  o ooo
+ooooooooooooo  oooo 
+oooooooooooooooo ooo
+oooo oxooooo  oo oo 
+ooooooooooooooo ooo 
+xo oooooo o oo ooooo
+ooo ox oooooo oxooo 
+oo o  xx ooxo ooooo 
+o x x    o  o xooooo
+oxo xx   oooxo xoooo
+ooo    x oxo oxooooo
+o   o    x   ooooooo
+x  xox       xooooo 
+
+oo      oo          
+oooo   ooo   o      
+o o oo              
+xoo   o     o       
+    xo ooo x o      
+ooooooooo o o    o  
+xoooooooooooo x o oo
+ooooooooooooo o oo  
+oooooooooooo  o oooo
+oooooooooooooooooo  
+oooooxooooooooo ooo 
+oooooooooooooooooooo
+oxoooxoo ooooooooo  
+oooo  xooooxooo xooo
+o xox   xo  ooxooo  
+oo   x ooooox oxoooo
+o  x     oo oo  oooo
+ox    x ox x  oxooo 
+xoo  x      o oooooo
+    x         xooooo
+
+o o    ooo          
+ooo  o o    o       
+xo o  oo            
+oo  o   o           
+o oo xoo    x       
+oooooooooooooo o  o 
+oooooooooooo x  oo  
+xooooooooooo o  oooo
+ooooooooooooooooooo 
+ooooooooooooooooooo 
+ooooooxooooooooooo o
+oooooxoooooooooooooo
+oooo oxooooxooooo oo
+oxo x  ooooooooooxoo
+ox     ooooox  xoooo
+o ox  x xooooo oxooo
+oo     xo  x ooxooo 
+x      x   o ooooooo
+ x x     x o  xooooo
+  ox x       ooooooo
+
+oooo ooo  o o       
+xo    ooo           
+o o    o o          
+ ooo ooo            
+ooooooooo oo o   o  
+oooooxooo  ox   oo o
+ooooooooooooo oooo  
+ooooooooooooox oooo 
+xoooooooooooooo oooo
+oooooooooooooooooooo
+ooooooxoooooooooo oo
+oooox xooooooooooooo
+oxoxxo xooxxoooooooo
+ox o oooooooo ooooo 
+oxx    ooooo xxo xoo
+ooxx   xooox oo oxoo
+  o   x xo   oo oo o
+ xxx      o  oxxoooo
+  x  x  x o  ooooooo
+ ox         ooooooo 
+
+oo  oooo  oo o      
+o oooooo            
+xo oooooo    o      
+oooooooooo          
+oooooooooo oo o o o 
+oooooxxooooox  oooo 
+oooooooooooox   oooo
+ooooooooooooo ooooo 
+oooooooooooooxoooooo
+xoooooxooooooooooooo
+ooooxxoooooooooooooo
+oooo o xooooooooooo 
+xox  xoxoooo oooooo 
+x   o oxooxx ooooooo
+o  x ooooooxx oxxxoo
+ xx     xo x xo xxxo
+o xx     xo o  oooo 
+xxx   x   x o xxxooo
+ox   x  x  oo xoooo 
+o  x x  x  oooooooo 
+
+ooooooooo o   o     
+ooooooooo o         
+ooooooo oo    o     
+xoooooooo  o      o 
+oooooxoooooox  ooo  
+oooooooxooo    ooooo
+oooooooooooo   oo   
+ooooooooooooxooooooo
+xoooooooooooooxooooo
+oooooxooooooooooooo 
+ooox ooxooooooooooo 
+ooxo xoxoooooooooo o
+ x o  xooooxoooooooo
+     o ooo x oooxooo
+x   x  xxoxx xx   x 
+oxx  oo       xo  ox
+ xx       x  o  xxoo
+x  x     x o x  ox o
+x x x    x o o xooo 
+ o        oo  xooo o
+
+oooooooo ooo   o    
+ooooooooo           
+ooooooooo o         
+xooooxooo oo  o oo  
+xooooooxooo  xooo o 
+oooooooooooo  o ooo 
+oooooooooooo oo oooo
+xooooooooooo oo oo o
+xoooooooooooxoxxooo 
+ooooxooooooooooooo o
+oox xxxxoooooooooooo
+oxo  o ooooooooooooo
+o    o xoo  xooooooo
+ o o  oxxox oxx oo  
+ x      ox  x  oxo x
+x  xxo    x  o xo xo
+x    o    oo      x 
+xxx     xxo     x o 
+          o  x  xx o
+o   x   oo oo  xo oo
+
+oooooooooo          
+oooooooooo o   o o  
+xooooooooo o    oo  
+xoooooxxooo   oo oo 
+oooooooooooo ox oooo
+ooooooooooooooooooo 
+xoooooooooo ooooooo 
+ooooooooooooxooooooo
+oxoooooooooooo oxooo
+ooxxxxxoooooooxooooo
+oo o o ooooooooooooo
+o x    xoooooooooooo
+ o o    xox oxxooooo
+  o  oxo x     oooo 
+x  x  oox  x xo     
+x    x     o ox xx x
+    o     x         
+   o      x      xx 
+xx  x   xo o      oo
+ o     o  oo xx xxo 
+
+ooooooooooo    o    
+xooooooooooo   oo o 
+ooooooxxooo o   ooo 
+oxoooooooooo o  oo  
+oooooooooooooo ooooo
+ooooooooooooooxooooo
+oooooooooooooooooooo
+xooooooooooooooooooo
+ooxoxxxoooooxooooxoo
+ox    oooooooooooooo
+oo xo ooooooooxooooo
+ x      xoxooxxoooo 
+o o    o x o ooooo  
+xo x x    x oxooo  o
+     oo  x   o   xox
+    o x   xxox      
+                x   
+  o             x oo
+         xx o x x x 
+xx    o  o  x     x 
+
+xooooooooooo  ooo   
+ooooooooooooo o oo  
+oooooxooxooo o  oo  
+xooooooooooooo oo oo
+oooooooooo o  o oooo
+oooooooooooooooxooo 
+oooooooooooooooooooo
+ooooxxoooooooooooxoo
+xx x  oxoooxoooooooo
+o     ooooooooooooo 
+o o xo ooooooxxoooo 
+x      xo  xxooooo o
+ o    o x x oooo    
+ xx   o     o  o oox
+     x      oxoo  x 
+  oo x   x  x x x   
+                x o 
+                  x 
+ xo         xx    x 
+       o xx     x   
+
+oxoooooooooooo oo   
+oooooxoooooo o oo o 
+ooooooooooooo o o oo
+oxooooooxo o  o oo  
+ooooooooooooooooooo 
+oooooooooooooooooo o
+ooooxooooooooooxoooo
+oxoo  xooooooooooooo
+  x  oooooxooooooxoo
+x   oo xoooooxoooooo
+xo o xooooox  ooo o 
+oo      x   oxxooooo
+  x    x x     oooox
+x          ooxoo ox 
+      x     xo   o  
+    x     x    x xo 
+  oo                
+       o       o x  
+  x    o xx   x     
+            x  x  x 
+
+xoooooooooooo ooooo 
+ooooooooooooo o oo o
+oxoooxoooooooooooo o
+ooooooooooooooooooo 
+ooooooooxooooooooo o
+oooooooooooooooooooo
+oooxooooooooooooxooo
+o x  xooooxooooooooo
+x  xooooo oooxooo x 
+ o o oxoooooooooooo 
+  o   xoo   xxxo  oo
+x x  o x  oo  ooooo 
+x     x       oooo  
+       x x o ox ox x
+       x   x    o   
+  ox          x   x 
+    o               
+     o  o       x   
+             x      
+  x    o x   x     x
+
+oooooooooooooooooooo
+xoooooooooooooooooo 
+ooxoo xooooooooooo  
+ooooooooxooooooooo o
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooxooooooooooooooooo
+oxx ooxooxooooooxoo 
+ x   oooooooo xooo o
+x oxo xxoooooxxo  x 
+xoxx  xxoo x xo ooo 
+xx    xxxo   ooooo o
+           o oxoo o 
+  o   x     o x o x 
+  o   x  x  xo   xx 
+   x        o  x    
+   o o          x   
+             x      
+   x    o           
+   x    xx          
+
+ooooooooooooooooooo 
+ooooooxooooooooooo o
+xoooooxoxooooooooooo
+ooxoooooxooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oxxoooooooooooooooo 
+x  xooxooxxoooooxx o
+x o o xoooooox xoox 
+ x  xxx xooo   xoo o
+ xx     xoxxo x xo o
+  x  xx  x xooxooooo
+ x    x    oo o  o  
+   o  x    o x     x
+      x   o x o xxx 
+  xo        xxxx   x
+      o       xx    
+        o       x   
+   xx    x          
+       x            
+
+ooooooxooooooooooo o
+ooooooooxooooooooooo
+ooooooooxooooooooooo
+xooxooxooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+x  xoooooxoooooooxoo
+xx  xxoooooxoooo ooo
+ xoo x xo oox x xoox
+       x xxooox x oo
+x  xx    x  xox  xo 
+ x xxx  x  oxoo ooo 
+             xo o ox
+  o       o x    xx 
+         o     x    
+   x  x        xx   
+      o     xx     x
+    x o o     xx    
+        x           
+        x           
+
+ooooooooxooooooooooo
+ooooooxooooooooooooo
+xooxooxooooooooooooo
+xooxooooxooooooooooo
+oooooooooooooooooooo
+xooxoooooooooooooooo
+xoooxoooo xxoooo ooo
+x x   xxoooo o  oxo 
+  x x  x xxxoxxx oox
+   x x      ox   xox
+ x   x    xo x  o o 
+   x  x  x   xx  xo 
+ xox      oo  x  x  
+             x     x
+               xx x 
+  x      o     x   x
+      x    x  x     
+     x oxo          
+              x     
+       x            
+
+oooooooo xoooooooooo
+xooooxxooooooooooooo
+ooo xooooooooooooooo
+oxo xooxoooooooooooo
+oooooooooooooooooooo
+ xooxooooooooooooooo
+ xxxooxoooooooooooo 
+     o  xxxxoxxoooxx
+xx   x  x   x   xo  
+  x x     x   x   x 
+    x      xx  o o x
+ x      x  o xx   x 
+  x          x    xx
+          o         
+             x   x  
+ x      o       x   
+       x ox         
+      o  x    x     
+                    
+                    
+
+oooooxo xooooooooooo
+ooooo oooooooooooooo
+xxoo xxooooooooooooo
+oooo xxooooooooooooo
+oooooooooooooooooooo
+o xo xooooooooooooo 
+ x  xo xxxxooxooooox
+ x  o   x   x  xxx  
+  x x      x   o    
+x    x   x     o x x
+  x        x        
+           xxx   x x
+ x            x     
+         oo       x 
+        o   x       
+  x              x  
+      x o           
+          x         
+      o             
+                    
+
+oooox oooooooooooooo
+xooo  xoxooooooooooo
+ooxox  ooooooooooooo
+oooooooooooooooooooo
+oo o xxooooooooooooo
+ x  oooxxxxooxoooooo
+  xo x    oo  ooxo  
+x   x      x xo   xx
+   x x  x      x    
+          x   o   x 
+xx          xx     x
+ x         x    x   
+           x        
+        o  o  x     
+       o          x 
+        o           
+       x            
+         x          
+      oo            
+                    
+
+xooxooooxooooooooooo
+ooo x  xoooooooooooo
+oxo  ooooooooooooooo
+ooo  xxooooooooooooo
+o o oooxxxoooooooooo
+x  oo      xo xooooo
+   xx o   o oo   xxx
+     x    x   xx    
+x                   
+             x      
+           x      x 
+  x            x    
+                    
+           x        
+     oo o           
+       x            
+                    
+          x         
+     oo             
+                    
+
+oxo x o oooooooooooo
+ox   xo xooooooooooo
+o oooo xoooooooooooo
+o   o  xxooooooooooo
+xooooxx   xooooooooo
+  oxx o     xo xooxx
+       o  xo oxxx   
+    x       o       
+                    
+              x     
+                 x  
+                x   
+                    
+     oo             
+           x        
+        x           
+                    
+     o              
+                    
+      o             
+
+o xx  oooooooooooooo
+x ooo    xoooooooooo
+ooooox xxooooooooooo
+x ooox   xoooooooooo
+ oox      xxxoooooxx
+ o x  x     o xxx   
+  x x o   xxox      
+     x       o      
+               x    
+               x    
+               x    
+                    
+                    
+    o     xx        
+      o x           
+                    
+                    
+                    
+     o              
+       o            
+
+ o xoooooxoooooooooo
+o xxo xx xoooooooooo
+xooox   xxoooooooooo
+xxoxx    xxxooooooxx
+oo  o    x   ooxoox 
+ ox   x   x xx   x  
+      x     xx    x 
+  x x x   x  x      
+               xx   
+                    
+                x   
+                    
+          xx        
+     oo             
+        xx          
+                    
+                    
+                    
+      o o           
+       oo           
+
+o   xoxx  xooooooooo
+ xooxo  x xooooooooo
+ x x x    xoooooooox
+        x   xooxox  
+xxx x     x xxooo  x
+     x   x        x 
+ ox  x    x x    x  
+         x  x x x   
+      x             
+                    
+                 x  
+     o              
+     o   x          
+      oox           
+        x           
+                    
+                    
+      o             
+       o            
+      o  o          
+
+xxo  xx x  xoooooooo
+xxo  xxx   xooooooox
+    x x    xxooxooox
+xx  x    x  xxoxo x 
+   xxx   x   x   ox 
+     x    x   oo   x
+o        x xx x x x 
+                    
+         x          
+                    
+     o          x   
+                    
+          x         
+     o   x          
+      ox            
+                    
+                    
+     o o            
+         o          
+     o              
+
+x x x  x    xoooooox
+  x  xx x   xoooooo 
+xx x x x    xxxooox 
+   x x    xx  x xx  
+x     x       xoo  x
+    x x     xo    x 
+ o        x         
+           x  x     
+                    
+                    
+    o               
+                    
+     o              
+      o   x         
+                    
+       x            
+       oo           
+    o    o          
+                    
+    o               
+
+ x x xx      xoooox 
+    x  x     xoooooo
+  xxx x    xx  xxx  
+xx        x  x  oo  
+    xx         x x  
+x o          x      
+  o                 
+                    
+                    
+                    
+   o                
+                    
+                    
+     o o            
+                    
+                    
+       x o          
+         oo         
+  o oo              
+     o              
+
+  x x         xoox  
+ x  x      x  xxxo  
+ x           x    oo
+    x      xx    x  
+x               x x 
+  oo          x     
+                    
+                    
+                    
+                    
+ oo                 
+       o            
+       o            
+      o             
+       o            
+                    
+        x o         
+     o     o        
+   o     o          
+    o o             
+
+ x             xx   
+              x  x  
+              x  xo 
+ x           x      
+  oo        x    x  
+             x  x   
+                    
+                    
+                    
+ o                  
+ o                  
+       oo           
+      o             
+                    
+        o           
+                    
+         o          
+        x           
+     oo    o        
+   o o   o          
+
+              xx    
+             x  x   
+             x    x 
+                    
+ o  o               
+               x    
+             x      
+                    
+                    
+  o                 
+o                   
+      oo            
+       o            
+        o           
+                    
+         o          
+         o          
+     o x            
+   ooo      o       
+      o   o         
+
+                    
+            x xx x  
+                 x  
+             x      
+oo   o         x    
+    o               
+                    
+               x    
+                    
+o                   
+  o   o             
+        o           
+                    
+       ooo          
+         o          
+                    
+          o         
+    ooo             
+      o      o      
+   oooo   oo  o     
+
+                    
+              x x   
+            x x x   
+o    o      x       
+o                   
+     o              
+                    
+                x   
+ o                  
+ o                  
+   o o   o          
+  o   o  o          
+                    
+     oo o           
+        o o         
+          o         
+      o             
+   oo o      o      
+   oo     o         
+    o  o    o  o    
+
+                    
+            x       
+o    o         x    
+                    
+ o          x       
+      o             
+                    
+                    
+oo                  
+                    
+    o     o         
+     o oo           
+  o  oo             
+       o  o         
+       o  o         
+                    
+     o              
+  oo o              
+   oo o    ooo      
+        o     o     
+
+            x       
+                    
+ o  o          x    
+                    
+    o               
+ o                  
+      o             
+oo                  
+                    
+    o               
+         o          
+    oooo            
+       o   o        
+  o    oo oo        
+          o         
+     o              
+     o              
+   oo       o       
+  oo   oo o         
+   oo        ooo    
+
+                    
+                    
+o             x     
+ o  o               
+     o              
+ o                  
+ o   o              
+o     o             
+o                   
+         o          
+    o  o            
+   oo               
+  o   ooo oo        
+  oo   o oo         
+        o           
+     oo  o  o       
+    oo      o       
+  o  o o oo         
+oooo   o       o    
+    oo  o oooo      
+
+                    
+                    
+    o               
+o    o        x     
+ o                  
+  o                 
+o o o               
+ o     o            
+o   o               
+o   o  o  o         
+       ooo          
+  o  oooo           
+   o  oo oo         
+  o  o  o  o        
+  o  o   o          
+          ooo       
+  o oooo  o         
+o ooo   o           
+          oo  o     
+ o o  oo o oo       
+
+=== SUMMARY ===
+Command run: ./PA520 5 100 1000 1 0
+Number of steps: 289
+Total number of ants: 5103
+Active number of ants: 72
+Total number of doodlebugs: 637
+Active number of doodlebugs: 0
+                    
+    o               
+      o             
+      o             
+o o                 
+oo                  
+   o o              
+o                   
+ o   o o            
+ o o    oo          
+     ooo  o         
+   o ooo            
+        o  o        
+ o ooooo o  o       
+   o    o           
+  o o o  o   o      
+  ooo   o  o        
+         oo         
+o  oo  o ooo        
+o    o    oo  o     
+
+]0;agupta@lambda:~/Documents/education/wpi/cs2303/projects/project4[agupta@lambda project4]$ exit
+
+Script done on 2018-09-29 18:40:45-04:00
