@@ -1,3 +1,4 @@
+#include <iostream>
 #include <cstdlib>
 #include "organism.h"
 
@@ -19,5 +20,8 @@ int Organism::getX() {
 
 int Organism::getY() {
 	return -1;
+}
 
+void Organism::step() {
+	std::cout << "ID: " << getId() << std::endl;
 }

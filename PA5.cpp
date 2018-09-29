@@ -47,6 +47,7 @@ int main(int argc, char **argv) {
 
 	Game* g = initGame(*config);
 	g->printGame();
+	g->step();
 
 	return 0;
 }

@@ -1,3 +1,4 @@
+#include <unordered_set>
 #include <iostream>
 #include "game.h"
 #include "config.h"
@@ -57,6 +58,11 @@ Game::Game(Organism*** b, Config &conf) {
 	board = b;
 	config = conf;
 	turn = 0;
+
+	totalAnts = config.getInitAnts();
+	activeAnts = totalAnts;
+	totalDoodlebugs = config.getInitDoodleBugs();
+	activeDoodlebugs = totalDoodlebugs;
 }
 
 void Game::printGame() {
@@ -75,4 +81,19 @@ void Game::printGame() {
 	}
 
 	std::cout << std::endl;
+}
+
+int Game::step() {
+	std::unordered_set<long int> processedIds;
+
+	for(int i = 0; i < config.getGridSize(); i++) {
+		for(int j = 0; j < config.getGridSize(); j++) {
+			if(board[i][j] != NULL && !processedIds.count(board[i][j]->getId())) {
+				board[i][j]->step();
+				processedIds.insert(board[i][j]->getId());
+			}
+		}
+	}
+
+	return totalDoodlebugs + totalAnts == 0;
 }

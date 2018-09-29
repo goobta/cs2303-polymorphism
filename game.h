@@ -7,8 +7,12 @@
 class Game {
 	private:
 		Organism*** board;
+		Config config;	
 		int turn;
-		Config config;
+		int totalAnts;
+		int activeAnts;
+		int totalDoodlebugs;
+		int activeDoodlebugs;
 	public:
 		Game(Organism*** b, Config &conf);
 		Organism*** getBoard();
