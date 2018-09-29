@@ -23,7 +23,9 @@ class Game {
 		void addNode(int x, int y, Organism* o);
 		void moveNode(int xOld, int yOld, int xNew, int yNew, Organism* o);
 		Organism* getNode(int x, int y);
+
 		bool isEmpty(int x, int y);
+		bool preyAt(int x, int y);
 
 		void incrementAnts();
 		void decrementAnts();
@@ -34,4 +36,5 @@ class Game {
 };
 
 Game* initGame(Config &config);
+
 #endif

@@ -26,7 +26,7 @@ int DoodleBug::getY() {
 }
 
 void DoodleBug::step() {
-	//move();
+	move();
 	breed();
 	starve();
 	
@@ -63,4 +63,42 @@ void DoodleBug::starve() {
 	
 	game->decrementDoodleBugs();
 	game->deleteNode(x, y);
+}
+
+void DoodleBug::move() {
+	int moves[][2] = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+
+  std::random_device rd;
+  std::mt19937 g(rd());
+
+	std::shuffle(std::begin(moves), std::end(moves), g);
+
+	for(int i = 0; i < 4; i++) {
+		int x_coord = x + moves[i][0];
+		int y_coord = y + moves[i][1];
+
+		if(game->preyAt(x_coord, y_coord)) {
+			game->deleteNode(x_coord, y_coord);
+			game->moveNode(x, y, x_coord, y_coord, this);
+			x = x_coord;
+			y = y_coord;
+			
+			hungerSteps = -1;
+			
+			return;
+		}
+	}
+	
+	for(int i = 0; i < 4; i++) {
+		int x_coord = x + moves[i][0];
+		int y_coord = y + moves[i][1];
+
+		if(game->isEmpty(x_coord, y_coord)) {
+			game->moveNode(x, y, x_coord, y_coord, this);
+			x = x_coord;
+			y = y_coord;
+
+			return;
+		}
+	}
 }

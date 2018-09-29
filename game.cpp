@@ -138,3 +138,11 @@ void Game::deleteNode(int x, int y) {
 	delete board[y][x];
 	board[y][x] = NULL;
 }
+
+bool Game::preyAt(int x, int y) {
+	if(x < 0 || x >= config.getGridSize() || y < 0 || y >= config.getGridSize()) {
+		return false;
+	}
+
+	return board[y][x] != NULL && board[y][x]->isPrey();
+}

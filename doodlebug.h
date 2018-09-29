@@ -13,7 +13,7 @@ class DoodleBug: public Organism {
 		Game* game;
 
 		void breed();
-	//	void move();
+		void move();
 		void starve();
 	public:
 		DoodleBug(int x, int y, Game* g);
@@ -21,7 +21,7 @@ class DoodleBug: public Organism {
 		bool isPrey();
 		int getX();
 		int getY();
-	//	~DoodleBug();
+		~DoodleBug();
 };
 
 #endif

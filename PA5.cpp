@@ -46,8 +46,11 @@ int main(int argc, char **argv) {
 	}
 
 	Game* g = initGame(*config);
-	g->printGame();
-	g->step();
+
+	for(int i = 0; i < config->getTimeSteps(); i++) {
+		g->printGame();
+		g->step();
+	}
 
 	return 0;
 }
