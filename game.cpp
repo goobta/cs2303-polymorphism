@@ -92,7 +92,6 @@ int Game::step() {
 			if(board[i][j] != NULL && !processedIds.count(board[i][j]->getId())) {
 				processedIds.insert(board[i][j]->getId());
 				board[i][j]->step();
-				std::cout << "Here" << std::endl;
 			}
 		}
 	}
@@ -113,8 +112,24 @@ void Game::addNode(int x, int y, Organism* o) {
 }
 
 void Game::moveNode(int xOld, int yOld, int xNew, int yNew, Organism* o) {
-	std::cout << xOld << " " << yOld << " " << xNew << " " << yNew <<std::endl;
-
 	board[yNew][xNew] = o;
 	board[yOld][xOld] = NULL;
+}
+
+void Game::incrementAnts() {
+	totalAnts++;
+	activeAnts++;
+}
+
+void Game::decrementAnts() {
+	activeAnts--;
+}
+
+void Game::incrementDoodleBugs() {
+	totalDoodlebugs++;
+	activeDoodlebugs++;
+}
+
+void Game::decrementDoodleBugs() {
+	activeDoodlebugs--;
 }

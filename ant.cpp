@@ -26,7 +26,7 @@ int Ant::getY() {
 
 void Ant::step() {
 	move();
-	//breed();
+	breed();
 	timeSteps++;
 }
 
@@ -43,7 +43,6 @@ void Ant::move() {
 		int y_coord = y + moves[i][1];
 
 		if(game->isEmpty(x_coord, y_coord)) {
-			std::cout << "Here" << std::endl;
 			game->moveNode(x, y, x_coord, y_coord, this);
 			x = x_coord;
 			y = y_coord;
@@ -69,6 +68,7 @@ void Ant::breed() {
 
 		if(game->isEmpty(x_coord, y_coord)) {
 			game->addNode(x_coord, y_coord, new Ant(x_coord, y_coord, game));
+			game->incrementAnts();
 
 			timeSteps = 0;
 			return;

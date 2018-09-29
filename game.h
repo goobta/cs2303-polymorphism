@@ -25,6 +25,11 @@ class Game {
 		Organism* getNode(int x, int y);
 		bool isEmpty(int x, int y);
 
+		void incrementAnts();
+		void decrementAnts();
+		void incrementDoodleBugs();
+		void decrementDoodleBugs();
+
 		void printGame();
 };
 
