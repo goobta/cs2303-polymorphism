@@ -46,7 +46,6 @@ int main(int argc, char **argv) {
 	}
 
 	Game* g = initGame(*config);
-	std::cout << "We in Niggas" << std::endl;
 	g->printGame();
 
 	return 0;
